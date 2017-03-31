@@ -1,0 +1,1399 @@
+fid,name,dob,height_inches,weight_lbs,association,division,country,reach_inches,strike_offense_per_min,strike_offense_accuracy,strike_defense_per_min,strike_defense_accuracy,takedowns_per_fight,takedowns_accuracy,takedowns_defense,submissions_per_fight,wins,losses,draws,total_fights,win_pct,finish_pct
+230,John Lewis,1969-07-16,72,160,Lewis,Welterweight,United States,,,,,,,,,,0,1,0,1,0,0
+16635,Tom Speer,1984-08-20,71,170,,Welterweight,United States,,,,,,,,,,0,2,0,2,0,0
+95457,Marcio Alexandre Jr.,1989-05-03,73,170,Team Tavares,Welterweight,Brazil,,,,,,,,,,0,3,0,3,0,0
+3069,Mike Thomas Brown,1975-09-08,66,145,American Top Team,Featherweight,United States,,,,,,,,,,2,4,0,6,33,0
+354,Kelly Dullanty,1977-07-04,68,155,,Lightweight,USA,,,,,,,,,,0,1,0,1,0,0
+12078,Mizuto Hirota,1981-05-05,67,145,Cave,Featherweight,Japan,67,3.49,45,3.25,53,2.16,68,64,0,0,2,1,3,0,0
+258,Alex Andrade,1974-05-14,71,200,Lion's Den,Light Heavyweight,United States,,0.2,36,2.6,53,0,0,25,0.8,0,0,0,0,0,0
+87012,Cesar Arzamendia,1991-01-31,71,155,Paraguay Combat Team,Featherweight,Paraguay,71,5.37,45,5.2,56,7.32,75,0,2.4,0,0,0,0,0,0
+132,Matt Andersen,1971-05-29,74,230,,Heavyweight,USA,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Andy Anderson,1964-07-16,69,240,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+186,Mikey Burnett,1974-07-16,66,170,Lion's Den,Welterweight,USA,,,,,,,,,,0,0,0,0,0,0
+180,Carlos Barreto,1968-07-22,76,230,,Heavyweight,Brazil,,,,,,,,,,0,0,0,0,0,0
+56,Dave Beneteau,1968-07-16,74,250,,Heavyweight,Canada,,,,,,,,,,0,0,0,0,0,0
+174,Dan Bobish,1970-01-26,73,345,Strong Style Fight Team,Super Heavyweight,United States,,2.06,44,1.74,34,2.44,42,0,1.6,0,0,0,0,0,0
+46314,Keith Berish,1985-11-14,72,205,Black & Blue MMA,Light Heavyweight,United States,73,3.58,36,4.81,62,1.76,40,0,0,0,0,0,0,0,0
+127,Jerry Bohlander,1974-11-02,71,199,Lion's Den,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+51,Melton Bowen,1969-03-10,72,225,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+207,Ebenezer Fontes Braga,1969-04-14,72,199,Gracie Barra Combat Team,Light Heavyweight,Brazil,,2.42,50,0.42,71,0,0,90,0.6,0,0,0,0,0,0
+211,Frank Caracci,1970-02-16,67,205,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+131,Rafael Carino,1973-07-16,80,245,Nova Uniao,Heavyweight,Brazil,,,,,,,,,,0,0,0,0,0,0
+213,Darrell Gholar,1962-11-07,68,198,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+153,Kazuo Takahashi,1969-03-13,70,203,D-One Gym,Light Heavyweight,Japan,,,,,,,,,,0,0,0,0,0,0
+19478,Logan Clark,1985-02-16,74,185,Minnesota Martial Arts Academy,Middleweight,United States,,2.2,54,1.49,53,0.31,100,30,2.1,0,0,0,0,0,0
+25,Sean Daugherty,1975-12-04,70,175,,Light Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Jason DeLucia,1969-07-24,71,190,,Light Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2290,Ron Faircloth,1979-08-16,69,205,Dungeon MMA,Light Heavyweight,United States,,0.39,40,8.9,42,0,0,0,0,0,0,0,0,0,0
+200,Hugo Duarte,1968-08-09,72,240,Hugo Duarte Luta Livre,Heavyweight,Brazil,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Joe Charles,1958-07-16,73,260,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+197,Bob Gilstrap,1974-07-16,75,210,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+67894,Robert Drysdale,1981-01-01,75,205,Drysdale Jiu-Jitsu,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+36,Fred Ettish,1955-10-12,72,180,,Middleweight,United States,,,,,,,,,,0,0,0,0,0,0
+48,Jason Fairn,1973-07-16,73,230,Fairn Jiu-Jitsu,Heavyweight,Canada,,,,,,,,,,0,0,0,0,0,0
+261,CJ Fernandes,1977-11-13,72,170,HIT Squad,Welterweight,USA,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,Scott Ferrozzo,1965-04-26,71,323,,Super Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Zane Frazier,1966-07-16,78,230,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+124,Don Frye,1965-11-23,73,219,Team Frye,Heavyweight,United States,,2.87,64,3.57,37,0.91,57,45,0.7,0,0,0,0,0,0
+196,Allan Goes,1971-04-20,72,205,Goes Martial Arts,Light Heavyweight,United States,,0.64,52,1.35,41,1.75,40,0,2.6,0,0,0,0,0,0
+129,Gary Goodridge,1966-01-17,75,249,Big Daddy Fight Team,Heavyweight,Canada,,1.84,56,2.14,48,0.4,100,53,0.8,0,0,0,0,0,0
+15,Gerard Gordeau,1955-03-30,77,216,Kamakura,Heavyweight,Netherlands,,,,,,,,,,0,0,0,0,0,0
+146,Fabio Gurgel,1970-01-18,72,205,Alliance,Light Heavyweight,Brazil,,,,,,,,,,0,0,0,0,0,0
+38,Keith Hackney,1958-04-15,71,200,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+167,Tony Halme,1963-01-06,76,300,,Super Heavyweight,Finnland,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Dieuseul Berto,1960-07-16,69,200,Tiger's World of Martial Arts,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+139,Moti Horenstein,1964-03-23,73,205,Moti Horenstein MMA,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+12,Enson Inoue,1967-04-15,70,210,Purebred Omiya,Light Heavyweight,Japan,,1.7,63,1.88,30,0,0,33,0,0,0,0,0,0,0
+154,Wallid Ismail,1968-02-22,67,182,Brazil Dojo,Middleweight,Brazil,,,,,,,,,,0,0,0,0,0,0
+27440,Maciej Jewtuszko,1981-01-31,72,155,Berserkers Team,Lightweight,Poland,,2.29,45,1.39,66,0,0,42,0.9,0,0,0,0,0,0
+20,Art Jimmerson,1963-08-04,73,196,,Light Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,Brian Johnston,1968-07-28,76,222,American Kickboxing Academy,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+55,Eldo Dias Xavier,1964-07-16,71,180,,Middleweight,Brazil,,,,,,,,,,0,0,0,0,0,0
+71,Mark Kerr,1968-12-21,75,266,Team Kerr,Heavyweight,United States,,0.28,41,0.89,28,2.92,77,0,0.4,0,0,0,0,0,0
+134,Koji Kitao,1963-08-12,79,390,New Japan Pro Wrestling,Super Heavyweight,Japan,,,,,,,,,,0,0,0,0,0,0
+181,Brad Kohler,1964-05-26,69,220,,Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,Christophe Leninger,1962-07-16,72,200,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+220,Dave Roberts,1979-11-15,73,203,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+210,John Lober,1968-02-26,71,199,Team Machine,Middleweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Anthony Macias,1969-07-16,70,170,USA Stars,Welterweight,United States,,,,,,,,,,0,0,0,0,0,0
+61,Todd Medina,1970-04-30,70,205,Carlson Gracie Jiu-Jitsu,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+14,Guy Mezger,1968-01-01,73,200,Lion's Den Dallas,Light Heavyweight,United States,,2.3,32,1.36,72,0.39,50,88,0,0,0,0,0,0,0
+176,Harry Moskowitz,1968-07-16,77,275,,Super Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+44211,Pedro Nobre,1986-02-13,65,135,Rio Fighters,Flyweight,Brazil,,1.37,30,9.16,35,0,0,0,0,0,0,0,0,0,0
+1015,Jorge Patino,1973-05-08,68,155,Macaco Gold Team,Lightweight,United States,,,,,,,,,,0,0,0,0,0,0
+42,Roland Payne,1964-07-16,69,205,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+221,Tony Petarra,1966-11-08,71,196,Shark Tank,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+1629,Joey Roberts,1977-11-11,74,200,Memphis Bad Boyz,Light Heavyweight,None,,,,,,,,,,0,0,0,0,0,0
+280,Mark Robinson,1970-12-31,72,300,Cal Cooper,Super Heavyweight,USA,,,,,,,,,,0,0,0,0,0,0
+885,Jack McLaughlin,1961-10-01,70,218,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+214,Bas Rutten,1965-02-24,73,205,,Light Heavyweight,Netherlands,,5.59,61,2.06,79,0,0,0,0,0,0,0,0,0,0
+189,Townsend Saunders,1968-07-16,65,170,,Welterweight,United States,,,,,,,,,,0,0,0,0,0,0
+133,Mark Schultz,1960-10-26,70,203,,Light Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+21,Patrick Smith,1963-07-16,74,225,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+50,Joe Son,1970-11-20,64,236,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+47,Oleg Taktarov,1967-08-26,72,210,Freelance,Heavyweight,Russia,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69341,Matheus Nicolau Pereira,1993-01-06,66,135,Nova Uniao,Bantamweight,Brazil,,,,,,,,,,0,0,0,0,0,0
+16,Teila Tuli,1969-06-14,74,430,,Super Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,Paul Varelans,1969-09-17,80,300,,Super Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+171,Yuri Vaulin,1963-09-13,76,207,,N/A,Latvia,,,,,,,,,,0,0,0,0,0,0
+122,Sam Adkins,1965-04-26,75,225,,Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Ron van Clief,1943-01-25,70,190,,Light Heavyweight,United States,,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Kevin Rosier,1962-01-06,76,265,,Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+52454,Reginaldo Vieira,1982-11-26,66,135,Peso Pesado Gold Team,Flyweight,Brazil,65,3.42,49,2.86,57,1.95,60,25,1.3,0,0,0,0,0,0
+31,Orlando Wiet,1965-10-24,70,170,Team Wiet,Welterweight,France,,,,,,,,,,0,0,0,0,0,0
+39,Emmanuel Yarborough,1964-09-05,80,600,Freelance,Super Heavyweight,United States,,,,,,,,,,0,0,0,0,0,0
+229,Alfonso Alcarez,1970-06-10,63,145,Nickwan Kick Gym,Bantamweight,United States,,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+247,Jermaine Andre,1973-07-16,67,185,,Middleweight,United States,,,,,,,,,,0,1,0,1,0,0
+720,Edwin Dewees,1982-08-07,73,185,Lions Den Scottsdale,Light Heavyweight,United States,,1.53,33,6.19,39,2.18,66,0,3.3,0,3,0,3,0,0
+853,Homer Moore,1971-11-12,70,205,,Light Heavyweight,United States,,,,,,,,,,0,1,0,1,0,0
+886,Brian Gassaway,1972-08-07,72,170,,Welterweight,United States,,0.34,26,3.65,44,0,0,42,0,0,1,0,1,0,0
+900,Steve Vigneault,1978-02-14,70,185,Tristar Gym,Welterweight,Canada,,2.19,28,5.75,44,0,0,100,0,0,1,0,1,0,0
+1042,Jason Black,1972-08-15,70,169,Miletich Martial Arts,Welterweight,United States,,,,,,,,,,0,2,0,2,0,0
+1170,Dokonjonosuke Mishima,1972-04-19,67,155,Cobra Kai MMA Dojo,Lightweight,Japan,,1.06,41,1.22,52,2.47,40,25,1.4,0,2,0,2,0,0
+1255,Yuki Sasaki,1976-09-12,72,185,Grabaka,Middleweight,Japan,,1.09,43,1.2,57,0.43,100,66,0,0,1,0,1,0,0
+1306,Joey Gilbert,1970-04-14,65,154,Gilbert Grappling,Lightweight,United States,,,,,,,,,,0,1,0,1,0,0
+1331,Andy Wang,1977-05-28,66,155,Grappling Unlimited,Lightweight,United States,,3.43,36,10.29,62,0,0,0,0,0,1,0,1,0,0
+1332,Paul Rodriguez,1975-05-18,68,155,American Top Team Orlando,Lightweight,United States,,,,,,,,,,0,1,0,1,0,0
+1349,Yasuhiro Urushitani,1976-09-08,65,125,Tribe Tokyo MMA,Flyweight,Japan,,3.47,39,4.71,65,0,0,80,0,0,2,0,2,0,0
+1398,Alexandre Ferreira,1979-04-25,67,205,Chute Boxe,Light Heavyweight,Brazil,,2.57,60,8.14,42,0,0,0,0,0,1,0,1,0,0
+1424,Alexandre Barros,1976-11-19,68,170,Carlson Gracie Team,Welterweight,Brazil,,0.98,40,4.05,36,1.84,50,100,0,0,1,0,1,0,0
+1449,Chris Haseman,1969-06-02,71,205,Rings Australia,Light Heavyweight,Australia,,0.93,70,4.67,28,0,0,40,2,0,1,0,1,0,0
+1542,Rich Crunkilton,1979-11-25,67,155,American Kickboxing Academy,Lightweight,United States,,,,,,,,,,0,1,0,1,0,0
+1562,Rodrigo Ruas,1977-10-06,70,185,Ruas Vale Tudo,Middleweight,Brazil,,1.28,35,7,41,0,0,0,0,0,1,0,1,0,0
+1767,James Zikic,1977-03-31,74,185,London Shootfighters,Middleweight,England,,,,,,,,,,0,1,0,1,0,0
+1926,Justin James,1976-11-08,70,155,,Lightweight,USA,,1.34,36,2.68,50,0,0,50,1.6,0,1,0,1,0,0
+98151,Konstantin Erokhin,1982-01-02,71,233,,Heavyweight,Russia,,,,,,,,,,0,2,0,2,0,0
+3139,Sam Morgan,1981-09-28,70,165,Team Bison,Welterweight,USA,,,,,,,,,,0,2,0,2,0,0
+110,David Abbott,1965-04-26,72,250,,Heavyweight,United States,,,,,,,,,,0,3,0,3,0,0
+1964,Sean Alvarez,1971-07-14,72,235,Renzo Gracie Jiu-Jitsu,Heavyweight,USA,,0.89,37,3.25,47,0,0,0,0,0,1,0,1,0,0
+1995,Amar Suloev,1976-07-01,69,183,Red Devil Sport Club,Middleweight,Armenia,,1.98,37,2.19,70,0.27,100,88,0.3,0,2,0,2,0,0
+2093,Keith Rockel,1965-08-28,72,185,Team Elite,Middleweight,United States,,,,,,,,,,0,1,0,1,0,0
+2095,Keith Wisniewski,1981-10-25,71,170,Duneland Vale Tudo,Welterweight,United States,75,2.32,52,4.86,42,1.57,40,78,0.3,0,4,0,4,0,0
+2224,James Lee,1973-09-22,71,205,Mash Fight Team,Light Heavyweight,United States,,1.4,42,3.72,27,13.95,50,0,7,0,1,0,1,0,0
+2235,Eiji Mitsuoka,1976-01-01,67,145,Wajyutsu Keisyukai RJW,Featherweight,Japan,,1.49,49,2.26,45,2.3,36,20,1.6,0,2,0,2,0,0
+2291,Cole Escovedo,1981-08-30,67,135,Pacific Martial Arts,Bantamweight,United States,72,1.82,45,4.85,45,0.55,40,10,0,0,3,0,3,0,0
+2295,Nick Agallar,1979-01-13,68,155,Agallar Combative Systems,Lightweight,United States,,0.69,11,4.56,42,0,0,0,0,0,1,0,1,0,0
+78898,Teruto Ishihara,1991-07-23,67,145,Chokushinkai,Featherweight,Japan,69,4.62,48,4.33,59,0,0,42,0,0,0,1,1,0,0
+225,Flavio Luiz Moura,1976-01-26,71,187,Gracie Fusion,N/A,Brazil,,,,,,,,,,0,1,0,1,0,0
+2304,Wade Shipp,1975-02-09,75,245,Alliance MMA,Heavyweight,United States,,4.29,86,2.14,0,0,0,75,0,0,1,0,1,0,0
+2327,Gerald Strebendt,1979-03-01,69,155,10th Planet Jiu-Jitsu,Lightweight,United States,,0,0,4,38,0,0,0,16.4,0,1,0,1,0,0
+2860,David Baron,1973-02-15,71,155,Pellegrino MMA,Featherweight,United States,,1.17,30,2.1,56,0,0,14,0.7,0,1,0,1,0,0
+3071,Leigh Remedios,1976-01-13,67,155,Team Quannum,Featherweight,England,,0.75,41,1.36,68,0,0,33,0,0,1,0,1,0,0
+3089,Tim McKenzie,1982-07-21,71,185,,Middleweight,United States,74,1.37,54,2.96,44,0,0,28,2.1,0,1,0,1,0,0
+3217,Luis Ramos,1981-01-18,68,170,Nova Uniao,Welterweight,Brazil,,2.4,35,5.6,42,1.5,20,100,0,0,2,0,2,0,0
+3225,Nick Serra,1978-03-27,69,170,Serra-Longo Fight Team,N/A,USA,,0,0,1.73,43,1,10,0,2,0,1,0,1,0,0
+3263,Jeff Newton,1966-12-11,74,205,Todd Medina Freestyle Team,Light Heavyweight,United States,,0.28,20,1.41,52,0,0,0,8.5,0,1,0,1,0,0
+3265,Eddie Ruiz,1967-06-10,67,155,,Lightweight,USA,,0.2,25,1.4,47,2,12,0,0,0,1,0,1,0,0
+3363,Kristof Midoux,1974-07-30,73,220,Boxing Squad,Heavyweight,France,,0.7,43,2.89,49,0,0,0,0,0,1,0,1,0,0
+3660,Travis Wiuff,1978-03-15,75,205,Elite Performance,Heavyweight,United States,,0.48,30,4.03,41,4.84,57,44,1.2,0,2,0,2,0,0
+115911,Wagner Silva Gomes,1987-02-07,72,185,Tata Fight Team,Middleweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+3863,David Bielkheden,1979-06-06,70,155,Brazilian Top Team,Welterweight,Sweden,71,1.11,57,1.64,54,2.65,63,14,0,0,2,0,2,0,0
+3919,Zach Light,1974-02-06,68,170,Wolfslair,Welterweight,United States,,0.81,33,1.9,48,1.36,100,0,0,0,1,0,1,0,0
+215,Jason Godsey,1964-01-01,74,245,Integrated Fighting Academy,Heavyweight,United States,,,,,,,,,,0,1,0,1,0,0
+259,John Alessio,1979-07-05,70,155,Xtreme Couture,Lightweight,Canada,72,1.87,35,2.46,57,1.78,36,72,1,0,5,0,5,0,0
+264,Alexandre Dantas,1979-01-03,74,238,Gracie Barra Combat Team,Heavyweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+4000,Alex Schoenauer,1976-05-05,75,185,Xtreme Couture,Middleweight,United States,,1.22,40,2.27,42,0,0,22,4.9,0,1,0,1,0,0
+4038,Samy Schiavo,1975-12-24,68,155,Bushido Academie,Bantamweight,France,,1.68,34,2.62,38,0.94,50,66,0.9,0,2,0,2,0,0
+4208,Lodune Sincaid,1973-05-07,69,185,,Middleweight,United States,,2.45,44,6.7,49,0,0,75,0,0,1,0,1,0,0
+4371,Wes Combs,1973-06-18,74,205,Millennia MMA,Heavyweight,United States,,2.14,48,4.73,45,0,0,0,0,0,2,0,2,0,0
+4388,Bill Mahood,1967-02-01,75,200,Revolution Fight Team,Light Heavyweight,Canada,,1.54,85,3.59,17,0,0,0,3.9,0,1,0,1,0,0
+4391,Victor Valimaki,1981-12-17,72,233,Complete Fitness and Martial Arts,Heavyweight,Canada,,,,,,,,,,0,2,0,2,0,0
+4397,Mike Whitehead,1981-06-29,73,205,Xtreme Couture,Heavyweight,United States,,1.62,33,2.36,59,3.59,43,77,0.3,0,1,0,1,0,0
+4399,Kevin Jordan,1970-12-31,75,245,USCAA,Heavyweight,United States,,2,40,1.91,55,0,0,77,0.6,0,2,0,2,0,0
+4555,Gideon Ray,1973-05-27,70,185,MMA Masters Chicago,Welterweight,United States,,2.08,40,2.58,53,1.49,100,0,0,0,3,0,3,0,0
+4556,Derrick Noble,1978-08-14,69,170,Minnesota Martial Arts Academy,Welterweight,United States,,6.21,40,3.79,59,0,0,0,0,0,1,0,1,0,0
+4582,Joe Jordan,1978-07-28,66,170,Miletich Fighting Systems,Welterweight,United States,,,,,,,,,,0,1,0,1,0,0
+121077,Alex Nicholson,1990-05-02,76,185,,Heavyweight,United States,81,4.39,43,4.13,50,0,0,55,0,0,1,0,1,0,0
+4638,Rob MacDonald,1978-09-05,75,205,Franco Behring,Heavyweight,Canada,78,1.8,50,2.04,46,7.19,80,80,5.4,0,2,0,2,0,0
+4673,Brandon Wolff,1975-10-18,70,170,MMA Development,Welterweight,United States,,0.47,33,10.91,19,0,0,0,0,0,2,0,2,0,0
+4767,Alberto Crane,1976-07-14,69,155,Alberto Crane MMA,Lightweight,United States,,0.43,25,2.61,57,0,0,50,4,0,2,0,2,0,0
+5269,Brian Geraghty,1980-11-04,67,155,Freestyle Academy,Lightweight,United States,,0.47,25,9.77,36,0,0,50,0,0,1,0,1,0,0
+5358,Rosi Sexton,1977-07-16,63,135,Next Generation,Bantamweight,England,63,3.31,39,7.42,41,0.75,10,80,0,0,2,0,2,0,0
+5434,Delson Heleno,1977-11-16,71,185,CM System,Welterweight,Brazil,,0.69,75,4.83,19,0,0,0,0,0,1,0,1,0,0
+6608,Luis Henrique Barbosa de Oliveira,1993-08-21,75,243,Infight,Heavyweight,Brazil,,,,,,,,,,0,1,0,1,0,0
+7110,Antonio Mendes,1981-04-19,75,205,Dragon Fight,Light Heavyweight,Brazil,77,1.34,47,6.85,22,2.51,50,100,0,0,2,0,2,0,0
+7127,Kyle Watson,1979-08-09,72,155,HIT Squad,Lightweight,United States,,3.67,35,3.25,62,0,0,100,0,0,1,0,1,0,0
+7148,Ansar Chalangov,1979-10-30,69,170,Legion Fight Team,Middleweight,Russia,,0.68,66,1.69,54,0,0,0,7.6,0,2,0,2,0,0
+7329,Joe Veres,1977-11-09,66,155,MMA Lab,Lightweight,United States,,0,0,5.55,27,0,0,0,0,0,2,0,2,0,0
+7358,Chris Saunders,1986-03-11,68,155,All In MMA,Lightweight,United States,,1.48,22,2.96,75,3.7,100,0,0,0,1,0,1,0,0
+7406,Luke Caudillo,1980-11-30,67,155,Grudge Training Center,Lightweight,United States,,1.97,28,5.07,55,0.44,20,85,0,0,2,0,2,0,0
+7407,John Halverson,1972-09-08,69,155,,Lightweight,United States,,2.94,43,5.29,47,0,0,66,2,0,2,0,2,0,0
+7652,Josh Hendricks,1976-08-28,74,235,Superior Health Club,Heavyweight,United States,,0.98,20,11.8,29,0,0,0,0,0,1,0,1,0,0
+7690,Fabiano Scherner,1972-06-30,76,257,Team Quest,Heavyweight,Brazil,,1.31,31,3.2,38,1.09,33,40,0,0,2,0,2,0,0
+7798,Jason Miller,1980-12-24,72,185,Team Mayhem,Middleweight,United States,72,1.83,43,2.3,49,1.31,28,43,1.3,0,3,0,3,0,0
+8224,Mostapha Al-Turk,1973-07-14,74,245,London Shootfighters,Heavyweight,England,77,1.36,19,3.61,53,0,0,0,0,0,3,0,3,0,0
+8654,Matt Horwich,1978-02-10,71,186,Legends MMA,Middleweight,United States,,,,,,,,,,0,2,0,2,0,0
+8761,Xavier Foupa-Pokam,1982-03-07,73,185,Snake Team,Middleweight,France,,,,,,,,,,0,2,0,2,0,0
+1587,Assuerio Silva,1974-06-18,73,241,,Heavyweight,Brazil,,1.42,46,4.2,54,2.66,34,25,1.8,0,3,0,3,0,0
+227,Andre Pederneiras,1967-03-22,68,155,Nova Uniao,Welterweight,Brazil,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+4441,Paul Creighton,1970-04-07,66,155,,Lightweight,USA,,,,,,,,,,0,1,0,1,0,0
+8785,Roxanne Modafferi,1982-09-24,66,135,Syndicate MMA,Flyweight,United States,,2.85,27,5.42,38,0.97,7,0,0,0,1,0,1,0,0
+8845,Billy Miles,1978-04-28,70,170,Capital City Fighting Alliance,Middleweight,United States,,0,0,1.25,33,0,0,0,0,0,1,0,1,0,0
+9024,Brad Morris,1979-11-01,73,205,Gracie Barra Sydney,Heavyweight,Australia,,0.5,62,6.95,27,0,0,0,0,0,2,0,2,0,0
+9062,John Kolosci,1974-11-26,71,185,Gilbert Grappling,Lightweight,United States,,0.21,20,0.85,50,0,0,0,0,0,1,0,1,0,0
+9267,Jay Hieron,1976-07-29,71,170,Xtreme Couture,Welterweight,United States,75,1.66,32,1.89,61,4.05,60,66,1,0,4,0,4,0,0
+9512,John Polakowski,1981-06-21,69,155,The Pit,Lightweight,United States,,0.14,4,2.05,44,0,0,75,2,0,1,0,1,0,0
+9534,Diego Saraiva,1982-04-23,66,155,Team Octopus,Lightweight,United States,,1.64,32,3.58,62,1.33,40,0,0.7,0,3,0,3,0,0
+9785,Jeff Cox,1968-08-02,70,155,Strong Style Fight Team,Lightweight,United States,,0.56,25,1.69,33,4.23,50,80,0,0,2,0,2,0,0
+9786,Dorian Price,1977-08-20,75,170,Team Jorge Gurgel,Lightweight,United States,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+10071,Lisa Ellis,1982-11-15,64,115,United Training Center,Strawweight,United States,62,1.68,48,2.32,57,4.19,63,50,0.6,0,2,0,2,0,0
+10093,Julie Kedzie,1981-03-18,65,135,Jackson-Wink MMA,Bantamweight,United States,64,2.9,36,3.18,46,1.14,23,78,0,0,2,0,2,0,0
+10226,Justin Levens,1980-04-18,70,185,CSW,Middleweight,United States,,0.37,20,3.49,40,0,0,33,2.8,0,2,0,2,0,0
+11486,Donny Walker,1980-01-04,69,135,GriffonRawl Thaiboxing & MMA Academy,Featherweight,United States,,1.81,37,3.85,46,0,0,57,1.7,0,2,0,2,0,0
+11729,Abner Lloveras,1982-09-04,71,155,Gracie Barcelona,Lightweight,Spain,71,6.27,49,6.87,43,2,20,0,0,0,1,0,1,0,0
+11907,Edilberto de Oliveira,1982-11-22,72,170,Champion Team,Welterweight,Brazil,,4.12,32,6.79,61,0,0,0,0,0,2,0,2,0,0
+12096,Troy Mandaloniz,1980-01-02,69,170,,Welterweight,United States,,,,,,,,,,0,1,0,1,0,0
+12116,Shayna Baszler,1980-08-08,67,135,CSW,Bantamweight,United States,67,2.49,30,6.36,51,0.67,18,44,1.3,0,2,0,2,0,0
+12158,Damacio Page,1982-09-30,66,135,Jackson-Wink MMA,Flyweight,United States,66,2.05,38,2.47,51,2.63,64,23,0.9,0,3,0,3,0,0
+12196,Takenori Sato,1985-06-08,70,170,Tribe Tokyo MMA,Welterweight,Japan,71,0.46,33,12.92,9,0,0,0,0,0,2,0,2,0,0
+12234,Derek Downey,1980-04-27,74,185,Victory MMA,Middleweight,United States,,0.32,100,3.36,12,2.4,16,0,0,0,1,0,1,0,0
+12369,Jason Tan,1981-12-17,70,170,,Welterweight,England,,0.69,29,7.37,18,0,0,0,0,0,2,0,2,0,0
+12553,Willamy Freire,1987-07-28,68,155,Dragon Fight,Lightweight,Brazil,,1.53,37,0.93,62,0.5,100,73,0,0,1,0,1,0,0
+12690,Jason Thacker,1975-08-18,72,185,,Middleweight,Canada,,0.63,33,17.05,32,0,0,0,0,0,1,0,1,0,0
+12692,Reese Andy,1973-03-31,72,205,West Coast Fight Team,Light Heavyweight,United States,,2.87,50,3.5,58,0.67,20,40,0,0,2,0,2,0,0
+12854,Sherman Pendergarst,1967-08-01,73,235,Miletich Fighting Systems,Light Heavyweight,United States,,1.23,36,3.08,16,4.62,100,0,0,0,1,0,1,0,0
+12943,Scott Junk,1978-12-17,73,265,MMA Development,Heavyweight,United States,,5.13,60,1.81,45,0,0,0,0,0,1,0,1,0,0
+12955,Denis Stojnic,1980-02-02,72,245,Golden Glory,Heavyweight,Bosnia and Herzegovina,,1.51,23,6.06,36,0,0,80,1,0,2,0,2,0,0
+12961,Bristol Marunde,1982-04-20,73,170,Syndicate MMA,Welterweight,United States,71,1.42,21,4.4,47,1.6,33,14,0,0,2,0,2,0,0
+13093,Danillo Villefort,1983-05-08,73,185,Blackzilians,Middleweight,United States,,2.86,37,2.4,68,1.71,66,33,1.7,0,1,0,1,0,0
+13270,Josh Schockman,1981-12-29,76,205,Dirty South Fight Team,Light Heavyweight,United States,,,,,,,,,,0,1,0,1,0,0
+13453,Jesse Forbes,1984-10-24,74,185,Power MMA Team,Middleweight,United States,75,2.11,24,4.06,53,1.79,75,66,1.2,0,3,0,3,0,0
+13539,Tyler Toner,1983-03-31,69,145,Elevation Fight Team,Featherweight,United States,70,2.95,52,2.13,62,0,0,54,0.4,0,1,0,1,0,0
+13599,Dustin Neace,1986-09-12,69,145,Damage Incorporated,Featherweight,United States,,2.08,32,2.66,56,0,0,0,1.7,0,1,0,1,0,0
+13660,Colin Robinson,1968-11-27,76,243,,Heavyweight,Northern Ireland,,6.19,69,7.91,37,2.58,100,50,5.2,0,2,0,2,0,0
+13848,David Kaplan,1979-11-16,66,155,Team Tompkins,Welterweight,United States,,2.88,46,4.32,67,4.88,43,0,0.7,0,2,0,2,0,0
+14016,Chad Reiner,1981-06-29,72,170,Premier Combat Center,Welterweight,United States,,0.53,20,1.97,46,0.99,33,25,2,0,2,0,2,0,0
+14121,Chris Price,1982-11-09,74,185,Team IBJJA,Light Heavyweight,United States,,1.44,66,2.59,48,0,0,33,2.2,0,2,0,2,0,0
+2738,Seth Petruzelli,1979-12-03,72,205,The Jungle MMA,Light Heavyweight,United States,76,2.17,41,2.08,55,0.46,50,47,2.3,0,4,0,4,0,0
+15174,Jessica Aguilar,1982-05-08,64,115,American Top Team,Strawweight,United States,63,4.67,37,7.4,55,0,0,0,0,0,1,0,1,0,0
+5342,Solomon Hutcherson,1972-08-13,71,185,,Middleweight,United States,,,,,,,,,,0,1,0,1,0,0
+15380,Jorge Antonio Cezario de Oliveira,1980-01-22,70,155,Renovacao Fight Team,Lightweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+15393,Wendell de Oliveira Marques,1983-06-01,71,170,War Machine,Welterweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+15806,Andre Gusmao,1977-05-19,74,205,,Middleweight,Brazil,,2.79,43,3.28,60,0,0,60,0,0,2,0,2,0,0
+15833,Joe Vedepo,1982-01-01,72,185,,Middleweight,United States,,,,,,,,,,0,2,0,2,0,0
+15855,Chuck O'Neil,1985-09-22,74,170,Mass BJJ,Middleweight,United States,,3.13,37,4.4,72,0,0,0,0,0,1,0,1,0,0
+15907,Roger Hollett,1978-10-08,70,205,Titans MMA,Light Heavyweight,Canada,70,1.83,47,6.47,34,1,28,30,0,0,2,0,2,0,0
+15932,Chad Griggs,1978-05-15,75,205,Apex MMA,Light Heavyweight,United States,73,2.67,50,2.22,46,1.51,66,41,0,0,2,0,2,0,0
+16459,Allen Berube,1974-08-25,68,155,Gracie Tampa,Lightweight,United States,,0.92,80,0.92,33,6.87,100,0,3.4,0,1,0,1,0,0
+16556,Dan Lauzon,1988-03-30,70,155,Lauzon MMA,Welterweight,United States,,1.34,25,4.09,61,1.63,33,80,2.7,0,3,0,3,0,0
+16696,Danny Abbadi,1983-07-03,71,155,,Middleweight,United States,,3.29,38,4.41,57,0,0,77,0,0,2,0,2,0,0
+16858,Rob Yundt,1980-05-05,73,185,,Middleweight,USA,,1.37,41,2.55,31,2.94,100,0,0,0,2,0,2,0,0
+17004,Joe Soto,1987-03-22,66,135,Central Valley Combat Academy,Bantamweight,United States,65,3.38,40,5.59,66,0.83,18,44,1.9,0,3,0,3,0,0
+17016,Joe Brammer,1983-08-30,68,156,Victory MMA,Lightweight,United States,,,,,,,,,,0,2,0,2,0,0
+17355,Byron Bloodworth,1983-08-16,69,135,Iron Clutch Fitness,Bantamweight,United States,69,1.82,28,5.18,50,0,0,0,0,0,2,0,2,0,0
+17389,Jesse Taylor,1984-01-02,73,185,The Arena,Middleweight,United States,,,,,,,,,,0,1,0,1,0,0
+17393,Shane del Rosario,1983-09-23,75,250,Team Oyama,Heavyweight,United States,79,3.93,60,2.97,54,1.2,40,16,2.4,0,2,0,2,0,0
+17577,Joao Zeferino,1986-01-15,71,170,Rangel Farias Team,Lightweight,Brazil,73,0.83,36,2.6,48,0.5,5,50,1,0,2,0,2,0,0
+17591,Nissen Osterneck,1981-05-01,74,185,Relson Gracie Jiu-Jitsu,Middleweight,United States,,3.15,58,2.9,41,0.63,12,42,1.3,0,1,0,1,0,0
+17717,Tim Gorman,1983-04-29,64,135,Des Moines MMA Academy,Bantamweight,United States,68,2.73,31,5.57,46,1,9,33,0,0,2,0,2,0,0
+17786,Carlos Augusto Inocente Filho,1986-05-29,75,205,Blackzilians,Light Heavyweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+18106,Julio Paulino,1975-12-04,72,170,,Welterweight,United States,,0.97,27,1.87,48,0,0,37,0.5,0,2,0,2,0,0
+18184,Douglas Evans,1980-10-10,69,144,AK Wolfpack,Featherweight,United States,,,,,,,,,,0,2,0,2,0,0
+18304,Shane Primm,1984-07-30,76,205,Gracie Tampa,Middleweight,United States,,0.83,26,2.25,62,1.78,20,0,0,0,1,0,1,0,0
+18533,Ryan McGillivray,1986-09-27,71,170,Jackson-Wink MMA,Welterweight,Canada,,1.27,20,2.2,52,0,0,44,0,0,1,0,1,0,0
+18590,Anthony Lapsley,1980-02-13,69,170,,Welterweight,United States,71,0.53,34,0.58,66,0,0,20,0,0,2,0,2,0,0
+18887,Rin Nakai,1986-10-22,61,135,Pancrase Venus,Bantamweight,Japan,60,1.57,33,3.9,60,3,18,75,0.5,0,1,0,1,0,0
+19390,Motonobu Tezuka,1987-08-29,67,135,Cobra Kai MMA Dojo,Bantamweight,Japan,66,0.87,23,2.8,51,1.5,11,0,0.5,0,2,0,2,0,0
+19726,Paul Bradley,1983-05-17,69,170,Alliance MMA,Welterweight,United States,,,,,,,,,,0,2,0,2,0,0
+19761,Ryan Roberts,1978-07-16,66,155,Disorderly Conduct,Featherweight,United States,,0,0,22.5,45,0,0,0,0,0,1,0,1,0,0
+69624,William Macario,1991-07-01,71,170,Pejor,Welterweight,Brazil,,,,,,,,,,1,3,0,4,25,0
+19854,Roger Gracie,1981-09-26,76,185,Black House,Middleweight,Brazil,79,1.78,35,1.79,61,1.87,53,60,1.9,0,1,0,1,0,0
+33084,Darrill Schoonover,1985-06-18,74,257,Red Spider MMA,Heavyweight,United States,,,,,,,,,,0,1,0,1,0,0
+21887,Todd Brown,1976-12-13,71,205,Bulldog Fight Team,Middleweight,United States,,2.15,45,3.85,48,0,0,50,0,0,2,0,2,0,0
+21962,Anistavio Medeiros de Figueiredo,1988-05-01,67,145,Pitbull Brothers,Featherweight,Brazil,,,,,,,,,,0,1,0,1,0,0
+21971,Josh Bryant,1980-04-23,72,185,Absolute Combat Alliance,Middleweight,United States,,1.1,20,6.1,43,0,0,0,0,0,1,0,1,0,0
+22105,Josh Clopton,1981-07-11,67,145,Skrap Pack,Featherweight,United States,68,1.6,64,2.87,50,2,66,75,0,0,2,0,2,0,0
+22127,T.J. O'Brien,1987-01-01,74,155,Des Moines Jiu-Jitsu,Lightweight,United States,,,,,,,,,,0,2,0,2,0,0
+22197,Wagner Campos,1981-07-31,66,145,Fight Only,Featherweight,Brazil,,1.54,41,2.53,51,2.71,100,0,0,0,1,0,1,0,0
+22677,Shunichi Shimizu,1985-01-31,66,135,Uruno Dojo,Flyweight,Japan,66,0.14,33,4.68,30,0,0,0,0,0,1,0,1,0,0
+22732,Steve Bosse,1981-07-29,71,205,Tristar Gym,Light Heavyweight,Canada,72,5.99,52,5.38,50,0.92,33,100,0,0,1,0,1,0,0
+22791,Frank Lester,1984-06-10,71,170,Jackson-Wink MMA,Welterweight,United States,,2.18,36,3.82,53,0,0,0,0,0,1,0,1,0,0
+6541,Ross Pointon,1980-02-18,68,205,,Light Heavyweight,England,,,,,,,,,,0,2,0,2,0,0
+22873,Quinn Mulhern,1984-09-20,75,155,Jackson-Wink MMA,Lightweight,United States,76,1.48,28,2.09,51,1.36,20,33,0,0,2,0,2,0,0
+14266,James Giboo,1978-06-01,71,170,,Welterweight,USA,,,,,,,,,,0,1,0,1,0,0
+22955,Chris Tickle,1982-02-01,69,155,Adrenaline MMA,Welterweight,United States,,1.07,40,1.13,43,1,25,20,2,0,1,0,1,0,0
+23108,Edgar Garcia,1984-02-22,70,170,Arizona Athletic Club,Welterweight,United States,71,3.16,29,4.23,60,2.21,57,50,0.6,0,4,0,4,0,0
+5739,Brian Cobb,1980-09-03,71,155,Team Pain and Suffering,Lightweight,United States,,,,,,,,,,0,1,0,1,0,0
+23219,Neil Grove,1971-01-18,78,265,Daigaku Karate Kai London,Heavyweight,England,,0,0,0,0,0,0,100,14.3,0,1,0,1,0,0
+23271,Jorge Lopez,1988-11-21,70,170,Wand Fight Team,Welterweight,United States,,2.47,59,2.57,50,3.5,41,81,0,0,2,0,2,0,0
+23326,Razak Al-Hassan,1982-05-14,75,205,Roufusport,Light Heavyweight,United States,,3.27,39,3.14,60,0.65,14,57,0,0,2,0,2,0,0
+23437,Alan Omer,1988-09-14,69,145,Stallion Cage,Featherweight,Iraq,71,3.49,55,2.21,64,1.69,42,66,0,0,2,0,2,0,0
+23736,Nick Penner,1980-03-26,72,205,Frank Lee's Muay Thai,Light Heavyweight,Canada,77,1.25,30,4.6,38,0,0,40,0,0,2,0,2,0,0
+23841,Amilcar Alves,1979-12-13,72,201,Nova Uniao,Light Heavyweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+24057,Ricardo Funch,1980-08-14,70,170,Team Link,Welterweight,United States,76,2.61,65,3.57,40,1.24,18,60,0,0,4,0,4,0,0
+24217,Rolles Gracie,1978-07-14,76,242,Renzo Gracie Jiu-Jitsu,Heavyweight,Brazil,,2.3,32,3.38,55,2.3,10,0,0,0,1,0,1,0,0
+24948,Josh Shockley,1989-11-15,73,155,Duneland Vale Tudo,Lightweight,United States,74,1.4,33,1.75,60,0,0,61,0.8,0,2,0,2,0,0
+24952,Estevan Payan,1982-04-03,70,148,Arizona Combat Sports,Lightweight,United States,,,,,,,,,,0,3,0,3,0,0
+25320,Eric Wisely,1984-07-25,68,145,Team Conquest,Welterweight,United States,,1.42,47,2.08,56,0,0,27,0.9,0,2,0,2,0,0
+25476,Pat Audinwood,1986-04-16,72,155,Team Bombsquad,Lightweight,United States,,1.17,12,4.31,41,0.8,50,0,0,0,2,0,2,0,0
+25491,Fernando Bruno,1982-02-24,66,145,Nova Uniao,Featherweight,Brazil,70,1.75,39,1.78,48,2.02,22,56,0.5,0,1,0,1,0,0
+25524,Mike Wessel,1977-12-02,72,260,Westside Fight Team,Heavyweight,United States,,1.82,56,6.43,22,6.29,50,0,0,0,1,0,1,0,0
+28181,Felipe Olivieri,1985-04-12,69,155,Nova Uniao,Lightweight,Brazil,72,6.68,58,4.6,57,0,0,71,0,0,1,0,1,0,0
+28185,Hernani Perpetuo,1985-05-24,72,170,Nova Uniao,Welterweight,Brazil,74,2.73,29,4.37,55,0,0,37,0.5,0,2,0,2,0,0
+28286,Nandor Guelmino,1975-12-20,75,230,Gym 23,Heavyweight,Austria,76,3.62,56,3.16,33,0,0,42,0,0,1,0,1,0,0
+28788,Stephen Bass,1982-11-14,69,145,Mad House Gym,Featherweight,United States,,4.87,52,5.87,55,0,0,0,0,0,1,0,1,0,0
+29111,Bubba Bush,1985-07-24,72,185,Brazos Valley MMA,Middleweight,United States,73,0.63,55,7.01,25,2.82,50,60,0,0,1,0,1,0,0
+29129,Steve Lopez,1984-07-30,71,155,Syndicate MMA,Lightweight,United States,,1.39,24,2.69,62,0,0,37,0,0,2,0,2,0,0
+30320,Damian Grabowski,1980-05-12,73,241,Lutadores Opole,Heavyweight,Poland,,0.79,33,9.14,50,0,0,0,0,0,1,0,1,0,0
+30396,Ulysses Gomez,1983-05-25,65,125,Marc Laimon's Cobra Kai,Flyweight,United States,66,2.72,25,3.57,68,0,0,0,0,0,2,0,2,0,0
+30564,Davey Grant,1985-12-18,68,135,North East Top Team,Bantamweight,England,69,3.59,53,1.37,69,1.28,30,64,0,0,1,0,1,0,0
+30943,Tommy Hayden,1986-03-11,69,145,Team Jorge Gurgel,Featherweight,United States,72,1.48,27,2.05,55,3.42,33,66,0,0,2,0,2,0,0
+31092,Steve Kennedy,1983-03-07,72,170,Kickass MMA,Welterweight,Australia,71,2.28,35,5.52,45,2.51,33,0,0,0,2,0,2,0,0
+31110,Lukasz Sajewski,1990-11-27,68,155,Mighty Bulls Team,Lightweight,Poland,71,2.06,35,3.88,57,1.01,25,66,0,0,1,0,1,0,0
+31151,Kamal Shalorus,1977-08-27,68,155,Kaizen MMA,Lightweight,"Iran, Islamic Republic of",,,,,,,,,,0,3,0,3,0,0
+31897,Rodolfo Rubio Perez,1987-01-29,65,145,Entram Gym,Featherweight,Mexico,,,,,,,,,,0,1,0,1,0,0
+32445,Besam Yousef,1985-03-25,71,170,Gladius MMA,Welterweight,Sweden,71,3.14,53,3.98,38,1.33,66,50,0,0,2,0,2,0,0
+32446,Mats Nilsson,1983-12-05,73,170,Rumble Sports,Middleweight,Sweden,74,2.99,39,5.62,63,3.87,83,44,2.3,0,2,0,2,0,0
+33115,Nazareno Malegarie,1986-05-16,68,155,Team Tavares,Lightweight,Argentina,70,3.87,34,3.27,69,1,33,0,0,0,1,0,1,0,0
+33343,Rodney Wallace,1981-11-21,69,205,Team R.O.C. Charlotte,Light Heavyweight,United States,72,1.13,46,3.44,45,6,54,28,1,0,3,0,3,0,0
+33523,John Cofer,1984-04-29,69,155,Hardcore Gym,Featherweight,United States,73,2.73,41,3.43,62,1.22,50,64,0,0,2,0,2,0,0
+10334,Gilbert Aldana,1977-08-25,73,250,Brausa Academy,Heavyweight,USA,,2.91,54,6.26,26,2.57,40,33,0,0,2,0,2,0,0
+34073,Cale Yarbrough,1986-12-27,74,185,Hardcore Gym,Light Heavyweight,United States,,3.16,27,10,72,0,0,0,0,0,1,0,1,0,0
+34214,Darrell Montague,1987-11-03,66,125,Millennia MMA,Flyweight,United States,67,1.92,25,5.38,52,0.72,25,33,1.4,0,3,0,3,0,0
+34408,Jay Silva,1981-05-25,74,185,MPF Training Systems,Middleweight,United States,,,,,,,,,,0,2,0,2,0,0
+34621,Colin Fletcher,1983-01-08,74,155,Unity Gym,Welterweight,England,78,3.1,34,2.97,62,0,0,27,0,0,2,0,2,0,0
+35521,Will Campuzano,1986-05-27,69,125,Mohler MMA,Flyweight,United States,70,2.43,31,3.82,57,0.88,45,48,0.2,0,4,0,4,0,0
+6943,Kazuhiro Nakamura,1979-07-16,71,205,Yoshida Dojo,Middleweight,Japan,70,1.56,37,1.83,59,1.73,36,42,0.6,0,2,0,2,0,0
+36630,Brock Jardine,1985-07-10,71,170,The Pit Elevated Fight Team,Welterweight,United States,73,1.06,30,3.34,56,0,0,14,0.8,0,2,0,2,0,0
+36885,Mike Lullo,1979-07-24,68,145,,Featherweight,United States,,2.48,36,4.84,40,1.18,11,0,0.6,0,2,0,2,0,0
+41539,Jules Bruchez,1977-08-16,72,205,Gladiator LA,Middleweight,United States,,0.69,50,5.52,46,0,0,0,0,0,1,0,1,0,0
+41993,Mehdi Baghdad,1985-04-13,73,155,Black House,Lightweight,France,75,3.13,30,4.56,46,0,0,33,0,0,1,0,1,0,0
+42258,Daniel Stittgen,1980-11-17,73,179,Midwest Training Center,Middleweight,United States,,,,,,,,,,0,2,0,2,0,0
+42309,Jamie Yager,1983-11-29,74,185,Kings MMA,Welterweight,United States,,3.08,39,2.55,63,0,0,66,0,0,1,0,1,0,0
+42419,Chris Indich,1987-04-22,70,170,The Arena MMA,Welterweight,Australia,73,1.31,30,4.32,43,0.75,50,50,1.5,0,2,0,2,0,0
+42479,James Hammortree,1983-11-29,75,185,USA Martial Arts,Light Heavyweight,United States,,1.93,30,4.13,44,2,50,100,1,0,1,0,1,0,0
+43445,Sheila Gaff,1989-12-29,65,135,Pyranha MMA Offenbach,Strawweight,Germany,62,1.6,50,2.89,28,0,0,20,0,0,2,0,2,0,0
+44311,John Teixeira da Conceicao,1986-11-18,67,145,Nova Uniao,Featherweight,Brazil,,,,,,,,,,0,1,0,1,0,0
+44417,Brendan Loughnane,1989-05-12,70,155,All Powers Gym,Featherweight,England,71,5,63,3.6,66,0,0,91,0,0,1,0,1,0,0
+44602,Leo Kuntz,1983-10-03,70,155,American Top Team,Lightweight,United States,74,1.68,32,3.8,45,1.99,25,33,0.7,0,2,0,2,0,0
+44638,Juan Manuel Puig,1989-04-23,69,145,American Kickboxing Academy,Featherweight,Mexico,,,,,,,,,,0,2,0,2,0,0
+44957,Jason Knight,1992-07-14,71,145,,Featherweight,United States,71,3.57,35,2.63,51,1.93,36,44,2.5,0,1,0,1,0,0
+45430,Caros Fodor,1984-01-07,69,155,AMC Pankration,Lightweight,United States,76,2.76,54,2.83,54,2.1,25,50,0,0,1,0,1,0,0
+45607,Tateki Matsuda,1986-02-27,67,125,Team Sityodtong,Flyweight,United States,65,3.2,34,3.43,69,0,0,16,0,0,2,0,2,0,0
+45721,Humberto Brown Morrison,1984-11-03,69,145,Alley Cat Fight Team,Featherweight,Panama,,,,,,,,,,0,1,0,1,0,0
+46033,Hayder Hassan,1982-10-20,70,170,American Top Team,Welterweight,United States,70,2.11,46,3.16,48,0,0,25,0,0,2,0,2,0,0
+46484,Manuel Rodriguez,1985-04-25,69,170,TP Fight Team,Middleweight,El Salvador,68,0.81,33,3.23,38,9.09,75,0,0,0,1,0,1,0,0
+46759,Antonio dos Santos Jr.,1988-07-21,70,185,Nordeste Jiu-Jitsu,Middleweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+47069,Yuri Villefort,1991-03-23,71,170,Blackzilians,Lightweight,United States,73,3.18,43,5.42,55,2,35,40,0.3,0,2,0,2,0,0
+47845,Dominique Steele,1988-01-25,70,170,Team Vision,Welterweight,United States,,,,,,,,,,0,1,0,1,0,0
+47991,Collin Hart,1989-10-12,74,185,Nor-Cal Fighting Alliance,Middleweight,United States,76,6.33,44,7.53,51,2,16,50,0,0,1,0,1,0,0
+48631,Vinicius Kappke de Queiroz,1983-08-29,79,237,Team Nogueira,Heavyweight,Brazil,,,,,,,,,,0,1,0,1,0,0
+6727,K.J. Noons,1982-12-07,71,168,The Arena,Welterweight,United States,,,,,,,,,,2,3,0,5,40,50
+49092,Steve Montgomery,1990-12-19,76,185,American Top Team,Welterweight,United States,75,4.85,39,4.12,47,0,0,64,0,0,2,0,2,0,0
+50367,Alex Soto,1984-02-15,67,135,KHK MMA Team,Bantamweight,United States,71,2.95,25,5.02,59,2.82,30,0,0,0,2,0,2,0,0
+50928,Mike King,1983-08-04,75,185,Buckeye MMA,Middleweight,United States,75,4.44,58,1.29,72,1.75,25,40,3.5,0,1,0,1,0,0
+51228,Ryan Couture,1982-08-27,70,155,Xtreme Couture,Lightweight,United States,75,3.54,45,2.87,54,1.55,29,46,1.3,0,2,0,2,0,0
+53506,Jessica Rakoczy,1977-04-14,67,115,,Strawweight,Canada,68,2.5,44,3.55,64,0.75,20,0,0.8,0,2,0,2,0,0
+53712,Anthony Christodoulou,1987-07-30,69,155,Renzo Gracie Fight Academy,Lightweight,Greece,72,2.19,26,5.9,45,0,0,40,0,0,2,0,2,0,0
+54054,Pat Schilling,1988-08-28,68,145,Ambition Training Academy,Featherweight,United States,69,1.87,26,8.24,52,0,0,0,0,0,2,0,2,0,0
+54543,Oli Thompson,1980-01-02,73,242,ZT Fight Skool,Light Heavyweight,England,75,2.59,48,5.45,47,0,0,66,0.8,0,2,0,2,0,0
+55298,Aaron Phillips,1989-08-05,69,135,Gladiators Academy,Bantamweight,United States,70,1.87,59,3.33,40,0,0,35,0.5,0,2,0,2,0,0
+55503,Joey Gambino,1988-10-26,67,145,Team Raging Warriors,Featherweight,United States,,2.47,35,2.53,51,0,0,42,0.8,0,2,0,2,0,0
+55705,Marcin Bandel,1989-10-10,70,155,Drysdale Jiu-Jitsu,Lightweight,Poland,70,0.79,50,5.26,23,0,0,0,0,0,2,0,2,0,0
+56579,Jesse Ronson,1985-12-24,69,155,Adrenaline Training Center,Lightweight,Canada,70,3.09,46,2.73,59,0.67,40,61,0.3,0,3,0,3,0,0
+56615,Paul Redmond,1986-10-20,70,145,Team Ryano MMA,Featherweight,Ireland,70,0.72,34,2.99,41,0,0,50,0,0,1,0,1,0,0
+57214,Jake Lindsey,1986-06-21,71,155,Combative Sports Center,Lightweight,United States,71,3.44,52,4.01,46,0.65,33,50,0,0,3,0,3,0,0
+8121,Luiz Jorge Dutra Jr.,1982-05-06,71,170,Renovacao Fight Team,Welterweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+57322,Andreas Stahl,1988-05-20,71,170,Renyi Fight Camp,Welterweight,Sweden,73,2.83,37,4.74,57,1.55,66,80,0,0,2,0,2,0,0
+59769,Brian Houston,1987-04-26,73,185,Disorderly Conduct,Middleweight,United States,,,,,,,,,,0,2,0,2,0,0
+60940,James Toney,1968-08-24,70,220,M-1 Global Training Center,Heavyweight,United States,,0,0,2.41,27,0,0,0,0,0,1,0,1,0,0
+61422,Andy Enz,1991-08-15,75,185,Gracie Barra Alaska,Middleweight,United States,78,3.51,23,5.32,57,0,0,58,0,0,3,0,3,0,0
+61682,Sean Soriano,1989-10-06,69,145,Blackzilians,Featherweight,United States,70,3.15,61,2.31,52,1.27,42,55,0,0,3,0,3,0,0
+63272,Mike Jackson,1985-03-22,74,170,4oz. Fight Club,Welterweight,United States,,4,50,2.67,50,0,0,0,0,0,1,0,1,0,0
+63414,Yusuke Kasuya,1989-11-16,67,155,Akimoto Dojo Jungle Junction,Lightweight,Japan,67,2.17,44,4.34,48,1.36,33,0,0,0,1,0,1,0,0
+63422,Albert Cheng,1985-02-07,71,170,Xtreme Couture Toronto,Lightweight,Canada,,1,41,2.6,71,0,0,0,0,0,1,0,1,0,0
+63825,Elizeu Zaleski dos Santos,1986-12-11,71,170,CM System,Welterweight,Brazil,73,3.79,41,2.35,66,0.35,16,39,1.1,0,1,0,1,0,0
+63897,Joseph Sandoval,1986-05-11,66,135,Bighead MMA,Bantamweight,United States,,1.82,42,12.12,60,0,0,0,0,0,2,0,2,0,0
+64716,Yoislandy Izquierdo,1984-01-09,70,155,Young Tigers,Lightweight,Cuba,,2.93,52,1.4,26,0,0,50,0,0,2,0,2,0,0
+64754,Matt Van Buren,1986-06-12,77,205,American Top Team,Light Heavyweight,United States,76,7.73,45,6.82,49,0,0,50,0,0,2,0,2,0,0
+64975,Joey Gomez,1986-07-21,68,135,Team Triumph,Bantamweight,United States,73,2.44,28,4.46,55,0.62,100,50,0,0,1,0,1,0,0
+65128,Gilbert Smith,1981-10-19,69,185,Team Victory,Welterweight,United States,75,1.09,41,2.73,35,3.51,60,0,1.2,0,1,0,1,0,0
+68751,Kurt Holobaugh,1986-09-08,71,145,Gracie United,Featherweight,United States,70,2.3,42,2.4,56,0.5,50,60,1.5,0,1,0,1,0,0
+68957,Jocelyn Jones-Lybarger,1985-10-04,67,115,MMA Lab,Strawweight,United States,64,2.96,31,4.83,56,0.34,25,81,0,0,1,0,1,0,0
+68959,Emily Kagan,1981-07-14,63,115,Jackson-Wink MMA,Strawweight,United States,,,,,,,,,,0,2,0,2,0,0
+68971,Dominic Waters,1989-04-11,73,170,Jackson-Wink MMA,Welterweight,United States,79,0.48,23,2.53,39,4.07,52,28,0,0,2,0,2,0,0
+69087,Will Chope,1990-09-08,76,145,Juggernaut Fight Club,Lightweight,United States,76,4.43,27,9.93,46,0,0,0,0,0,1,0,1,0,0
+69632,Nina Ansaroff,1985-12-03,65,115,American Top Team,Strawweight,United States,64,3.73,50,2.61,53,0.69,50,73,1.4,0,2,0,2,0,0
+69956,Adam Cella,1985-06-26,74,170,Finney's HIT Squad,Welterweight,United States,78,1.91,42,2.61,51,3.92,75,50,1.3,0,1,0,1,0,0
+70452,C.J. Keith,1986-08-09,72,155,Pro Buhawe,Lightweight,United States,,,,,,,,,,0,2,0,2,0,0
+70795,Tina Lahdemaki,1988-05-28,62,115,RNC Sport Club,Strawweight,Finland,62,1.93,20,4.67,57,0,0,16,0,0,1,0,1,0,0
+71175,Azamat Gashimov,1990-04-07,69,125,Jackson-Wink MMA,Bantamweight,Russia,66,1.24,21,4.75,53,1.69,25,0,0,0,2,0,2,0,0
+72046,Walt Harris,1983-06-10,76,250,American Top Team,Heavyweight,United States,77,2.62,36,3.08,62,0,0,80,0.3,0,3,0,3,0,0
+20447,Ronys Torres,1986-08-13,68,155,Nova Uniao,Lightweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+72084,Nolan Ticman,1988-05-17,66,125,Kings MMA,Flyweight,United States,69,2.57,47,2.53,67,0,0,60,0,0,2,0,2,0,0
+72825,Richardson Moreira,1984-03-31,74,185,Team Nogueira,Light Heavyweight,Brazil,72,1.17,28,1.83,67,0,0,100,0,0,2,0,2,0,0
+73700,Artem Lobov,1986-11-08,69,145,SBG Ireland,Featherweight,Ireland,65,2.67,40,3.18,58,0.25,50,73,0,0,2,0,2,0,0
+73825,Dustin Jacoby,1988-04-04,76,185,Finney's HIT Squad,Middleweight,United States,78,1.5,25,2.65,61,0,0,28,0,0,2,0,2,0,0
+75537,Josh Copeland,1982-10-20,73,265,Grudge Training Center,Heavyweight,United States,75,1.03,31,3.01,55,0,0,57,0,0,2,0,2,0,0
+75842,Ruan Potts,1978-02-23,74,247,Mark Robinson MMA,Heavyweight,South Africa,75,0.85,37,5.92,22,0.75,16,33,2.3,0,3,0,3,0,0
+81136,Rodrigo Goiana de Lima,1991-03-03,69,155,Coalizao Fight Team,Lightweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+81585,Roger Zapata,1986-05-09,71,170,Bruno Tostes BJJ,Welterweight,United States,74,2.6,51,2.13,36,0,0,81,1.4,0,1,0,1,0,0
+81634,Jonavin Webb,1989-04-28,69,170,Renzo Gracie Philly,Welterweight,United States,71,1.47,30,2.27,64,2.5,31,40,1,0,2,0,2,0,0
+83243,Daniel Jolly,1984-09-03,73,205,Rubicon Fightsport,Light Heavyweight,United States,75,1.07,35,4.81,15,0,0,25,0,0,1,0,1,0,0
+83505,Jumabieke Tuerxun,1986-04-17,66,135,Xian Sports University,Bantamweight,China,67,1.6,28,3.08,59,0.47,11,66,0.9,0,3,0,3,0,0
+83949,Jack May,1981-04-14,80,255,CSW,Heavyweight,United States,79,1.52,38,3.29,33,0.91,33,20,0,0,2,0,2,0,0
+84278,Lewis Gonzalez,1987-09-19,70,170,MMAGOLD Fight Team,Middleweight,United States,73,1.4,37,1.87,41,2,33,62,0,0,1,0,1,0,0
+238,Joe Slick,1977-10-17,72,199,,Light Heavyweight,USA,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+11950,Ron Stallings,1983-02-25,72,185,Team Lloyd Irvin,Middleweight,United States,,,,,,,,,,1,2,0,3,33,0
+84645,Cain Carrizosa,1986-07-22,68,155,Elite Team,Lightweight,United States,74,2.72,42,5.8,51,0,0,14,0,0,2,0,2,0,0
+84661,Jimmy Quinlan,1986-05-25,72,185,Mass BJJ,Middleweight,United States,72,2.08,70,5.94,16,4.46,25,0,0,0,1,0,1,0,0
+84854,Rocky Lee,1987-04-08,69,145,AKA Thailand,Featherweight,Taiwan,68,2.47,51,5.33,44,1,10,33,0,0,1,0,1,0,0
+85623,Marcin Wrzosek,1987-10-14,69,155,Gracie Barra Lodz,Featherweight,Poland,,3.47,43,4.07,43,3,25,33,0,0,1,0,1,0,0
+86246,Kyle Bochniak,1987-02-05,69,145,Broadway Jiu-Jitsu,Featherweight,United States,70,3.1,34,4.9,62,1,25,88,0,0,1,0,1,0,0
+86294,Anton Zafir,1987-05-10,71,170,Whitsunday Martial Arts,Welterweight,Australia,72,2.99,64,2.31,52,6.11,60,0,0,0,1,0,1,0,0
+86920,Damian Stasiak,1990-02-20,68,135,United Gym,Featherweight,Poland,70,0.86,40,1.76,52,3.48,53,0,1.5,0,1,0,1,0,0
+87296,Mike Rhodes,1989-12-04,73,170,Roufusport,Welterweight,United States,74,3.2,39,4.13,64,0.96,33,75,0.5,0,3,0,3,0,0
+89761,Sultan Aliev,1984-09-17,72,170,Champion,Middleweight,Russia,74,1.3,57,2.03,58,1.69,66,100,0,0,1,0,1,0,0
+91121,Cortney Casey,1987-05-05,62,115,Freak Animal Fitness,Strawweight,United States,67,3.78,43,3.91,51,0.58,66,23,0.3,0,2,0,2,0,0
+91565,Peggy Morgan,1979-12-06,73,135,Triumph MMA,Bantamweight,United States,,,,,,,,,,0,1,0,1,0,0
+92415,Teemu Packalen,1987-05-22,73,155,Finnfighters Gym,Lightweight,Finland,72,2.66,56,2.79,50,2.92,27,100,1.9,0,1,0,1,0,0
+93683,Justin Jones,1987-09-06,71,205,Victory MMA,Heavyweight,United States,78,1.7,36,3.17,45,1,15,46,0.5,0,2,0,2,0,0
+93863,Dave Galera,1978-01-12,71,135,Lakay MMA,Bantamweight,Philippines,,1.67,69,0.53,33,0,0,14,2,0,1,0,1,0,0
+98419,Ericka Almeida,1989-03-05,66,115,Team Nogueira,Strawweight,Brazil,68,1.07,39,3.33,43,0.5,33,37,0,0,2,0,2,0,0
+100921,Vernon Ramos,1992-06-03,69,170,507 BJJ,Welterweight,Panama,72,4,25,8,55,0,0,0,0,0,1,0,1,0,0
+101117,Chris Heatherly,1987-11-24,68,155,Fit or Fight,Welterweight,United States,68,1.08,45,2.67,52,3.39,50,100,0.7,0,2,0,2,0,0
+103497,Roldan Sangcha-an,1990-12-04,64,125,Lakay MMA,Flyweight,Philippines,65,2.71,46,2.15,51,1.94,60,68,0,0,2,0,2,0,0
+108499,Guilherme Vasconcelos,1986-03-23,72,185,BH Rhinos,Welterweight,Brazil,74,3.27,29,4.4,70,0,0,0,0,0,1,0,1,0,0
+1303,Steve Berger,1973-05-20,70,170,Berger MMA,Welterweight,United States,,1,27,3.26,36,0.84,40,16,1.7,0,2,0,2,0,0
+1354,Norifumi Yamamoto,1977-03-15,64,135,Krazy Bee,Bantamweight,Japan,66,2.09,45,2.01,57,0.41,22,45,0,0,3,0,3,0,0
+122349,Izabela Badurek,1991-07-11,64,115,WCA Fight Team,Strawweight,Poland,,3.74,71,4.9,32,1.75,12,100,0,0,1,0,1,0,0
+123973,Bentley Syler,1982-12-22,64,125,American Top Team,Flyweight,Bolivia,68,1.3,18,1.73,79,0,0,75,0,0,1,0,1,0,0
+138127,Joe Merritt,1984-03-07,72,170,Millennia MMA,Welterweight,United States,73,1.53,58,0.73,66,0,0,68,0,0,1,0,1,0,0
+144115,Larissa Pacheco,1994-09-07,68,135,JB Jiu-Jitsu Team,Bantamweight,Brazil,69,1.21,19,4.14,55,0,0,0,0,0,2,0,2,0,0
+146377,Chris de la Rocha,1979-05-15,75,250,,Heavyweight,United States,80,4.07,36,7.44,46,0,0,0,0,0,1,0,1,0,0
+160663,Augusto Mendes,1983-03-03,66,135,Soul Fighters BJJ,Bantamweight,Brazil,65,2.75,36,2.64,65,3.11,44,100,0,0,1,0,1,0,0
+172645,Alex Torres,1988-05-29,70,145,Octagon MMA Colombia,Featherweight,Colombia,70,2.47,37,2.73,69,2,22,50,0,0,1,0,1,0,0
+172941,Horacio Gutierrez,1990-09-15,70,145,Chicago Fight Team,Featherweight,Mexico,69,0.86,26,2.91,46,0,0,50,0,0,1,0,1,0,0
+296,Vernon White,1971-12-03,72,205,Lion's Den,Light Heavyweight,United States,,2.11,38,2.2,54,0.88,28,44,0,0,1,1,2,0,0
+511,Javier Vazquez,1977-07-16,67,145,Gracie Jiu-Jitsu,Featherweight,United States,69,2.43,36,1.99,72,2.56,52,57,1.5,1,0,0,1,100,0
+15962,Ryan Hall,1985-02-22,70,145,50,Featherweight,United States,71,2.3,43,0.47,73,0.5,20,0,0.5,1,0,0,1,100,0
+43885,Milana Dudieva,1989-04-08,65,136,Peresvet FT,Bantamweight,Russia,,,,,,,,,,1,1,0,2,50,0
+25830,Claudio Henrique da Silva,1982-09-06,71,185,London Shootfighters,Middleweight,Brazil,,,,,,,,,,2,0,0,2,100,0
+26808,Shamil Abdurakhimov,1981-09-02,75,235,Peresvet FT,Heavyweight,Russia,76,2.48,45,2.5,58,1.4,22,77,0.3,1,0,0,1,100,0
+184,LaVerne Clark,1973-12-02,71,170,Miletich Martial Arts,Middleweight,United States,,0,0,0,0,0,0,0,0,1,1,0,2,50,0
+198,Mike Van Arsdale,1965-06-20,74,205,,Light Heavyweight,United States,,1.52,41,1.91,41,1.06,14,37,0,1,2,0,3,33,0
+8753,Phil Harris,1983-04-09,65,125,Gym01,Flyweight,England,,,,,,,,,,1,3,0,4,25,0
+217,Ron Waterman,1965-11-23,74,280,Colorado Stars,Heavyweight,United States,,0.84,50,1.37,42,4.19,69,50,2.8,1,1,1,3,33,0
+30304,Maiquel Falcao,1981-03-08,71,185,Independent,Middleweight,Brazil,,1.67,55,0.53,86,1,100,71,3,1,0,0,1,100,0
+339,Marvin Eastman,1971-06-08,69,185,J-Sect MMA,N/A,United States,73,2.21,35,3.92,42,1.38,33,81,0,1,4,0,5,20,0
+502,Jake Shields,1979-01-09,72,170,Cesar Gracie Fight Team,Welterweight,United States,72,2.45,36,1.8,56,2.83,29,35,1.2,4,3,0,7,57,0
+573,Sean Pierson,1976-03-10,73,170,Tap Star,Welterweight,Canada,76,3.84,39,3.73,64,0.39,18,66,0.4,4,2,0,6,67,0
+615,Dave Strasser,1969-07-13,70,170,Freestyle Academy,Welterweight,United States,,3.04,45,1.88,59,0.72,33,33,0,1,1,0,2,50,0
+930,Justin McCully,1976-02-18,74,225,Team Punishment,Heavyweight,United States,73,1.58,37,2.02,46,1.28,44,43,0,2,2,0,4,50,0
+935,Denis Kang,1977-09-17,71,185,American Top Team,Middleweight,Canada,77,2.27,35,1.65,67,2.51,65,38,1.2,1,2,0,3,33,0
+1567,Aaron Riley,1980-12-09,69,155,Jackson-Wink MMA,Lightweight,United States,69,3.45,34,3.78,61,1.18,34,60,0.1,3,6,0,9,33,0
+36924,Chris Gruetzemacher,1986-06-16,67,155,MMA Lab,Featherweight,United States,68,5.95,58,5.22,52,0,0,69,0,1,0,0,1,100,0
+1693,Yves Jabouin,1979-05-30,66,135,Tristar Gym,Bantamweight,Canada,68,3.06,41,2.93,62,1.94,60,82,0.1,5,5,0,10,50,0
+1831,Ryo Chonan,1976-10-08,69,170,Tribe Tokyo MMA,Welterweight,Japan,70,2.57,43,2.25,60,0.61,41,39,0.3,1,3,0,4,25,0
+2294,Benji Radach,1979-04-05,70,185,Reign MMA,Middleweight,United States,,2.62,49,2.31,51,1.06,41,71,0.4,1,1,0,2,50,0
+2575,Kuniyoshi Hironaka,1976-06-17,70,168,Master Japan,Lightweight,Japan,70,1.98,40,3.01,54,1.91,30,25,0.6,1,3,0,4,25,0
+2825,Eddie Yagin,1979-03-23,66,145,Kong Submission Academy,Featherweight,United States,,3.13,30,5.77,42,0,0,62,1,1,1,0,2,50,0
+3006,Miguel Torres,1981-01-18,69,135,Tristar Gym,Featherweight,United States,76,3.98,43,1.86,74,0,0,17,1.6,2,2,0,4,50,0
+8269,Crafton Wallace,1972-04-15,72,184,Inferno MMA,Middleweight,United States,,,,,,,,,,0,2,0,2,0,0
+37681,Jose Maria Tome,1982-01-04,65,125,Team Nogueira,Flyweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+3530,Cristiano Marcello,1977-12-03,70,155,CM System,Lightweight,Brazil,72,2.56,33,3.61,58,0.44,11,20,0.9,1,3,0,4,25,0
+40285,Marco Beltran,1986-05-18,68,135,Top Brother Mexico,Welterweight,Mexico,69,2.12,40,1.76,60,0.76,40,37,0.4,2,0,0,2,100,0
+40308,Erick Montano,1985-11-19,72,170,Bonebreakers Team,Welterweight,Mexico,73,2.79,44,2.06,64,2.29,36,66,0,1,0,0,1,100,0
+4015,Michael Guymon,1974-09-17,72,155,Joker's MMA,Lightweight,United States,,,,,,,,,,1,3,0,4,25,0
+4025,Jorge Gurgel,1977-01-25,69,155,Team Jorge Gurgel,Lightweight,United States,69,3.37,32,3.62,62,0.81,23,60,0.5,3,4,0,7,43,0
+4095,Renato Verissimo,1973-08-03,73,170,BJ Penn's MMA,Welterweight,United States,,0.92,48,1.87,47,1.46,30,50,2.5,1,2,0,3,33,0
+4870,Jeff Hougland,1978-08-02,69,135,Combat Sport and Fitness,Bantamweight,United States,68,1.86,48,3.46,47,0.86,18,0,1.1,1,2,0,3,33,0
+9,John Marsh,1970-09-15,72,265,Team Neutral Grounds,Heavyweight,United States,,0.83,42,2.23,40,0.43,100,54,0.4,0,1,0,1,0,0
+19,Royce Gracie,1966-12-12,72,175,Gracie Humaita,Middleweight,Brazil,,0.88,41,1.13,37,0,0,66,0.8,0,1,0,1,0,0
+52,Dan Severn,1958-06-08,74,250,The Beast Academy,Heavyweight,United States,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+64,Chris Brennan,1971-10-12,68,170,Next Generation,Lightweight,United States,,0.6,40,0.97,50,0,0,25,2.1,0,1,0,1,0,0
+67,Kit Cope,1977-03-17,72,170,Twisted Genetiks,Welterweight,United States,,1.18,52,2.12,35,0,0,50,3.5,0,1,0,1,0,0
+81,David Dodd,1973-09-22,74,200,Arizona Combat Sports,Light Heavyweight,United States,,0,0,0,0,0,0,0,0,0,2,0,2,0,0
+85,Romie Aram,1977-12-02,70,170,Millennia MMA,Welterweight,United States,,1.8,35,2.83,50,2.5,62,83,0,0,1,0,1,0,0
+223,Tim Lajcik,1965-06-21,73,225,Gladiators Training Academy,Heavyweight,United States,,0,0,0,0,0,0,0,0,0,2,1,3,0,0
+88,Tiki Ghosn,1977-02-09,70,170,,Welterweight,United States,,2.78,46,2.94,58,0.41,50,61,0,0,3,0,3,0,0
+120,Marco Ruas,1961-01-23,73,210,Ruas Vale Tudo,Heavyweight,Brazil,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+142,Roberto Traven,1968-09-16,75,227,Alliance Team,Heavyweight,Brazil,,0.92,50,2.77,57,0,0,0,0,0,1,0,1,0,0
+157,Tra Telligman,1965-02-07,74,233,Lion's Den,Heavyweight,United States,,1.83,35,3.02,56,0.87,100,80,0,0,2,0,2,0,0
+182,Yoji Anjo,1970-12-31,71,198,Team Kingdom,Light Heavyweight,Japan,,,,,,,,,,0,2,0,2,0,0
+201,Pete Williams,1975-07-10,75,235,Lion's Den,Heavyweight,USA,,0.61,62,2.77,40,1.84,40,16,0.9,0,3,0,3,0,0
+226,Daiju Takase,1978-04-20,72,170,IamI,Middleweight,Japan,,0.49,30,1.64,47,0.84,17,21,1.2,0,2,0,2,0,0
+236,Kenichi Yamamoto,1976-07-11,71,170,Power of Dream,Middleweight,Japan,,0.3,46,1.93,38,0,0,10,0.3,0,1,0,1,0,0
+5432,Ivan Jorge,1980-11-07,70,155,Team Tavares,Lightweight,Brazil,73,3.41,49,2.91,59,1.56,16,75,0.6,2,2,0,4,50,0
+5466,Hatsu Hioki,1983-07-18,71,145,Alive,Featherweight,Japan,70,2.42,42,2.12,65,2.55,56,54,0.6,3,5,0,8,38,0
+5615,Kajan Johnson,1984-04-21,71,155,Tristar Gym,Lightweight,Canada,75,2.52,43,1.79,64,2.5,35,81,0.4,2,1,0,3,67,0
+5639,Tom Niinimaki,1982-07-25,69,145,Finnfighters Gym,Featherweight,Finland,69,1.91,54,2.31,58,2.97,46,33,0.5,1,2,0,3,33,0
+33531,Jared Papazian,1988-02-01,68,135,Team Hayastan,Bantamweight,United States,67,3.33,39,3.81,44,0,0,50,0,0,3,0,3,0,0
+45384,Valentina Shevchenko,1988-03-07,65,135,Tiger Muay Thai,Bantamweight,Peru,67,2.48,51,2.28,60,2.33,52,73,0.2,1,0,0,1,100,0
+5778,Nam Phan,1983-03-13,66,135,Nam Phan MMA Academy,Featherweight,United States,70,4.52,37,6.55,59,0.18,18,60,0.2,2,6,0,8,25,0
+6767,Carlo Prater,1981-06-25,72,155,Prater MMA,Lightweight,Brazil,72,2.03,47,4.07,35,0.43,9,57,1.7,1,2,0,3,33,0
+7018,John Gunderson,1979-01-05,69,155,Syndicate MMA,Featherweight,United States,69,1.04,27,1.71,58,1.67,33,11,2,1,2,0,3,33,0
+7124,Nick Thompson,1981-06-23,73,170,Minnesota Martial Arts Academy,Welterweight,United States,74,1.87,42,1.8,49,1.06,100,35,2.6,1,1,0,2,50,0
+8180,Isaac Vallie-Flagg,1978-04-08,68,155,Jackson-Wink MMA,Welterweight,United States,68,5.56,47,5.6,45,0.2,12,58,0,1,3,0,4,25,0
+8396,Nate Mohr,1983-03-03,69,155,Team Curran,Lightweight,United States,72,3.79,41,2.5,74,0.45,50,71,0,1,3,0,4,25,0
+40356,Masio Fullen,1987-10-06,70,145,Alliance MMA,Featherweight,Mexico,,,,,,,,,,1,2,0,3,33,0
+9265,Eddie Alvarez,1984-01-11,70,155,Blackzilians,Lightweight,United States,69,3.43,42,3.28,59,3.58,38,92,0.5,2,1,0,3,67,0
+9281,Chris Wilson,1977-06-07,73,170,CW Combat Sports,Lightweight,Brazil,75,2.32,50,1.36,55,1.31,50,60,1.6,1,3,0,4,25,0
+10229,Riki Fukuda,1981-01-06,72,185,Grabaka,Middleweight,Japan,73,4.24,43,3.71,64,2.17,43,70,0,1,3,0,4,25,0
+10380,Junior Assuncao,1981-06-24,69,145,Ascension MMA,Featherweight,Brazil,72,3.31,62,2.06,44,2.43,24,66,0.7,1,3,0,4,25,0
+10669,Chris Tuchscherer,1975-09-08,74,258,Academy of Combat Arts,Heavyweight,United States,76,1.35,31,3.17,47,1.19,18,0,0.6,1,3,0,4,25,0
+11895,Yoshihiro Akiyama,1975-07-29,70,170,Jackson-Wink MMA,Welterweight,Japan,73,3.1,41,3.62,57,2.29,67,92,1,2,5,0,7,29,0
+10003,Joshua Burkman,1980-10-04,70,155,The Pit Elevated Fight Team,Lightweight,United States,,,,,,,,,,6,7,0,13,46,33
+12212,Alvin Robinson,1982-07-16,69,155,Grudge Training Center,Featherweight,United States,68,1.57,50,1.29,51,1.24,50,25,1.2,1,3,0,4,25,0
+12855,Carmelo Marrero,1981-01-26,74,205,American Top Team,Heavyweight,United States,73,0.84,34,2.04,54,3.21,36,36,0.9,1,3,0,4,25,0
+13005,Michihiro Omigawa,1975-12-19,66,145,Neo Judo Academy,Featherweight,Japan,68,2.01,39,3.06,64,1.19,36,49,1.5,1,6,0,7,14,0
+13237,Henry Martinez,1983-08-07,67,155,Team Irish,Lightweight,United States,68,2.79,25,4.01,60,0,0,80,0,1,2,0,3,33,0
+13767,Masanori Kanehara,1982-11-18,67,135,Alpha,Bantamweight,Japan,,,,,,,,,,1,2,0,3,33,0
+13793,Ian Loveland,1983-09-07,68,145,Sports Lab,Bantamweight,United States,,2.71,40,2.36,64,1,37,69,0.3,1,2,0,3,33,0
+14173,Joe Ellenberger,1985-03-28,68,155,Premier Combat Center,Lightweight,United States,72,1.62,47,3.45,48,3.17,40,0,1.1,1,1,0,2,50,0
+11483,David Heath,1976-10-02,71,203,Absolute Combat Alliance,Light Heavyweight,United States,,,,,,,,,,1,3,0,4,25,0
+14539,Matt Grice,1981-07-29,68,145,R-1 MMA,Featherweight,United States,70,4.09,53,2.69,56,2.19,37,82,0.5,2,5,0,7,29,0
+14702,Francimar Barroso,1980-02-29,73,205,Nova Uniao,Light Heavyweight,Brazil,,,,,,,,,,3,1,0,4,75,0
+14825,Hans Stringer,1987-07-06,74,205,Blackzilians,Light Heavyweight,Netherlands,73,3.16,61,2.84,41,2.4,36,62,0,1,2,0,3,33,0
+14865,Anton Kuivanen,1984-05-01,69,155,Primus Fight Team,Lightweight,Finland,72,2.27,38,1.63,67,1.2,100,71,0.4,1,2,0,3,33,0
+26160,Nicholas Musoke,1986-04-05,72,170,Allstars Training Center,Welterweight,Sweden,,,,,,,,,,3,2,0,5,60,33
+63608,Nicolas Dalby,1984-11-16,71,170,Rumble Sports,Welterweight,Denmark,74,3.27,38,3.33,55,2,50,69,0,1,0,1,2,50,0
+64894,Alex Morono,1990-08-16,71,170,Gracie Barra Woodlands,Welterweight,United States,72,4.98,45,3.2,63,0,0,75,0.4,1,0,0,1,100,0
+64989,Michael Graves,1991-01-08,70,170,American Top Team,Welterweight,United States,71,1.25,54,1.47,58,4.8,52,66,0.4,1,0,0,1,100,0
+67098,Justine Kish,1988-04-13,65,115,Black House,Strawweight,United States,64,4.1,50,4.53,53,2,36,50,0.5,1,0,0,1,100,0
+67132,Heather Clark,1980-09-19,66,115,Syndicate MMA,Strawweight,United States,,,,,,,,,,1,0,0,1,100,0
+15148,George Sullivan,1981-03-13,72,170,Pellegrino MMA,Welterweight,United States,73,3.82,40,2.45,58,1.36,21,35,0.8,2,2,0,4,50,0
+15720,Luke Zachrich,1981-10-01,74,185,Ronin Training Center,Middleweight,United States,,,,,,,,,,1,2,0,3,33,0
+16777,Danny Martinez,1985-06-14,65,125,Alliance MMA,Bantamweight,United States,67,2.73,28,3.77,63,3,45,36,0,1,3,0,4,25,0
+69513,Guido Cannetti,1979-12-19,66,135,Muay Thai Goa,Bantamweight,Argentina,68,3.08,54,2.07,55,3.45,55,93,0,1,0,0,1,100,0
+71442,Julian Erosa,1989-07-31,72,145,Yakima MMA,Featherweight,United States,75,3.74,50,3.84,53,2.19,75,75,1.5,1,0,0,1,100,0
+16830,David Mitchell,1979-10-24,72,170,Team Alpha Male,Middleweight,United States,76,1.74,32,2.06,55,0.66,50,29,2,1,4,0,5,20,0
+17758,Jason Young,1986-06-28,69,145,American Top Team,Featherweight,England,73,2.97,37,3.2,50,1.98,66,55,0,1,3,0,4,25,0
+18744,Waylon Lowe,1980-10-31,67,145,,Welterweight,United States,,1.88,55,2.4,53,4.47,55,83,0.3,2,2,0,4,50,0
+111777,Leonardo Morales,1992-12-22,71,135,Gladiadores MMA,N/A,Nicaragua,68,2.05,47,2.05,58,0,0,62,0,0,1,0,1,0,0
+113687,Alexis Dufresne,1990-08-31,69,135,Team Quest,Featherweight,United States,68,1.33,27,3.33,60,1.5,50,50,0,0,2,0,2,0,0
+19080,Greg Soto,1986-06-03,71,170,Pellegrino MMA,Welterweight,United States,73,3.21,63,2.61,52,1.49,27,44,1,1,2,0,3,33,0
+19789,Hacran Dias,1984-05-16,68,145,Nova Uniao,Featherweight,Brazil,,,,,,,,,,3,2,0,5,60,0
+20277,Marcelo Guimaraes,1983-06-25,72,185,Caveira Team,Middleweight,Brazil,73,4.67,51,4.41,62,1.99,13,0,0,2,1,0,3,67,0
+74434,Ruslan Magomedov,1986-11-26,75,242,Fight Club Berkut,Heavyweight,Russia,78,4.02,47,1.47,66,0.33,100,88,0,3,0,0,3,100,0
+78384,Andrew Holbrook,1986-02-06,71,155,Indy Boxing & Grappling,Lightweight,United States,70,1.7,54,1.86,57,0.98,40,10,2.5,1,0,0,1,100,0
+20522,Zach Makovsky,1982-06-30,64,125,Philadelphia Fight Factory,Flyweight,United States,,,,,,,,,,3,3,0,6,50,0
+20744,Shamar Bailey,1982-09-22,68,155,Sparta Indy,Welterweight,United States,75,1.56,20,3.91,69,1.5,33,37,0,1,2,0,3,33,0
+20812,Papy Abedi,1978-06-30,71,185,Allstars Training Center,Welterweight,Sweden,74,2.8,55,3.15,48,3.47,57,50,1.3,1,3,0,4,25,0
+21131,Clay Harvison,1980-09-25,73,170,Madhouse Training,Welterweight,United States,74,3.29,48,3.91,58,0.66,100,68,1.3,1,2,0,3,33,0
+21175,Ronny Markes,1988-04-21,73,185,Nova Uniao Kimura,Light Heavyweight,Brazil,75,2.17,53,2.43,45,3.13,40,100,0.5,3,2,0,5,60,0
+21246,Seo Hee Ham,1987-03-08,62,115,CMA Korea,Strawweight,South Korea,,,,,,,,,,1,1,0,2,50,0
+21247,Jessica Penne,1983-01-30,65,115,Alliance MMA,Strawweight,United States,,,,,,,,,,1,1,0,2,50,0
+21446,Sirwan Kakai,1989-10-03,66,135,GBG MMA,Bantamweight,Sweden,66,3.57,41,4.63,62,4,42,83,0,1,1,0,2,50,0
+21798,Richie Vaculik,1983-06-19,66,125,TP Fight Team,Flyweight,Australia,69,3.69,46,4.09,57,3,45,31,1,1,3,0,4,25,0
+21851,Valerie Letourneau,1983-04-29,67,115,American Top Team,Strawweight,Canada,68,4.51,37,5.4,58,0.77,45,66,0.3,3,1,0,4,75,0
+117453,Kelly Faszholz,1985-04-09,68,135,Nor-Cal Fighting Alliance,Featherweight,United States,67,4.01,48,3.61,52,0,0,44,0,0,1,0,1,0,0
+120663,Dashon Johnson,1988-01-25,69,145,Team Xplode MMA,Lightweight,United States,70,1.01,69,3.83,35,0.85,33,63,0.8,0,2,0,2,0,0
+265,Bobby Hoffman,1966-10-28,74,245,Universal Grappling Academy,Heavyweight,United States,,,,,,,,,,0,2,0,2,0,0
+269,Alex Stiebling,1976-12-26,74,195,Integrated Fighting Academy,Light Heavyweight,United States,,,,,,,,,,0,1,0,1,0,0
+271,Aaron Brink,1974-11-12,75,205,,Light Heavyweight,United States,,3.49,42,5.71,57,0,0,0,0,0,1,0,1,0,0
+279,Curtis Stout,1973-11-07,73,185,,Middleweight,USA,,0.69,67,3.2,29,0,0,20,0,0,2,0,2,0,0
+282,Phil Johns,1970-12-31,62,160,Silverbacks Vale Tudo,Welterweight,United States,,,,,,,,,,0,1,0,1,0,0
+290,Renzo Gracie,1967-03-11,70,185,Renzo Gracie Jiu-Jitsu,Welterweight,Brazil,,1.71,41,1.67,55,1.13,20,40,0.8,0,1,0,1,0,0
+323,Gilbert Yvel,1976-06-30,74,225,Throwdown,Light Heavyweight,Netherlands,77,1.05,47,1.78,50,0,0,25,1,0,3,0,3,0,0
+340,Floyd Sword,1976-08-24,71,185,Team Four Corners,Middleweight,United States,,0.78,42,1.57,40,0,0,33,0,0,1,0,1,0,0
+393,Naoyuki Kotani,1981-12-08,68,155,Rodeo Style,Lightweight,Japan,66,1.02,31,2.89,50,0.83,16,46,0.8,0,5,0,5,0,0
+397,Kerry Schall,1971-08-09,74,265,Meat Truck Inc.,Heavyweight,United States,,0.94,11,4.84,63,0,0,0,0,0,1,0,1,0,0
+432,Hayato Sakurai,1975-08-24,67,168,Mach Dojo,Welterweight,Japan,,2.45,49,1.94,59,1.87,69,56,0.3,0,1,0,1,0,0
+437,Branden Lee Hinkle,1973-07-29,74,235,Hammer House,Heavyweight,United States,,2.61,69,3.91,26,4.34,57,66,4.3,0,2,0,2,0,0
+503,Charlie Valencia,1974-10-31,63,135,Millennia MMA,Bantamweight,United States,64,2.58,37,2.61,77,1.4,53,75,0.5,0,1,0,1,0,0
+515,Antonio McKee,1970-03-12,68,155,Bodyshop Fitness Team,Lightweight,United States,,1.37,45,0.74,74,1.47,33,57,0,0,1,0,1,0,0
+21912,Tarec Saffiedine,1986-09-06,69,170,Evolve MMA,Welterweight,Belgium,70,4.05,48,2.9,63,0.48,33,85,0.1,2,1,0,3,67,0
+81835,Diego Rivas,1991-11-11,68,145,Okinawa Dojo,Featherweight,Chile,69,0.98,40,1.18,60,2.21,75,57,0,1,0,0,1,100,0
+19599,Tim Hague,1983-09-05,76,264,Black Sheep MMA,Heavyweight,Canada,,,,,,,,,,1,4,0,5,20,100
+248,Tedd Williams,1969-12-19,72,275,Williams Combat Grappling,Heavyweight,United States,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+249,Koji Oishi,1977-05-31,68,170,PANCRASEism,Featherweight,Japan,,1.43,9,17.86,43,0,0,0,0,0,2,0,2,0,0
+251,Satoshi Honma,1968-05-19,72,205,,Light Heavyweight,Japan,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+254,Adrian Serrano,1963-12-23,68,170,Adrian Serrano Combat Sports Gym,Middleweight,United States,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+256,Joao Roque,1971-07-22,66,155,Nova Uniao,Featherweight,Angola,,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+524,Ronald Jhun,1970-09-21,71,170,808 Top Team,Welterweight,United States,,1.45,57,3.01,50,1.81,100,100,0,0,1,0,1,0,0
+551,Bobby Southworth,1969-12-16,73,205,American Kickboxing Academy,Heavyweight,United States,,0.99,39,1.38,65,3.98,78,64,1.3,0,1,0,1,0,0
+770,Jeff Curran,1977-09-02,66,135,Team Curran,Bantamweight,United States,69,1.54,31,2.48,60,0.35,12,35,1.2,0,3,0,3,0,0
+2347,Jason Reinhardt,1969-10-31,66,135,Wand Fight Team,Bantamweight,United States,,0.51,40,4.07,43,1.91,12,50,0,0,3,0,3,0,0
+2490,Joao Marcos Pierini,1971-12-11,73,170,Team JM,Welterweight,Mexico,,,,,,,,,,0,1,0,1,0,0
+2580,Antonio Banuelos,1979-09-23,63,135,The Pit,Flyweight,United States,63,2.71,33,3.3,58,1.38,58,85,0.4,0,1,0,1,0,0
+2651,Jeremy Jackson,1982-09-19,70,170,Team Freedom,Welterweight,United States,,0.71,27,2.03,25,1.52,40,58,0,0,2,0,2,0,0
+2656,Chris Sanford,1968-03-12,71,185,Cesar Gracie Jiu-Jitsu,Middleweight,United States,,0.23,50,3.22,17,0,0,0,3.5,0,1,0,1,0,0
+2682,Josh Rafferty,1981-01-06,72,170,Meat Truck Inc.,Welterweight,United States,,0.6,33,3.6,50,0,0,0,9,0,1,0,1,0,0
+2713,Wes Sims,1979-10-12,81,258,Hammer House,Heavyweight,United States,,,,,,,,,,0,3,0,3,0,0
+2873,John Olav Einemo,1975-12-10,78,251,Golden Glory,Heavyweight,Norway,,,,,,,,,,0,2,0,2,0,0
+5542,Gabe Ruediger,1977-08-29,70,155,PKG,Lightweight,United States,,1.7,31,5.16,41,2.04,11,28,0,0,3,0,3,0,0
+5746,Dante Rivera,1974-12-08,72,185,Renzo Gracie Jiu-Jitsu,Welterweight,United States,,2.27,53,4,25,0,0,16,0,0,1,0,1,0,0
+5781,Jared Rollins,1977-01-26,69,170,Team Oyama,Middleweight,United States,,3.33,57,2.41,39,2.5,50,50,1.2,0,1,0,1,0,0
+5925,Jordan Radev,1976-09-28,67,185,Sportcentrum KOPS,Welterweight,Bulgaria,,1.35,23,2.38,66,0,0,80,0,0,2,0,2,0,0
+6123,Brodie Farber,1980-07-05,73,170,Tiger Muay Thai,Light Heavyweight,United States,,1.69,45,2.17,53,0.9,50,20,0.9,0,2,0,2,0,0
+6246,Pat Healy,1983-07-20,69,155,Sports Lab,Lightweight,United States,74,2.57,36,2.57,50,3.08,37,55,1.1,0,5,0,5,0,0
+6254,Josh Haynes,1977-07-30,69,170,Syndicate MMA,Light Heavyweight,United States,,1.25,22,4.03,52,0.94,18,42,0,0,3,0,3,0,0
+6606,Jeff Joslin,1975-04-30,72,170,Joslin MMA,Welterweight,Canada,,2.17,39,1.57,65,0.5,33,64,0.5,0,1,0,1,0,0
+10432,Fredson Paixao,1979-05-13,70,145,Total Dojo,Featherweight,England,66,1.71,54,2.31,62,0.62,11,10,2.2,0,1,0,1,0,0
+10502,Icho Larenas,1982-12-03,73,235,,Heavyweight,Canada,,,,,,,,,,0,1,0,1,0,0
+10515,Brandon Melendez,1983-03-24,70,155,Elite Performance,Welterweight,United States,,0.84,26,0.56,63,0,0,25,0,0,1,0,1,0,0
+10543,Lucio Linhares,1973-12-08,74,185,Alliance Jiu-Jitsu,Middleweight,Brazil,,0.99,22,3.47,34,1.86,50,50,1.9,0,2,0,2,0,0
+10581,Hector Ramirez,1976-03-28,72,205,,Light Heavyweight,United States,,2.27,41,4.6,56,2.3,55,66,0.5,0,2,0,2,0,0
+10584,Dan Evensen,1974-06-01,75,250,,N/A,Norway,,0.27,10,3.86,38,0,0,0,4,0,2,0,2,0,0
+10754,Jason Gilliam,1972-10-31,72,169,Team Wolfpack,Welterweight,United States,,,,,,,,,,0,2,0,2,0,0
+11408,Paul Georgieff,1982-09-22,74,170,,Lightweight,United States,,2.55,40,2.34,35,0,0,0,0,0,1,0,1,0,0
+11453,Brad Imes,1977-03-16,79,260,Sacramaneto BJJ,Heavyweight,United States,,,,,,,,,,0,3,0,3,0,0
+14515,Sean Salmon,1977-11-09,70,205,,Light Heavyweight,United States,,,,,,,,,,0,2,0,2,0,0
+14862,Mark Holst,1985-08-14,72,155,OAMA,Welterweight,Canada,,0.25,19,1.67,47,0.76,100,60,2.3,0,2,0,2,0,0
+14891,Johnny Rees,1982-10-21,72,170,,Middleweight,United States,,3.29,64,0.84,47,1.15,25,50,0,0,2,0,2,0,0
+14971,Leonardo Guimaraes,1982-04-15,72,185,MMA Masters,Middleweight,Brazil,,,,,,,,,,0,1,0,1,0,0
+14972,Ednaldo Oliveira,1984-02-19,77,205,Champion Team,Light Heavyweight,Brazil,79,1.03,22,1.8,52,0,0,42,0,0,2,0,2,0,0
+15129,Aaron Rosa,1983-05-28,75,205,Rodrigo Pinheiro Brazilian Jiu-Jitsu,Light Heavyweight,United States,78,4.03,47,4.41,45,0.36,33,85,0.4,0,2,0,2,0,0
+15156,Bobby Voelker,1979-04-26,72,170,Finney's MMA,Welterweight,United States,75,4.01,35,5.84,42,1.04,50,66,0,0,4,0,4,0,0
+19863,Jeremy Larsen,1986-03-11,70,145,Arizona Combat Sports,Featherweight,United States,,,,,,,,,,0,3,0,3,0,0
+20224,Ryan Thomas,1984-11-05,72,170,American Top Team,Welterweight,United States,,2.01,36,4.17,30,5.59,33,0,2.2,0,2,0,2,0,0
+20416,Josh Grispi,1988-10-14,71,145,South Shore Sport Fighting,Featherweight,United States,74,1.44,41,3.71,50,1.97,36,16,2.2,0,4,0,4,0,0
+20906,Shane Howell,1983-11-28,68,125,R-1 MMA,Flyweight,United States,69,1.27,32,2.55,42,0,0,20,0,0,2,0,2,0,0
+20967,Mike Stumpf,1986-08-01,70,170,Team Curran,Welterweight,United States,71,3.34,43,8.85,47,1.59,25,33,0.8,0,2,0,2,0,0
+21401,Justin Wren,1987-04-27,75,265,Grudge Training Center,Heavyweight,United States,,3.43,35,2.07,64,0,0,100,0,0,1,0,1,0,0
+21627,Steve Steinbeiss,1981-05-05,75,185,Power MMA Team,Middleweight,United States,75,3.92,55,1.86,49,0.44,50,58,0,0,2,0,2,0,0
+21720,Angela Magana,1983-08-02,64,115,Team Four Corners,Strawweight,United States,65,1.63,26,5.17,44,0.54,33,0,0.5,0,2,0,2,0,0
+25531,Cameron Dollar,1987-05-12,71,155,Colorado Fight Factory,Featherweight,United States,,5.04,38,2.94,61,0,0,0,0,0,1,0,1,0,0
+25912,Marcus Jones,1973-08-15,78,265,,Heavyweight,United States,,1.94,52,2.71,58,8.71,75,0,2.9,0,1,0,1,0,0
+26365,Jianping Yang,1986-01-07,68,140,Fight Emperor,Featherweight,China,,,,,,,,,,0,1,0,1,0,0
+26495,Bernardo Magalhaes,1981-08-04,69,155,TP Fight Team,Lightweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+26632,Jon Manley,1986-07-07,72,170,Team Link,Welterweight,United States,75,1.13,20,4.33,45,1,7,20,0,0,1,0,1,0,0
+26649,Josh Ferguson,1988-05-13,65,125,All American MMA,Flyweight,United States,66,2.13,43,4.18,32,0.59,11,54,0,0,2,0,2,0,0
+26934,Ramiro Hernandez,1986-07-22,69,145,Miletich Fighting Systems,Featherweight,United States,,,,,,,,,,0,2,0,2,0,0
+27077,Enrique Marin,1986-09-02,70,170,Crazy Seville,Welterweight,Spain,74,1.43,33,3,50,2.5,38,60,1,0,1,0,1,0,0
+28038,Elvis Mutapcic,1986-07-19,72,185,Roundkick Gym,Middleweight,United States,72,3.41,40,4.27,38,0,0,81,0,0,1,0,1,0,0
+37421,Eddie Mendez,1984-01-16,69,185,House of Champions,Middleweight,United States,76,1.71,33,3.43,11,0,0,0,0,0,1,0,1,0,0
+39261,Garett Whiteley,1980-12-13,72,155,IndyBoxing and Grappling,Lightweight,United States,72,3.72,48,4.04,46,0,0,27,0.9,0,3,0,3,0,0
+39265,Aaron Wilkinson,1987-01-31,70,155,Straight Blast Gym,Welterweight,England,,0,0,0,100,7.32,100,0,0,0,1,0,1,0,0
+39391,Iliarde Santos,1980-09-25,63,125,American Top Team,Flyweight,Brazil,66,3,30,6.1,57,1.66,23,83,0,0,3,0,3,0,0
+39432,Kris McCray,1981-09-24,72,170,Iron Army,Welterweight,United States,76,2.69,45,2.57,54,2.88,55,38,0,0,3,0,3,0,0
+39485,Dan Spohn,1984-10-12,76,204,Cambridge Martial Arts,Light Heavyweight,United States,,,,,,,,,,0,1,0,1,0,0
+40205,Chris Spang,1987-11-26,74,170,J-Sect MMA,Welterweight,United States,,1.83,36,1.95,60,0,0,50,0.9,0,1,0,1,0,0
+40523,Danny Mitchell,1986-08-08,74,170,AVT Fight Team,Welterweight,England,74,2.53,49,2.53,52,0,0,100,3,0,1,0,1,0,0
+41666,Daniel Downes,1986-04-08,72,155,Roufusport,Lightweight,United States,,,,,,,,,,0,2,0,2,0,0
+55070,Edward Faaloloto,1985-07-15,69,170,Mori Dojo,Welterweight,United States,,,,,,,,,,0,2,0,2,0,0
+78164,Ben Wall,1989-03-25,70,155,Gamebred Submission Fighting,Lightweight,Australia,73,1.47,29,8.53,29,0,0,100,0,0,2,0,2,0,0
+78628,Jared Cannonier,1984-03-16,75,205,Gracie Barra Alaska,Heavyweight,United States,77,3.28,60,2.63,64,0,0,30,0,0,1,0,1,0,0
+4481,Milton Vieira,1978-10-04,72,145,Rio Fighters,Featherweight,Brazil,72,1.13,35,2.36,48,2.67,53,12,0.7,0,1,1,2,0,0
+6809,Jesse Bongfeldt,1980-08-28,72,185,Canadian Martial Arts Centre,Middleweight,Canada,,2.91,62,1.01,50,1.51,33,33,0,0,1,1,2,0,0
+23052,Roger Bowling,1982-12-05,68,155,Team Vision,Lightweight,United States,68,3.9,47,3.86,51,3.09,43,27,0.9,0,2,0,2,0,0
+24790,Roman Salazar,1988-02-21,67,135,Fight Ready,Bantamweight,United States,67,1.95,39,2.89,57,1.77,18,50,0,0,2,0,2,0,0
+53134,Wagner Prado,1987-12-30,73,205,Retz Muay Thai,Light Heavyweight,Brazil,,,,,,,,,,0,2,0,2,0,0
+113767,Damon Jackson,1988-08-08,71,145,Octagon MMA,Featherweight,United States,71,2.71,35,3.9,43,1.77,20,60,0,0,1,1,2,0,0
+80,Travis Fulton,1977-05-29,72,240,Team Peak Performance,Heavyweight,United States,,0,0,0,0,0,0,0,0,1,0,0,1,100,0
+162,Kevin Randleman,1971-08-10,70,205,Tapout Training Center,Light Heavyweight,United States,,1.26,54,1.12,57,2,56,30,0.8,2,2,0,4,50,0
+260,Tyrone Roberts,1972-07-14,69,213,,Heavyweight,United States,,,,,,,,,,1,0,0,1,100,0
+268,Mark Hughes,1973-10-13,68,205,Miletich Martial Arts,Middleweight,USA,,0.9,47,0.4,42,3,50,0,4.5,1,0,0,1,100,0
+16704,John Hathaway,1987-07-01,74,170,London Shootfighters,Welterweight,England,,,,,,,,,,6,2,0,8,75,0
+23403,Charlie Brenneman,1981-02-09,70,155,AMA Fight Club,Lightweight,United States,72,1.52,56,1.55,46,4.23,42,72,0,4,7,0,11,36,0
+23538,Marcus LeVesseur,1983-07-17,70,155,Minnesota Fight Factory,Lightweight,United States,,,,,,,,,,1,2,0,3,33,0
+23811,Buddy Roberts,1982-10-17,74,185,Jackson-Wink MMA,Middleweight,United States,,2.17,34,2.08,70,0,0,76,0.7,1,1,0,2,50,0
+24121,Kevin Casey,1981-06-15,71,185,Black House,Middleweight,United States,77,2.27,53,3.76,46,0.79,22,27,0.4,1,2,0,3,33,0
+101401,Karolina Kowalkiewicz,1985-10-15,63,115,Gracie Barra Lodz,Strawweight,Poland,65,4.56,35,4.93,54,0,0,87,0,1,0,0,1,100,0
+106305,Yair Rodriguez,1992-10-06,71,145,Ragnarok MMA,Featherweight,Mexico,71,4.14,43,2.03,64,1.45,40,61,1.3,3,0,0,3,100,0
+13,Heath Herring,1978-03-02,76,250,Las Vegas Combat Club,Heavyweight,United States,78,2.37,50,1.77,54,1.22,50,32,0.7,2,3,0,5,40,0
+25412,Nathan Coy,1978-07-24,70,170,American Top Team,Welterweight,United States,69,3.72,51,2.02,60,3.14,44,50,0,1,1,0,2,50,0
+136,Mark Coleman,1964-12-20,73,205,Hammer House,Light Heavyweight,United States,75,1.88,52,2.62,40,3.89,40,50,0.8,1,2,0,3,33,0
+25784,Chris Cope,1983-03-05,72,170,The Arena,Welterweight,United States,72,3.96,26,4.82,50,0,0,80,0,1,2,0,3,33,0
+26192,Kazuki Tokudome,1987-03-04,71,155,Paraestra Hachioji,Lightweight,Japan,73,2.26,41,3.63,53,2,38,78,0,1,3,0,4,25,0
+26252,Miesha Tate,1986-08-18,66,135,Xtreme Couture,Bantamweight,United States,65,1.93,41,2.71,50,2.06,31,52,1.6,4,2,0,6,67,0
+26261,Nordine Taleb,1981-06-10,73,170,Tristar Gym,Welterweight,Canada,74,3.18,57,1.51,70,3.21,76,69,0,3,1,0,4,75,0
+33532,Mike Ricci,1986-03-18,72,155,Tristar Gym,Lightweight,Canada,77,1.8,32,1.64,65,0.67,100,54,0,1,2,0,3,33,0
+34409,Ryan LaFlare,1983-10-01,73,170,Long Island MMA,Welterweight,United States,74,3.16,38,1.91,63,2.61,52,64,0.3,5,1,0,6,83,0
+36581,Jim Alers,1986-10-14,69,145,Tough as Nails MMA,Featherweight,United States,71,2.9,40,4.38,56,2.26,41,80,0.3,1,1,0,2,50,0
+37260,Rafaello Oliveira,1982-01-26,68,155,AMA Fight Club,Lightweight,United States,71,2.19,33,3.38,59,2.49,36,11,1.6,2,6,0,8,25,0
+37684,Renee Forte,1987-03-27,68,155,Team Renee Forte,Lightweight,Brazil,71,2.08,32,2.12,63,2.32,58,66,0,1,3,0,4,25,0
+38029,Francisco Trevino,1981-12-17,70,155,Macaco Gold Team,Lightweight,United States,70,2.65,42,2.42,64,0.97,22,41,0,1,2,0,3,33,0
+32431,David Branch,1981-09-26,73,185,Renzo Gracie Jiu-Jitsu,Middleweight,United States,,,,,,,,,,2,2,0,4,50,0
+42310,Dan Cramer,1985-10-31,73,170,American Top Team,Middleweight,United States,,0.97,30,2.1,31,0,0,66,0.5,1,1,0,2,50,0
+42659,Andy Ogle,1989-02-16,69,145,Team Kaobon,Featherweight,England,69,2.24,44,2.23,50,1.44,26,58,0,1,5,0,6,17,0
+42850,Chico Camus,1985-01-26,66,125,Roufusport,Flyweight,United States,66,2.58,41,2.46,64,0.77,40,72,0.4,3,4,0,7,43,0
+43439,Pascal Krauss,1987-04-19,73,170,Peak MMA,Welterweight,Germany,72,5.45,47,3.88,59,1.53,50,60,0.9,1,2,0,3,33,0
+48052,Bruno Santos,1987-07-17,68,185,Ze Mario Team,Middleweight,Brazil,69,1.18,46,2.27,56,3,37,66,0.3,1,2,0,3,33,0
+48156,Jerrod Sanders,1980-10-01,68,135,American Top Team OKC,Bantamweight,United States,,,,,,,,,,1,1,0,2,50,0
+48404,Claudia Gadelha,1988-12-07,63,115,Nova Uniao,Strawweight,Brazil,63,3.59,42,3.94,60,4.59,57,83,0.7,2,1,0,3,67,0
+48481,Cody Pfister,1990-07-12,70,155,Nick's Fight Club,Lightweight,United States,73,1.41,25,2.8,51,2.82,30,0,0,1,2,0,3,33,0
+49213,Tim Elliott,1986-12-24,67,125,Glory MMA and Fitness,Flyweight,United States,66,3.48,44,2.35,63,3.31,60,48,1.3,2,4,0,6,33,0
+50239,Joby Sanchez,1991-06-24,66,125,Jackson-Wink MMA,Flyweight,United States,68,3.37,29,2.96,66,0.76,66,37,0.4,1,2,0,3,33,0
+50416,Lipeng Zhang,1990-03-10,71,155,Fight Emperor,Lightweight,China,,,,,,,,,,2,2,0,4,50,0
+50774,Nick Hein,1984-04-24,68,155,G.I. Sports,Lightweight,Germany,66,2.6,38,2.65,65,1,33,90,0,3,1,0,4,75,0
+50987,Sergio Pettis,1993-08-18,66,125,Roufusport,Flyweight,United States,69,4.02,38,2.75,65,1.48,42,71,0.7,4,2,0,6,67,0
+51113,Trevor Smith,1981-01-05,75,185,Ring Demon Jiu-Jitsu,Middleweight,United States,75,3.49,58,2.96,51,1.66,30,54,1.1,3,3,0,6,50,0
+51576,Chris Kelades,1981-02-21,67,125,Fit Plus,Flyweight,Canada,68,2.4,43,2.64,48,1.04,18,53,0.3,2,1,0,3,67,0
+52633,Brendan O'Reilly,1987-06-24,68,170,Gamebred Submission Fighting,Welterweight,Australia,69,1.9,47,2.77,39,2.22,43,36,0.6,1,1,0,2,50,0
+53380,Krzysztof Jotko,1989-08-19,73,185,Planet Eater,Middleweight,Poland,77,2.9,46,1.36,60,1.22,41,89,0,3,1,0,4,75,0
+53109,Gasan Umalatov,1982-11-03,71,181,Fight Nights Team,Middleweight,Russia,,,,,,,,,,1,3,0,4,25,0
+53596,Nah-Shon Burrell,1990-02-05,73,170,Fight Firm,Middleweight,United States,73,4.83,47,3.45,56,0,0,52,0.3,1,1,0,2,50,0
+53778,David Michaud,1988-11-10,69,155,MMA Lab,Lightweight,United States,72,3.25,43,4.45,54,2.53,58,77,0.7,1,2,0,3,33,0
+55410,Frankie Saenz,1980-08-12,66,135,Trident Performance Training,Bantamweight,United States,66,3.94,44,3.11,52,1.73,33,69,0.2,3,1,0,4,75,0
+55587,Richard Walsh,1988-12-01,72,170,VT1 Gym,Welterweight,Australia,73,3.84,46,2.72,58,1.55,40,66,0.2,2,2,0,4,50,0
+56902,Clifford Starks,1981-04-25,70,185,Arizona Combat Sports,Middleweight,United States,77,1.94,33,2.49,58,1.94,100,60,0,1,2,0,3,33,0
+57848,Vinc Pichel,1982-11-23,70,155,,Lightweight,United States,72,3.13,51,2.51,51,7.44,69,16,0.5,2,1,0,3,67,0
+59607,Dhiego Lima,1989-01-31,74,170,American Top Team Atlanta,Welterweight,Brazil,75,4.43,47,4.07,57,4.53,66,0,3,1,3,0,4,25,0
+59713,Matt Hobar,1987-01-07,70,135,Octagon MMA,Bantamweight,United States,70,3.23,42,4.27,52,3.66,44,50,0,1,2,0,3,33,0
+59764,Lance Benoist,1988-08-26,71,170,St. Charles MMA,Welterweight,United States,73,3.68,51,2.7,56,1.5,33,61,0,2,2,0,4,50,0
+60454,Roger Narvaez,1983-09-09,75,185,Full Contact Fight Academy,Middleweight,United States,79,2.12,37,3.32,64,0,0,50,0.9,1,2,0,3,33,0
+60908,Sean Spencer,1987-06-25,70,170,Octagon MMA,Welterweight,United States,75,4.24,32,4.02,60,0.14,33,68,0,3,4,0,7,43,0
+61600,Sarah Moras,1988-04-30,67,135,Toshido Mixed Martial Arts,Bantamweight,Canada,67,1.1,36,2.07,47,0.5,10,14,0.5,1,1,0,2,50,0
+63163,Colton Smith,1987-08-14,72,155,Vanguard,Welterweight,United States,71,1.64,41,2.3,51,4.09,36,25,1.4,1,3,0,4,25,0
+65543,Pawel Pawlak,1989-02-08,72,170,Gracie Barra Lodz,Welterweight,Poland,73,1.67,33,2.22,53,1,37,70,0,1,2,0,3,33,0
+67971,Patrick Walsh,1988-11-28,71,185,Wai Kru MMA,Light Heavyweight,United States,71,2.03,19,2.83,64,3,54,100,1.5,1,1,0,2,50,0
+69681,Chad Laprise,1986-07-23,70,155,Adrenaline Training Center,Lightweight,Canada,71,4.56,42,3.56,63,0.93,50,78,0,3,1,0,4,75,0
+71307,Jessamyn Duke,1986-06-24,71,135,CSW,Bantamweight,United States,73,4.83,53,4.43,57,1.27,36,50,1.9,1,3,0,4,25,0
+71942,Michinori Tanaka,1990-10-04,65,135,Reversal Gym Yokohama Ground Slam,Bantamweight,Japan,67,1.97,37,1.99,50,2.4,38,43,0.2,2,1,0,3,67,0
+73710,Juliana Lima,1982-03-15,65,115,Gracie Barra BH,Strawweight,Brazil,65,2.16,45,1.88,61,1.8,30,50,0,2,1,0,3,67,0
+73826,Alptekin Ozkilic,1986-03-27,65,125,Bellmore Kickboxing Academy,Flyweight,United States,65,3.81,32,5.72,59,4.21,58,75,0,1,3,0,4,25,0
+74176,Viktor Pesta,1990-07-15,75,240,Penta Gym Prague,Heavyweight,Czech Republic,77,1.58,36,2.54,56,3.29,28,100,0,1,2,0,3,33,0
+75021,Ashlee Evans-Smith,1987-07-09,68,135,Reign MMA,Bantamweight,United States,67,4.24,40,2.47,57,1.83,44,33,0,1,1,0,2,50,0
+75370,Mark Eddiva,1986-02-16,68,145,Lakay MMA,Featherweight,Philippines,68,3.37,45,2.98,54,1.45,22,63,0,1,2,0,3,33,0
+75417,Randa Markos,1985-08-10,65,115,TriStar Gym,Strawweight,Canada,63,3.05,38,3.59,61,1.39,27,50,0.5,1,2,0,3,33,0
+78465,Clay Collard,1993-03-10,71,145,The Pit Elevated Fight Team,Featherweight,United States,73,4.22,32,5,50,2.81,39,71,0.5,1,3,0,4,25,0
+79277,Chris Dempsey,1987-09-08,70,185,Cold Steel MMA,Light Heavyweight,United States,72,2.25,32,2.82,65,2.64,23,16,0,1,2,0,3,33,0
+80837,Ernest Chavez,1983-06-27,68,145,Total MMA Studios,Featherweight,United States,70,2.79,40,3.89,59,0.89,33,50,0,1,2,0,3,33,0
+81143,Mickael Lebout,1987-08-16,71,155,MMA Factory,Lightweight,France,73,2.6,34,2.98,54,0,0,60,0,1,2,0,3,33,0
+83021,Elizabeth Phillips,1986-08-20,66,135,SikJitsu,Bantamweight,United States,65,2.6,33,3.07,58,0.75,25,53,0.2,1,2,0,3,33,0
+83599,Jake Collier,1988-10-23,75,185,Pit MMA,Middleweight,United States,,,,,,,,,,1,2,0,3,33,0
+87981,Douglas Silva de Andrade,1985-06-22,67,135,Pitbull Brothers,Bantamweight,Brazil,68,3.24,35,3.1,64,0.35,50,75,0,1,1,0,2,50,0
+88793,Royston Wee,1986-11-15,67,135,Impact MMA Singapore,N/A,Singapore,67,1.1,60,2.45,49,3.38,81,0,0,2,1,0,3,67,0
+94103,Joanne Calderwood,1986-12-23,66,116,Dinky Ninjas,Strawweight,Scotland,,,,,,,,,,2,1,0,3,67,0
+122383,Zhikui Yao,1991-02-07,67,125,,Flyweight,China,,,,,,,,,,1,2,0,3,33,0
+148517,Angela Hill,1988-01-12,63,115,Evolution Muay Thai,Strawweight,United States,,,,,,,,,,1,2,0,3,33,0
+126881,Levan Makashvili,1989-01-07,68,145,Mutant MMA,Featherweight,United States,68,2.87,54,2.07,61,3.67,42,85,0,1,1,1,3,33,0
+115641,Randy Brown,1990-07-08,74,170,Budokan Martial Arts Academy,Welterweight,Jamaica,78,3.02,42,2.95,53,0.83,33,77,0.8,1,0,0,1,100,0
+125297,Henry Cejudo,1987-02-09,64,125,Fight Ready,Flyweight,United States,64,3.87,42,2.7,71,2.12,31,100,0.2,4,0,0,4,100,0
+129351,Enrique Barzola,1989-04-25,67,145,Pitbull Martial Arts Center,Featherweight,Peru,,,,,,,,,,1,0,0,1,100,0
+78479,Tiago dos Santos e Silva,1987-04-12,70,155,Team Nogueira,Lightweight,Brazil,,,,,,,,,,2,1,0,3,67,0
+146291,Joaquim Silva,1989-02-05,68,155,Evolucao Thai,Lightweight,Brazil,69,3.53,32,3.85,64,0,0,66,0,1,0,0,1,100,0
+245,Dave Menne,1974-07-29,70,170,Menne Combat Academy,Middleweight,United States,,1.84,44,1.99,42,0.46,50,57,2.5,2,4,0,6,33,0
+553,Gil Castillo,1965-10-21,69,170,Cesar Gracie Fight Team,Welterweight,United States,,0.6,45,2.22,44,3.33,45,50,0,1,2,0,3,33,0
+4411,Forrest Petz,1975-09-22,69,170,Strong Style Fight Team,Middleweight,United States,71,2.27,29,2.2,57,1.3,100,66,0,2,5,0,7,29,0
+5545,Gilbert Melendez,1982-04-12,69,155,Skrap Pack,Lightweight,United States,73,3.58,33,2.18,65,1.78,42,71,0.2,1,3,0,4,25,0
+7415,Phillipe Nover,1984-02-03,69,145,Team Renzo Gracie,Featherweight,United States,72,1.79,35,2.48,56,0.99,28,44,0.7,1,4,0,5,20,0
+15987,Yui Chul Nam,1981-07-16,69,145,,Featherweight,South Korea,69,3.53,51,2,48,1.33,16,57,0.3,1,2,0,3,33,0
+22641,Akira Corassani,1982-08-27,68,145,Renzo Gracie Jiu-Jitsu,Featherweight,Sweden,68,3.25,45,4.91,50,0.7,28,86,0,3,3,0,6,50,0
+25981,Diego Nunes,1982-11-30,66,145,X-Gym,Featherweight,Brazil,67,2.72,43,2.59,58,1.18,44,65,0.6,3,3,0,6,50,0
+29470,Anthony Smith,1988-07-26,76,205,Disorderly Conduct,Middleweight,United States,77,3.24,47,2.98,49,0.55,40,33,1.4,1,1,0,2,50,0
+34625,Shane Campbell,1988-01-21,72,155,Toshido Mixed Martial Arts,Lightweight,Canada,,,,,,,,,,1,2,0,3,33,0
+47118,Sai Wang,1986-01-16,72,170,AKA Thailand,Welterweight,China,,,,,,,,,,1,1,0,2,50,0
+5001,Ian McCall,1984-07-05,65,125,Team Oyama,Flyweight,United States,,,,,,,,,,2,3,1,6,33,0
+85096,Tecia Torres,1989-08-16,61,115,American Top Team,Strawweight,United States,60,4.63,48,2.35,71,0.8,20,70,0,3,0,0,3,100,0
+87101,Bartosz Fabinski,1986-04-26,72,185,WCA Fight Team,Middleweight,Poland,75,2.2,71,0.77,50,8,72,100,0,2,0,0,2,100,0
+22216,Valmir Lazaro,1985-08-15,72,155,Nova Uniao,Lightweight,Brazil,73,4.87,37,4.09,61,1.33,40,96,0,1,2,0,3,33,0
+22218,Michel Richard Cunha dos Prazeres,1983-07-25,66,155,Coalizao Fight Team,Lightweight,Brazil,,,,,,,,,,3,2,0,5,60,0
+22388,Kevin Ferguson,1974-02-08,74,235,American Top Team,Heavyweight,United States,,2.3,50,3.41,38,3.1,72,36,1.2,1,1,0,2,50,0
+76653,Leonardo Mafra Texeira,1989-04-25,70,155,American Kickboxing Academy,Lightweight,Brazil,,,,,,,,,,1,3,0,4,25,0
+16524,Sarah Kaufman,1985-09-20,65,135,Zugec Ultimate Martial Arts,Bantamweight,Canada,67,6.65,46,4,62,0.38,57,81,0,1,2,0,3,33,0
+4,Ken Shamrock,1964-02-11,73,205,Lion's Den,Heavyweight,United States,72,1.47,46,4.3,39,0.94,60,44,2.5,1,4,0,5,20,100
+7,Carlos Newton,1976-08-17,69,170,Warrior MMA Fight Team,Middleweight,Canada,,0.65,41,1.55,44,2.47,70,43,0.9,2,3,0,5,40,100
+8,Ricco Rodriguez,1977-08-19,76,265,American Fight Club,Heavyweight,United States,,1.85,51,1.15,61,2.3,39,40,1,5,2,0,7,71,100
+11,Ricardo Almeida,1976-11-29,71,170,Renzo Gracie Jiu-Jitsu,Welterweight,United States,74,2.02,49,1.2,61,3.74,38,31,1.2,6,5,0,11,55,50
+43,Kimo Leopoldo,1968-01-04,75,235,Freelance,Heavyweight,United States,,,,,,,,,,1,1,0,2,50,100
+65,Joe Stevenson,1982-06-15,67,145,Joe Stevenson's Cobra Kai,Lightweight,United States,70,2.05,44,2.44,60,2.75,44,39,2.2,8,8,0,16,50,62
+101,Duane Ludwig,1978-08-04,70,170,Grudge Training Center,Welterweight,United States,70,4.61,44,3.04,57,0.43,25,59,0.1,4,5,0,9,44,25
+156,Vitor Belfort,1977-04-01,72,185,Blackzilians,Middleweight,Brazil,74,1.54,47,2.71,51,1.15,60,53,0.7,9,6,0,15,60,100
+158,Tito Ortiz,1975-01-23,74,205,Team Punishment,Light Heavyweight,United States,74,2.59,46,2.88,60,2.47,35,54,0.6,12,10,1,23,52,58
+166,Randy Couture,1963-06-22,73,205,Xtreme Couture,Light Heavyweight,United States,75,2.85,57,1.53,59,2.78,46,58,0.5,12,8,0,20,60,67
+168,Tony Fryklund,1971-03-26,72,185,Militech Fighting Systems,Lightweight,United States,,3.49,39,6.5,43,0,0,66,0.5,1,1,0,2,50,100
+175,Maurice Smith,1961-12-13,74,221,The Alliance,Light Heavyweight,United States,,0.41,46,0.47,60,0.89,50,20,0.9,2,1,0,3,67,50
+188,Pat Miletich,1968-03-09,70,170,Miletich Martial Arts,Welterweight,United States,,1.79,45,1.66,63,1.96,100,54,1,4,2,0,6,67,100
+190,Tsuyoshi Kosaka,1970-03-06,71,225,Alliance-Square,Heavyweight,Japan,,,,,,,,,,1,1,0,2,50,100
+192,Chuck Liddell,1969-12-17,74,205,The Pit,Light Heavyweight,United States,76,2.97,35,2.71,56,0.44,75,81,0,15,6,0,21,71,67
+194,Andre Roberts,1965-02-24,74,345,,Super Heavyweight,United States,,0,0,0,0,0,0,0,0,1,0,0,1,100,100
+195,Dan Henderson,1970-08-24,73,185,Team Quest,Middleweight,United States,74,2.44,47,2.7,51,1.52,52,57,0.3,6,8,0,14,43,50
+202,Jeremy Horn,1975-08-25,73,185,Elite Performance,Middleweight,United States,74,1.19,39,1.99,55,1.83,38,29,1.1,5,5,0,10,50,80
+208,Pedro Rizzo,1974-05-03,73,241,Ruas Vale Tudo,Heavyweight,Brazil,,1.93,34,3.02,50,0.26,28,78,0,5,5,0,10,50,80
+209,Wanderlei Silva,1976-07-03,70,205,Wand Fight Team,Middleweight,Brazil,74,2.79,40,2.19,60,0.97,53,62,0.6,4,6,0,10,40,75
+212,Evan Tanner,1971-02-11,72,185,,Middleweight,United States,74,3.05,59,2.64,56,2.55,43,25,1.3,9,6,0,15,60,78
+218,Fabiano Iha,1970-07-28,68,155,,Lightweight,United States,,1.73,47,2.49,42,2.88,40,50,2.9,3,3,0,6,50,100
+222,Eugene Jackson,1970-12-31,68,185,Gladiators Training Academy,Middleweight,United States,,,,,,,,,,1,4,0,5,20,100
+224,Paul Jones,1963-06-16,69,199,,Light Heavyweight,United States,,0,0,0,0,0,0,0,0,1,1,0,2,50,100
+228,Jens Pulver,1974-12-06,67,145,Team Extreme,Bantamweight,United States,70,2.12,37,3.13,56,0.22,33,63,0.3,5,2,1,8,62,20
+232,Matt Hughes,1973-10-13,69,170,HIT Squad,Welterweight,United States,73,2.14,53,1.36,53,2.95,50,35,1.2,16,7,0,23,70,75
+239,Shonie Carter,1972-05-03,69,170,Iron Academy,Middleweight,United States,,1.62,36,2.32,47,0.75,66,75,0,2,3,0,5,40,50
+241,Scott Adams,1974-07-16,72,225,The Pit,Heavyweight,USA,,,,,,,,,,1,0,0,1,100,100
+242,Ian Freeman,1970-12-31,71,205,Machine MMA,Light Heavyweight,England,,,,,,,,,,2,2,1,5,40,50
+246,Lance Gibson,1970-11-20,69,185,Gibson Kickboxing & Pankration,Middleweight,Canada,,1.21,75,6.44,20,0,0,0,0,1,1,0,2,50,100
+250,Ikuhisa Minowa,1976-01-12,69,181,Kuma Gym,Middleweight,Japan,,0.88,40,1.66,49,1.82,41,5,1.9,1,0,0,1,100,100
+252,Sanae Kikuta,1971-09-10,69,200,Grabaka,Light Heavyweight,Japan,,0.7,45,0.9,52,1.6,63,25,1.8,1,0,0,1,100,100
+253,Murilo Bustamante,1966-07-30,73,183,Brazilian Top Team,Middleweight,Brazil,,1.33,32,1.9,60,2.46,33,54,1.2,3,1,0,4,75,100
+262,Jeff Monson,1971-01-18,69,247,American Top Team,Heavyweight,United States,74,0.97,30,2.87,59,1.06,12,66,0.7,4,3,0,7,57,50
+263,Yuki Kondo,1975-07-17,71,183,PANCRASEism,Welterweight,Japan,,1.14,42,2.57,51,0.76,41,37,0.5,1,2,0,3,33,100
+267,Chris Lytle,1974-08-18,71,170,Integrated Fighting Academy,Welterweight,United States,68,3.76,45,3.03,58,0.7,55,55,2.4,10,9,0,19,53,70
+270,Andrei Arlovski,1979-02-04,76,240,Jackson-Wink MMA,Heavyweight,Belarus,77,3.12,41,2.5,59,0.39,41,82,0.5,14,5,0,19,74,79
+272,Josh Barnett,1977-11-10,75,250,CSW,Heavyweight,United States,78,3.2,50,2.11,57,1.26,55,55,1.4,6,3,0,9,67,83
+273,Gan McGee,1976-11-20,82,265,S.K.S. Fight Team,Heavyweight,United States,,2.2,29,2.31,59,0.65,25,83,0,2,2,0,4,50,100
+274,Renato Sobral,1975-07-09,72,205,Babalu's Iron Gym,Light Heavyweight,Brazil,,,,,,,,,,6,4,0,10,60,67
+275,Dennis Hallman,1975-12-02,69,155,Victory Athletics,Middleweight,United States,72,1.12,44,1.96,43,1.79,30,25,2.1,4,5,0,9,44,75
+276,Matt Lindland,1970-05-17,72,185,Team Quest,Middleweight,United States,74,2.62,50,1.56,52,3.01,48,60,1.3,9,3,0,12,75,44
+277,Sean Sherk,1973-08-05,66,155,Minnesota Martial Arts Academy,Lightweight,United States,67,2.17,35,2.71,55,4.09,46,56,0.4,8,4,0,12,67,25
+278,Phil Baroni,1976-04-16,69,170,American Kickboxing Academy,Welterweight,United States,72,2.77,45,3.93,40,1.46,47,60,0.5,3,7,0,10,30,67
+281,Elvis Sinosic,1971-02-13,75,205,Sinosic Perosh Martial Arts,Light Heavyweight,Australia,77,1.13,37,4.6,53,0,0,0,1.2,1,6,0,7,14,100
+283,Caol Uno,1975-05-08,67,155,Uno Dojo,Featherweight,Japan,70,1.91,49,1.9,50,1.95,31,37,0.5,3,5,2,10,30,33
+284,Frank Shamrock,1972-12-08,70,185,The Alliance,Middleweight,United States,,4.75,53,4.66,57,0.35,50,37,1.1,1,0,0,1,100,100
+311,Frank Trigg,1972-05-07,68,170,Xtreme Couture,Middleweight,United States,71,2.79,46,1.9,56,2.35,47,75,0.8,2,5,0,7,29,100
+338,Dean Lister,1976-02-13,73,185,Victory MMA,Middleweight,United States,75,1.26,35,1.89,61,1.58,15,50,1.1,4,2,0,6,67,50
+344,Yves Edwards,1976-09-30,70,155,American Top Team,Lightweight,United States,73,2.91,42,2.34,66,0.76,53,69,0.7,10,10,0,20,50,70
+347,Paul Buentello,1974-01-16,75,245,Grudge Training Center,Light Heavyweight,United States,77,3.29,45,3.83,52,0.19,33,39,0.4,3,3,0,6,50,100
+348,Quinton Jackson,1978-06-20,73,206,Wolfslair Academy,Light Heavyweight,United States,,,,,,,,,,8,5,0,13,62,38
+370,Falaniko Vitale,1974-07-14,70,185,808 Top Team,Middleweight,United States,,1.88,49,3.68,47,0.72,33,86,0,1,1,0,2,50,100
+390,Joe Doerksen,1977-09-10,72,186,Canadian Fighting Centre,Middleweight,Canada,,,,,,,,,,2,7,0,9,22,100
+392,Rich Franklin,1974-10-05,73,185,Team Extreme,Middleweight,United States,75,4.1,44,2.07,62,1.31,66,63,0.7,14,6,0,20,70,71
+425,Takanori Gomi,1978-09-22,68,155,Kugayama Rascal,Lightweight,Japan,70,3.85,41,3.47,60,1.25,65,63,0.8,4,6,0,10,40,50
+426,Johnny Eduardo,1980-08-03,67,135,Nova Uniao,Bantamweight,Brazil,,,,,,,,,,2,2,0,4,50,50
+435,Vladimir Matyushenko,1971-01-04,73,205,VMAT,Light Heavyweight,Belarus,74,1.9,44,1.62,59,3.25,46,70,0.1,7,5,0,12,58,43
+438,Jutaro Nakao,1970-11-30,69,170,Jutaro Nakao MMA School,Welterweight,Japan,,0.53,38,1.06,44,0.38,50,56,0,1,1,0,2,50,100
+461,Alistair Overeem,1980-05-17,77,265,Jackson-Wink MMA,Heavyweight,Netherlands,80,3.78,60,1.79,63,1.62,65,76,1.1,5,3,0,8,62,60
+467,Semmy Schilt,1973-10-27,83,265,Golden Glory,Heavyweight,Holland,,1.2,50,1.31,53,0,0,47,1.1,1,1,0,2,50,100
+482,Phillip Miller,1979-02-20,71,185,Williams Combat Grappling,Middleweight,United States,,1.61,54,1.93,50,3.62,25,100,0.6,2,0,0,2,100,50
+487,Tony DeSouza,1974-07-26,72,170,Millennia MMA,Welterweight,Peru,70,1.12,52,1.57,41,2.25,42,40,1.5,3,3,0,6,50,67
+495,Jason Lambert,1977-09-23,70,205,Alliance MMA,Light Heavyweight,United States,,,,,,,,,,4,4,0,8,50,100
+536,David Terrell,1978-01-09,72,185,Cesar Gracie Jiu-Jitsu,Middleweight,USA,,2.34,63,2.71,37,5.54,50,0,5.5,2,1,0,3,67,100
+549,Jason Von Flue,1975-08-01,72,170,,Welterweight,United States,,1.89,36,3.23,52,0.62,16,58,1.5,1,2,0,3,33,100
+662,Ryan Jensen,1977-09-20,70,185,Jackson-Wink MMA,Middleweight,United States,76,2.84,39,2.99,59,1.55,50,31,1.9,2,6,0,8,25,100
+725,Drew Fickett,1979-12-24,70,151,Team Scrub,Lightweight,United States,,,,,,,,,,4,3,0,7,57,75
+903,David Loiseau,1979-12-17,72,185,Tristar Gym,Light Heavyweight,Canada,76,1.59,44,3.64,43,0.43,42,36,0.1,4,5,0,9,44,100
+993,Ivan Menjivar,1982-05-30,66,145,Tristar Gym,Bantamweight,El Salvador,64,2.78,37,2.76,65,0.56,28,38,1,4,5,0,9,44,75
+1046,Rich Clementi,1976-03-31,69,155,Team Voodoo,Lightweight,United States,72,1.43,37,2.29,60,1.72,42,25,1.1,5,5,0,10,50,60
+1061,Tim Sylvia,1974-03-05,80,265,Team Extreme,Heavyweight,United States,,,,,,,,,,9,4,0,13,69,56
+1217,Akihiro Gono,1974-10-07,69,170,OxyGym Fight Team,Lightweight,Japan,68,2.18,48,2.67,63,1.01,84,46,0.5,1,2,0,3,33,100
+1227,Genki Sudo,1978-03-08,69,155,Beverly Hills Jiu-Jitsu Club,Lightweight,Japan,,1.55,39,2.23,33,3.58,60,50,4.2,2,1,0,3,67,100
+1301,Din Thomas,1976-09-28,69,155,American Top Team,Featherweight,United States,,1.85,37,2.6,59,1.38,52,76,1.2,5,4,0,9,56,40
+1305,Matt Serra,1974-06-02,66,170,Serra-Longo Fight Team,Welterweight,United States,68,1.98,39,2.64,46,2.05,20,38,0.9,7,7,0,14,50,43
+1307,B.J. Penn,1978-12-13,69,145,BJ Penn's MMA,Featherweight,United States,,,,,,,,,,12,9,2,23,52,92
+1326,Tatsuya Kawajiri,1978-05-08,67,145,T-Blood,Featherweight,Japan,69,2.04,44,2.01,50,3.63,48,63,1.1,3,2,0,5,60,33
+1351,Ivan Salaverry,1971-01-11,72,185,Ivan Salaverry MMA,Middleweight,United States,,3.01,47,1.19,76,0.49,18,36,2.5,3,4,0,7,43,100
+1356,Anderson Silva,1975-04-14,74,185,Team Nogueira,Middleweight,Brazil,77,3.1,63,1.87,62,0.55,77,69,0.9,16,2,0,18,89,88
+1440,Antonio Rodrigo Nogueira,1976-06-02,75,240,Team Nogueira,Heavyweight,Brazil,,,,,,,,,,5,6,0,11,45,60
+1518,Antoni Hardonk,1976-02-05,76,245,Dynamix MMA,Heavyweight,Holland,78,3.4,61,3.07,46,0,0,40,0.9,4,4,0,8,50,100
+1659,Lee Murray,1977-11-12,72,185,London Shootfighters,Middleweight,England,,,,,,,,,,1,0,0,1,100,100
+1712,Nate Marquardt,1979-04-20,72,185,High Altitude Martial Arts,Middleweight,United States,74,2.67,49,2.27,56,2.03,53,72,1,12,8,0,20,60,67
+1804,Tim Credeur,1977-07-09,75,185,Gladiators Academy,Middleweight,United States,75,3.59,30,3.13,57,0.41,100,50,3.3,3,2,0,5,60,100
+1870,Andrei Semenov,1977-06-17,72,185,,Middleweight,Russia,,0.78,15,2.44,60,1.74,80,55,0.4,1,1,0,2,50,100
+1884,Anthony Torres,1978-07-31,70,170,MMA Development,Welterweight,United States,,3.54,48,7.52,45,0,0,100,2.2,1,0,0,1,100,100
+1927,Jason Brilz,1975-07-07,71,205,Elite Performance,Light Heavyweight,United States,71,2.66,40,1.78,65,2.37,25,25,1.3,3,4,0,7,43,33
+2027,Alexey Oleinik,1977-06-25,73,240,K Dojo Warrior Tribe,Heavyweight,Russia,,,,,,,,,,2,0,0,2,100,100
+2191,Cyrille Diabate,1973-06-10,78,205,Snake Team,Light Heavyweight,France,,,,,,,,,,3,4,0,7,43,67
+2193,Cheick Kongo,1975-05-17,76,240,Kongo Smashin' Club,Heavyweight,France,82,3.19,56,1.34,54,2.25,54,52,0.2,11,6,1,18,61,64
+2245,Robbie Lawler,1982-03-20,71,170,American Top Team,Welterweight,United States,74,3.49,44,3.69,62,0.82,68,67,0,12,4,0,16,75,50
+2262,Ben Rothwell,1981-10-17,76,265,Rothwell MMA,Heavyweight,United States,78,2.89,41,3.92,46,0.84,36,69,0.4,6,3,0,9,67,83
+2270,Antonio Rogerio Nogueira,1976-06-02,74,205,Team Nogueira,Light Heavyweight,Brazil,,,,,,,,,,4,4,0,8,50,50
+2326,Mirko Filipovic,1974-09-10,74,227,Cro Cop Squad Gym,Heavyweight,Croatia,,,,,,,,,,5,6,0,11,45,100
+2329,Frank Mir,1979-05-24,75,264,Las Vegas Combat Club,Heavyweight,United States,79,2.18,47,3.84,38,2.02,40,54,2,16,10,0,26,62,81
+2352,Houston Alexander,1972-03-22,72,205,Grudge Training Center,Light Heavyweight,United States,72,3.06,54,3.2,52,1.19,57,33,0,2,4,0,6,33,100
+2383,Nate Quarry,1972-03-18,72,185,Team Quest,Middleweight,United States,72,4.96,44,2.8,66,0.25,33,60,0,7,3,0,10,70,71
+2386,Drew McFedries,1978-07-27,72,185,Champions Gym,Middleweight,United States,72,5.13,51,4.56,52,1.42,100,56,0.7,4,5,0,9,44,100
+2394,Josh Thomson,1978-09-21,70,155,American Kickboxing Academy,Lightweight,United States,71,2.62,48,2.11,64,1.95,40,54,1.4,3,4,0,7,43,67
+2427,Fabricio Camoes,1978-12-23,69,155,Gracie Humaita,Lightweight,Brazil,73,1.29,33,1.85,61,2.34,32,20,1.5,1,4,1,6,17,100
+2578,Scott Smith,1979-05-21,72,185,Capital City Fighting Alliance,Middleweight,United States,70,1.86,27,5.94,50,0.13,6,58,0.4,1,3,0,4,25,100
+2638,Keith Jardine,1975-10-31,74,185,Jackson-Wink MMA,Middleweight,United States,76,3.25,36,2.98,59,1.18,45,62,0.7,6,7,0,13,46,33
+2646,Dan Christison,1972-04-26,80,265,Jackson-Wink MMA,Super Heavyweight,United States,,4.23,51,3.88,54,0,0,37,1.1,1,1,0,2,50,100
+2688,Jonathan Wiezorek,1978-02-10,75,250,Valdosta Martial Arts Academy,Heavyweight,United States,,1.27,58,5.47,31,1.91,20,0,0,1,0,0,1,100,100
+2712,Jorge Rivera,1972-02-28,73,185,Rivera Athletic Center,Middleweight,United States,73,3.16,48,2.64,54,0.84,50,63,0.1,8,7,0,15,53,62
+2765,Joe Riggs,1982-09-23,72,185,MMA Lab,Welterweight,United States,70,2.41,51,1.69,57,2.45,55,62,0.6,5,7,0,12,42,60
+2815,Leonard Garcia,1979-07-14,69,145,Jackson-Wink MMA,Featherweight,United States,69,2.77,24,4.79,52,0.3,26,42,0.5,2,7,0,9,22,50
+2829,Wesley Correira,1978-11-11,75,260,Cabbage MMA,Heavyweight,United States,,2.6,36,8.8,40,0,0,90,0,2,2,0,4,50,100
+2830,Tim Kennedy,1979-09-01,71,185,Jackson-Wink MMA,Middleweight,United States,74,2.78,47,1.84,62,2.58,35,70,0.7,3,1,0,4,75,33
+2831,Nick Diaz,1983-08-02,73,185,Cesar Gracie Fight Team,Welterweight,United States,76,5.43,42,3.56,61,1.32,33,60,1,7,6,0,13,54,86
+2886,Roan Carneiro,1978-06-02,71,170,American Top Team Atlanta,Welterweight,Brazil,74,1.46,46,1.82,62,3.05,42,83,1.4,3,4,0,7,43,67
+2920,Brad Blackburn,1977-05-25,70,170,Victory Athletics,Welterweight,United States,73,4.55,35,3.59,65,0.93,50,76,0.7,3,2,0,5,60,33
+3014,Stephan Bonnar,1977-04-04,75,205,One Kick's Gym,Light Heavyweight,United States,78,2.76,38,3.01,52,1.32,40,60,1,8,7,0,15,53,50
+3015,Brian Ebersole,1980-11-27,72,170,Tiger Muay Thai,Welterweight,United States,73,2.32,49,2.14,56,1.7,23,61,0.1,5,3,0,8,62,20
+3068,Hermes Franca,1974-08-27,66,155,Team Hermes Franca,Lightweight,Brazil,,,,,,,,,,6,5,0,11,55,67
+3070,Wilson Gouveia,1978-10-03,74,185,American Top Team,Heavyweight,United States,76,3.02,39,4.06,56,0.9,66,57,2.2,6,4,0,10,60,100
+3195,Pete Spratt,1971-01-09,69,170,Team Spratt,Welterweight,United States,,1.63,48,1.33,55,0.3,100,46,0.3,3,4,0,7,43,100
+3328,Christian Wellisch,1975-09-13,74,234,American Kickboxing Academy,Heavyweight,United States,77,3.12,27,3.04,56,1.22,42,45,1.2,2,3,0,5,40,50
+3396,Mac Danzig,1980-01-02,68,155,PKG,Lightweight,United States,70,3.39,48,3.44,57,1.2,37,46,0.6,5,8,0,13,38,60
+3496,Bart Palaszewski,1983-05-30,69,145,Team Curran,Featherweight,United States,70,2.67,32,3.97,57,0.65,31,53,0.5,1,3,0,4,25,100
+3500,Georges St. Pierre,1981-05-19,70,170,Tristar Gym,Welterweight,Canada,,,,,,,,,,19,2,0,21,90,37
+3525,Rory Singer,1976-05-28,74,185,Hardcore Gym,Middleweight,United States,77,2.55,39,2.42,63,0.39,25,64,0.8,2,2,0,4,50,50
+3526,Forrest Griffin,1979-07-01,75,205,Xtreme Couture,Light Heavyweight,United States,,,,,,,,,,10,5,0,15,67,30
+3599,Mark Weir,1967-09-19,74,185,Range,Middleweight,England,,1.54,56,2.5,38,0.8,50,25,2.4,1,2,0,3,33,100
+3619,Mike Kyle,1980-03-31,75,205,American Kickboxing Academy,Light Heavyweight,United States,77,4.5,51,2.76,54,1.55,62,50,0.9,2,1,0,3,67,100
+3669,Roli Delgado,1981-11-22,75,145,Westside Fight Team,Featherweight,United States,,,,,,,,,,1,2,0,3,33,100
+3707,Per Eklund,1980-11-12,70,145,Hilti NHB,Featherweight,Sweden,,,,,,,,,,1,2,0,3,33,100
+4112,Chael Sonnen,1977-04-03,73,205,Team Quest,Light Heavyweight,United States,74,3.08,43,1.1,62,3.81,59,66,0.4,7,7,0,14,50,29
+4114,Claude Patrick,1980-06-14,70,170,Elite Mixed Fighters,Welterweight,Canada,75,1.8,55,0.89,69,2.32,53,84,1.7,3,1,0,4,75,33
+4120,Jonathan Goulet,1979-07-13,72,170,Team Legion,Welterweight,Canada,73,1.61,41,2,46,4.17,70,45,0.6,4,5,0,9,44,75
+4153,Kurt Pellegrino,1979-05-07,68,155,Pellegrino MMA,Lightweight,United States,70,2.45,43,1.94,63,2.9,54,69,0.8,7,5,0,12,58,71
+4173,Eddie Wineland,1984-06-26,67,135,Duneland Vale Tudo,Bantamweight,United States,69,3.36,29,3.42,71,0.34,33,85,0.2,3,5,0,8,38,67
+4270,Paul Daley,1983-02-21,69,170,Spirit Dojo,Welterweight,England,76,3.14,47,2.37,60,0.91,40,64,0,2,1,0,3,67,100
+4367,Steve Bruno,1981-11-03,70,170,American Top Team,Middleweight,United States,,0.96,52,3.38,36,1.94,25,46,0.4,1,2,0,3,33,100
+4389,Jason MacDonald,1975-06-03,74,185,Pure Fitness,Middleweight,Canada,80,1.55,52,2.7,46,1.43,16,35,2,6,8,0,14,43,100
+4577,Mike Pyle,1975-09-18,73,170,Syndicate MMA,Welterweight,United States,74,2.76,46,2.75,61,1.82,35,70,1.6,10,6,0,16,62,70
+4586,Travis Lutter,1973-12-05,74,185,Lion's Den Dallas,Middleweight,United States,,,,,,,,,,2,4,0,6,33,100
+4647,Thiago Tavares,1984-11-08,67,145,Team Tavares,Featherweight,Brazil,68,2,40,2.31,62,3.83,42,62,1.5,10,6,1,17,59,60
+4655,Glover Teixeira,1979-10-28,74,205,Nova Uniao,Light Heavyweight,Brazil,76,4.03,44,3.33,57,2.63,54,58,0.8,7,2,0,9,78,86
+4679,Darren Uyenoyama,1979-10-15,66,125,Faito Tamashii Combat Club,Flyweight,United States,64,1.34,39,2.21,66,1.42,33,35,0.7,2,2,0,4,50,50
+4728,Mark Hominick,1982-07-22,68,145,Team Tompkins,Featherweight,Canada,68,4.08,42,4.18,69,0.25,66,71,0.9,3,4,0,7,43,67
+4789,Trevor Prangley,1972-08-24,72,185,American Kickboxing Academy,Light Heavyweight,South Africa,75,2.59,60,2.02,48,3.38,55,74,1,2,2,0,4,50,50
+4810,Leonardo Santos,1980-02-05,72,155,Nova Uniao,Lightweight,Brazil,75,2.3,40,2.64,61,1.14,25,86,0.5,4,0,1,5,80,75
+4824,Diego Sanchez,1981-12-31,70,155,Jackson-Wink MMA,Lightweight,United States,72,2.75,36,2.95,58,1.48,21,50,1,14,8,0,22,64,36
+4833,Marcus Aurelio,1973-08-18,70,155,Elite Mixed Fighters,Welterweight,Brazil,74,1.42,33,2.27,59,1.69,27,27,1.3,2,4,0,6,33,100
+4865,Jon Fitch,1978-02-24,72,170,American Kickboxing Academy,Middleweight,United States,76,2.61,50,1.65,54,3.6,51,56,0.8,14,3,1,18,78,29
+4886,Brandon Vera,1977-10-10,74,230,Alliance MMA,Light Heavyweight,United States,76,3.03,56,2.81,52,0.7,53,59,0.2,7,7,0,14,50,57
+4923,Joe Lauzon,1984-05-22,69,155,Lauzon MMA,Lightweight,United States,71,2.62,38,4.74,57,2.27,43,54,2.3,11,8,0,19,58,91
+5118,Spencer Fisher,1976-05-09,67,155,,Lightweight,United States,70,3.17,43,3.03,64,0.67,30,60,0.8,8,8,0,16,50,62
+5153,Karo Parisyan,1982-08-28,70,170,,Welterweight,United States,72,2.49,41,2.19,58,5.27,59,59,1,8,4,0,12,67,25
+5185,Manny Gamburyan,1981-05-08,65,135,Team Hayastan,Bantamweight,United States,,,,,,,,,,6,6,0,12,50,50
+5199,Mike Swick,1979-06-19,73,170,AKA Thailand,Welterweight,United States,77,2.36,37,2.29,54,1.06,50,61,0.6,10,5,0,15,67,70
+5286,Robert Emerson,1981-07-30,70,135,Team Oyama,Bantamweight,United States,,,,,,,,,,3,3,0,6,50,33
+5344,Martin Kampmann,1982-04-17,72,170,Xtreme Couture,Welterweight,Denmark,72,3.22,42,3.28,62,1.86,41,78,2,11,6,0,17,65,64
+5346,Antonio Carvalho,1979-05-30,68,145,Bruckmann Martial Arts,Featherweight,Canada,68,3.03,29,3.62,64,0,0,100,0,2,2,0,4,50,50
+5366,Alessio Sakara,1981-09-02,73,185,American Top Team,Middleweight,Italy,72,3.96,47,2.8,59,2.18,78,62,0,6,8,0,14,43,67
+5453,Siyar Bahadurzada,1984-04-17,71,170,Blackzilians,Welterweight,Afghanistan,76,3.03,47,2.23,50,1.34,80,69,0.3,1,2,0,3,33,100
+5569,Yushin Okami,1981-07-21,74,185,Wajutsu Keishukai Tokyo,Middleweight,Japan,72,2.23,38,2.2,62,1.88,47,84,0.5,13,5,0,18,72,38
+5707,Mauricio Rua,1981-11-25,73,205,Universidade da Luta,Light Heavyweight,Brazil,76,3.58,51,2.49,55,2.15,47,45,0.9,7,8,0,15,47,86
+5735,Jorge Santiago,1980-10-09,73,170,Blackzilians,Welterweight,Brazil,74,1.69,35,2.62,56,0.58,30,52,0.8,1,5,0,6,17,100
+5936,Justin Eilers,1978-06-28,73,235,Miletich Martial Arts,Heavyweight,United States,,1.78,30,6.56,47,0,0,0,0,1,3,0,4,25,100
+5993,Gleison Tibau,1983-07-10,70,155,American Top Team,Lightweight,Brazil,,,,,,,,,,17,9,0,26,65,35
+5998,Thiago Alves,1983-10-03,70,170,American Top Team,Welterweight,Brazil,70,3.49,41,3.08,64,0.73,64,63,0.4,13,7,0,20,65,69
+6120,Akbarh Arreola,1983-01-14,70,155,Entram Gym,Lightweight,Mexico,71,2.32,45,4.01,56,1.07,100,33,0.4,1,3,0,4,25,100
+6258,Chris Leben,1980-07-21,71,185,Alliance MMA,Middleweight,United States,74,2.87,42,2.87,52,1.14,41,53,0.8,12,10,0,22,55,75
+6326,Paul Taylor,1979-12-15,72,155,Team Supreme,Lightweight,England,72,4.44,47,4.47,55,0.27,25,56,0.5,3,5,0,8,38,67
+6373,Brock Larson,1977-08-23,71,170,Get Sum Athletic Compound,Welterweight,United States,71,1.39,46,1.5,55,2.67,34,43,2,2,3,0,5,40,50
+6428,Luke Cummo,1980-04-27,72,170,Serra-Longo Fight Team,Welterweight,United States,74,1.74,43,1.5,59,0.89,55,42,1.4,3,4,0,7,43,67
+6445,Sam Hoger,1980-06-28,74,205,Miletich Martial Arts,Light Heavyweight,United States,,1.07,25,2.25,57,1.12,38,29,1.3,2,3,0,5,40,50
+6525,Roman Mitichyan,1978-04-09,70,155,,Lightweight,Armenia,,,,,,,,,,1,1,0,2,50,100
+6561,Ed Herman,1980-10-02,74,205,Trials MMA and Fitness,Light Heavyweight,United States,77,3.11,51,2.79,42,2.75,51,67,1.2,10,7,0,17,59,70
+6612,Patrick Cote,1980-02-29,71,170,BTT Canada,Welterweight,Canada,71,2.8,49,3.07,48,0.72,21,44,0.3,10,9,0,19,53,40
+6748,Nick Ring,1979-02-10,72,185,Champion's Creed MMA,Middleweight,Canada,74,3.52,42,3.48,62,1.36,36,52,0.3,3,3,0,6,50,33
+6749,Jordan Mein,1989-10-10,71,170,Canadian Martial Arts Centre,Welterweight,Canada,73,3.91,44,2.97,70,1.18,70,60,0,3,2,0,5,60,67
+6765,Carlos Condit,1984-04-26,73,170,Jackson-Wink MMA,Welterweight,United States,75,3.78,39,2.42,56,0.59,52,39,1.2,7,5,0,12,58,71
+6811,Jason Day,1979-03-18,72,185,Champion's Creed MMA,Middleweight,Canada,,,,,,,,,,1,2,0,3,33,100
+6850,Tor Troeng,1983-01-25,74,185,Renyi Fight Camp,Middleweight,Sweden,77,1.16,46,3.26,32,0.62,7,66,0.3,1,3,0,4,25,100
+6946,Vaughan Lee,1982-10-15,65,125,UTC Birmingham,Bantamweight,England,66,3.47,47,2.07,70,0.81,33,72,1,3,5,0,8,38,33
+7168,Jamie Varner,1984-12-10,68,155,Arizona Combat Sports,Lightweight,United States,,,,,,,,,,3,6,0,9,33,67
+7202,Terry Martin,1980-10-10,67,185,Iron Academy,Middleweight,United States,71,2.68,41,3.26,53,3.01,40,92,0,2,4,0,6,33,100
+7306,Gabriel Gonzaga,1979-05-18,74,242,Team Link,Heavyweight,Brazil,76,2.12,45,2.94,57,2.8,39,66,1.1,12,9,0,21,57,92
+7431,Melvin Guillard,1983-03-30,69,155,American Top Team,Lightweight,United States,68,2.96,40,1.85,66,1.3,63,61,0.2,11,9,0,20,55,64
+7466,Gegard Mousasi,1985-08-01,73,185,Red Devil International,Middleweight,Netherlands,76,3.68,50,1.2,69,1.64,61,61,1.2,4,3,0,7,57,50
+7513,Lyoto Machida,1978-05-30,73,185,APAM,Middleweight,Brazil,74,2.63,53,1.59,62,1.33,65,75,0.4,14,7,0,21,67,50
+7540,Anthony Njokuani,1980-03-01,72,155,Janjira Muay Thai,Lightweight,United States,75,3.94,46,2.41,65,0.5,45,53,0.2,3,5,0,8,38,33
+7621,Igor Pokrajac,1979-02-01,72,205,American Top Team,Light Heavyweight,Croatia,,,,,,,,,,4,7,0,11,36,75
+7632,Kyle Noke,1980-03-18,73,170,Jackson-Wink MMA,Welterweight,Australia,76,3.23,50,2.09,64,1.53,54,66,0.8,6,4,0,10,60,83
+7688,Jorge Masvidal,1984-11-12,71,170,American Top Team,Lightweight,United States,74,4.32,47,2.94,68,1.93,61,79,0.5,6,3,0,9,67,33
+7780,James Irvin,1978-09-12,74,205,Reign MMA,Middleweight,United States,75,2.03,48,3.86,35,0,0,36,0.5,4,6,0,10,40,75
+7795,Pete Sell,1982-08-25,71,179,Serra-Longo Fight Team,Middleweight,United States,,,,,,,,,,2,5,0,7,29,50
+7918,Kyle Bradley,1982-08-19,70,155,Team Voodoo,Welterweight,United States,71,1.99,40,3.45,58,0.65,50,40,0,1,3,0,4,25,100
+7987,Charles McCarthy,1980-08-06,70,185,American Top Team,Middleweight,United States,71,0.18,12,4.03,56,2.67,60,0,2.7,1,2,0,3,33,100
+8021,Kenny Florian,1976-05-26,70,145,Florian Martial Arts Center,Featherweight,United States,74,2.41,40,1.85,63,2.22,33,60,1.3,12,5,0,17,71,83
+8095,Kalib Starnes,1975-01-06,75,185,Aegis Athletics,Light Heavyweight,Canada,74,2.71,48,4.43,53,1.46,33,25,0.6,2,3,0,5,40,50
+8183,Ben Nguyen,1988-08-03,64,125,Integrated MMA,Flyweight,United States,65,4.56,43,3.72,56,0,0,66,1.4,2,0,0,2,100,100
+8184,Clay Guida,1981-12-08,67,145,Jackson-Wink MMA,Featherweight,United States,70,2.25,31,2.44,65,3.53,38,69,0.8,12,10,0,22,55,42
+8321,Jason Dent,1980-06-12,70,155,GriffonRawl Thaiboxing & MMA Academy,Welterweight,United States,71,2.01,39,3.7,62,0,0,26,1.4,1,3,0,4,25,100
+8390,Fabricio Werdum,1977-07-30,76,231,Werdum Combat Team,Heavyweight,Brazil,77,3.44,51,2.24,58,1.67,31,34,1.3,8,2,0,10,80,75
+8394,Ronaldo Souza,1979-12-07,72,184,X-Gym,Middleweight,Brazil,,,,,,,,,,5,1,0,6,83,80
+8592,Marcus Davis,1973-08-24,68,170,Team Irish,Welterweight,United States,70,2.72,39,2.79,65,1.6,48,47,1.4,8,6,0,14,57,75
+8593,Thales Leites,1981-09-06,73,185,Nova Uniao,Middleweight,Brazil,78,2,39,2.96,53,2.25,28,40,1.2,10,4,0,14,71,60
+8800,Che Mills,1982-09-29,69,170,Champion's Creed MMA,Lightweight,Canada,76,2.08,52,2.87,43,1.18,66,58,0,2,1,0,3,67,100
+8847,Urijah Faber,1979-05-14,66,135,Team Alpha Male,Bantamweight,United States,67,2.66,41,2.51,65,1.59,31,60,0.9,9,4,0,13,69,67
+9033,James Te Huna,1981-09-29,73,185,Pirtek Athletic Allstars,Middleweight,Australia,75,4.04,51,2.99,62,2.75,37,58,0.2,5,4,0,9,56,60
+9178,Krzysztof Soszynski,1977-08-02,73,205,Reign MMA,Light Heavyweight,Canada,77,3.37,39,3.13,58,0.52,25,71,1,6,3,0,9,67,67
+9179,Josh Neer,1983-03-24,71,170,Cesar Gracie Fight Team,Welterweight,United States,72,3.29,46,3.63,58,1.09,34,46,1.3,6,9,0,15,40,67
+9418,Josh Koscheck,1977-11-30,70,170,Dethrone Base Camp,Welterweight,United States,73,1.79,36,2.21,63,2.51,48,64,0.4,15,10,0,25,60,60
+9491,Anthony Perosh,1972-05-10,75,205,Sinosic,Light Heavyweight,Australia,,,,,,,,,,4,7,0,11,36,100
+9511,Lavar Johnson,1977-06-11,75,240,Pro Buhawe,Heavyweight,United States,82,5.39,55,2.54,55,0.61,66,54,0.6,2,2,0,4,50,100
+9572,Keita Nakamura,1984-05-22,71,170,K-Taro Dojo,Welterweight,Japan,73,2.34,37,3.55,57,2,55,62,0.5,1,3,0,4,25,100
+9574,Raphael Assuncao,1982-07-19,65,135,Ascension MMA,Bantamweight,Brazil,66,3.37,42,2.2,69,1.55,34,78,0.4,7,1,0,8,88,29
+9626,Mike Easton,1984-01-25,66,135,Alliance MMA,Bantamweight,United States,70,3.51,37,4.28,61,0.75,22,66,0,3,4,0,7,43,33
+9680,Soa Palelei,1977-12-07,76,265,AKA Thailand,Heavyweight,Australia,,,,,,,,,,4,3,0,7,57,100
+9781,Mark Bocek,1981-10-24,69,155,Tristar Gym,Lightweight,Canada,75,2.34,43,2.32,60,3.65,36,31,1.3,8,5,0,13,62,50
+9798,Francis Carmont,1981-11-10,72,170,Renzo Gracie Jiu-Jitsu,Welterweight,United States,,,,,,,,,,6,3,0,9,67,33
+9817,Dennis Siver,1979-01-13,67,145,Kiboju,Featherweight,Germany,70,3.66,31,2.58,66,0.93,33,65,0.4,11,7,0,18,61,45
+9863,Rob Kimmons,1981-01-30,70,185,K2L Grindhouse,Welterweight,United States,73,1.86,48,4.79,38,2.08,46,25,2.4,3,4,0,7,43,67
+9901,Sam Stout,1984-04-23,69,155,Team Tompkins,Lightweight,Canada,70,4.17,28,4.08,57,0.63,38,77,0.1,9,11,0,20,45,11
+9907,Adriano Martins,1982-12-16,70,155,Top Life Amazonas,Lightweight,Brazil,72,1.85,37,2.09,66,0.97,80,81,0.2,4,1,0,5,80,75
+10047,Tomasz Drwal,1982-01-22,73,205,Alliance MMA,Middleweight,Poland,76,3.29,38,2.26,57,3.55,60,82,0.4,2,3,0,5,40,100
+10089,Roger Huerta,1983-05-20,69,155,Tiger Muay Thai,Lightweight,United States,70,3.64,36,2.33,56,2.13,46,52,0.5,6,2,0,8,75,67
+10126,Kendall Grove,1982-12-11,78,185,Straight Rootless Fight Team,Middleweight,United States,,,,,,,,,,7,6,0,13,54,57
+10165,Goran Reljic,1984-03-20,75,205,University of Fighting,Light Heavyweight,Croatia,81,1.69,37,2.69,59,1.69,50,33,1.1,1,3,0,4,25,100
+10196,Michael Bisping,1979-02-28,74,185,HB Ultimate,Middleweight,England,75,4.44,38,2.63,66,1.1,43,64,0.3,17,7,0,24,71,59
+10200,Rashad Evans,1979-09-25,71,185,Blackzilians,Light Heavyweight,United States,75,2.12,37,2.26,64,3.15,46,68,0,14,4,1,19,74,43
+10249,Roy Nelson,1976-06-20,72,263,Country Club,Heavyweight,United States,72,2.19,36,4.55,48,1.16,29,65,0.1,8,8,0,16,50,88
+10339,Ben Saunders,1983-04-13,75,170,American Top Team Orlando,Welterweight,United States,77,3.33,53,3.16,53,0.28,40,72,1.3,6,4,0,10,60,83
+10425,Rani Yahya,1984-12-09,66,135,Constrictor Team,Bantamweight,Brazil,,,,,,,,,,6,2,0,8,75,33
+10569,James Wilks,1978-04-05,73,170,Lightning MMA,Welterweight,England,,,,,,,,,,2,2,0,4,50,50
+10629,Dan Hardy,1982-05-17,72,170,Team Rough House,Welterweight,England,74,2.46,35,3.44,51,0.73,35,35,0.4,6,4,0,10,60,33
+10668,Mark Hunt,1974-03-23,70,265,American Top Team,Heavyweight,New Zealand,72,3.08,44,2.74,52,0.65,55,67,0.3,6,4,1,11,55,83
+10709,Vinny Magalhaes,1984-07-02,75,205,Syndicate MMA,Light Heavyweight,Brazil,79,2.14,24,3.97,68,1.55,44,66,0.8,1,4,0,5,20,100
+10768,Rory Markham,1982-03-25,72,170,Miletich Martial Arts,Middleweight,United States,71,1.98,21,10.27,45,0,0,0,0,1,2,0,3,33,100
+10846,Alexander Yakovlev,1984-07-18,73,170,K Dojo Warrior Tribe,Welterweight,Russia,74,1.89,46,2.73,56,1.23,30,72,0,2,2,0,4,50,50
+10924,Rob Broughton,1983-03-03,74,265,Atherton Submission Wrestling,Heavyweight,England,74,2.83,60,2.54,51,0,0,26,3.2,1,2,0,3,33,100
+10967,Alan Belcher,1984-04-24,74,185,Roufusport,Middleweight,United States,73,2.7,41,3.1,59,0.44,26,55,0.9,9,6,0,15,60,89
+10999,War Machine,1981-11-30,71,170,Und1sputed,Welterweight,United States,,,,,,,,,,1,1,0,2,50,100
+11001,Shannon Gugerty,1981-12-30,70,155,Victory MMA,Featherweight,United States,71,1.25,39,1.88,58,2.13,27,50,3.4,2,3,0,5,40,100
+11002,Cub Swanson,1983-11-02,67,145,Jackson-Wink MMA,Featherweight,United States,70,3.67,46,3.07,63,1.3,51,55,0.6,6,3,0,9,67,67
+11262,Shane Nelson,1984-11-30,69,146,BJ Penn's MMA,Featherweight,United States,,,,,,,,,,2,2,0,4,50,50
+11278,Mike Nickels,1971-12-13,76,205,Colorado Brazilian Jiu-Jitsu,Light Heavyweight,United States,,4.44,52,1.11,64,11.11,80,0,2.8,1,1,0,2,50,100
+11281,Tim Means,1984-02-20,74,170,Fit NHB,Welterweight,United States,75,4.35,46,2.83,63,0.93,50,61,0.2,7,4,0,11,64,57
+11292,Hector Lombard,1978-02-02,69,185,American Top Team,Welterweight,Cuba,71,2.81,45,3.4,49,2,57,81,0.7,3,2,0,5,60,67
+11451,Nate Diaz,1985-04-16,72,170,Cesar Gracie Fight Team,Lightweight,United States,76,4.64,44,3.69,54,1.17,30,45,1.4,13,8,0,21,62,77
+11481,Dustin Hazelett,1986-04-29,73,170,Team Jorge Gurgel,Lightweight,United States,76,2.24,40,3.51,46,0.55,50,25,4.1,4,5,0,9,44,75
+11506,Jose Aldo,1986-09-09,67,145,Nova Uniao,Featherweight,Brazil,70,3.28,43,2.09,71,0.83,72,92,0.2,7,1,0,8,88,29
+11507,Rodrigo Damm,1980-02-03,67,155,Alliance Jiu-Jitsu,Featherweight,Brazil,71,3.5,36,5.61,57,0.44,16,80,0.3,3,4,0,7,43,33
+11660,John Dodson,1984-09-26,63,135,Jackson-Wink MMA,Flyweight,United States,66,3.34,40,3.46,62,0.8,29,84,0,6,2,0,8,75,67
+11675,Rafael dos Anjos,1984-10-26,69,155,Evolve MMA,Lightweight,Brazil,70,3.24,41,3.07,64,2.33,41,67,0.7,14,5,0,19,74,43
+11689,Tyson Griffin,1984-04-20,66,145,American Kickboxing Academy,Lightweight,United States,68,3.71,41,2.3,65,1.87,46,59,0.9,7,6,0,13,54,14
+11702,George Sotiropoulos,1977-07-09,70,155,American Top Team,Lightweight,Australia,71,2.61,27,2.52,67,2.32,31,53,1.6,7,4,0,11,64,71
+11743,Brad Pickett,1978-09-24,66,135,American Top Team,Flyweight,England,68,2.97,30,4.61,56,2.49,44,58,0.5,4,6,0,10,40,50
+11798,John Howard,1983-03-01,67,170,Wai Kru MMA,Welterweight,United States,71,2.15,50,3.08,51,2.7,49,53,0.4,7,7,0,14,50,29
+11884,Ross Pearson,1984-09-26,68,155,Alliance MMA,Lightweight,England,69,3.54,41,3.57,64,0.86,38,75,0,10,7,0,17,59,50
+11908,Francisco Rivera,1981-10-08,68,135,All In MMA,Bantamweight,United States,68,4.07,41,3.16,68,1.01,63,68,0.6,4,4,0,8,50,75
+11941,Alex Karalexis,1977-09-20,68,155,Team Sityodtong,Welterweight,United States,66,2.39,38,2.37,57,2.64,42,86,1.1,1,2,0,3,33,100
+11955,Rich Attonito,1977-06-16,70,170,American Top Team,Welterweight,United States,72,2.28,47,2.13,59,0.74,37,75,0,3,2,0,5,60,33
+11970,Dale Hartt,1979-04-04,70,155,Team Sityodtong,Lightweight,United States,69,1.14,35,1.55,66,1.22,100,25,2.5,1,2,0,3,33,100
+12073,Yoshiyuki Yoshida,1974-05-10,71,170,Haleo Top Team,Lightweight,Japan,70,0.85,36,3.67,36,1.41,28,25,2.8,2,3,0,5,40,100
+12074,Takeya Mizugaki,1983-12-16,67,135,Hakkei Gym,Bantamweight,Japan,68,3.37,37,3.27,57,1.46,57,70,0.1,8,4,0,12,67,12
+12098,Eddie Sanchez,1982-04-11,75,214,Kings MMA,Heavyweight,United States,,,,,,,,,,2,3,0,5,40,100
+12107,Dominick Cruz,1985-09-03,68,134,Alliance MMA,Bantamweight,United States,,,,,,,,,,4,0,0,4,100,25
+12179,Jeremy Stephens,1986-05-26,69,145,Alliance MMA,Featherweight,United States,,,,,,,,,,11,11,0,22,50,55
+12199,Luigi Fioravanti,1981-01-22,69,170,Flawless MMA,Middleweight,United States,70,2.23,42,2.21,69,3.76,63,67,0.9,4,5,0,9,44,50
+12236,Matt Wiman,1983-09-19,70,155,Skrap Pack,Lightweight,United States,68,3.51,50,3.24,54,2.41,38,63,1.8,10,5,0,15,67,50
+12284,Tom Murphy,1974-11-19,74,227,Tristar Gym,Light Heavyweight,United States,,2.5,71,0.17,84,7.51,85,0,2.5,1,0,0,1,100,100
+12354,Antonio Silva,1979-09-14,76,264,American Top Team,Heavyweight,Brazil,80,2.89,45,3.09,50,0.82,29,66,0.8,3,5,1,9,33,100
+12785,Steve Cantwell,1986-12-08,74,185,One Kick's Gym,Middleweight,United States,75,3.63,34,5.76,55,0.65,30,80,0.7,1,5,0,6,17,100
+12852,Mike Massenzio,1982-11-01,74,185,Team Bombsquad,Middleweight,United States,73,2.08,45,3.59,54,2.74,24,50,1.4,2,5,0,7,29,50
+12913,DaMarques Johnson,1982-06-28,72,170,Elite Performance,Welterweight,United States,75,2.11,37,3.75,51,1.18,55,19,0.7,4,6,0,10,40,100
+13004,Vitor Miranda,1979-03-10,73,185,Team Nogueira,Middleweight,Brazil,77,3.38,53,2.36,58,0.62,50,50,0,2,1,0,3,67,100
+13068,Jake Ellenberger,1985-03-28,69,170,Reign MMA,Welterweight,United States,71,2.42,38,2.67,61,2.08,50,86,0.4,9,7,0,16,56,67
+13133,Cole Miller,1984-04-26,73,145,American Top Team,Featherweight,United States,74,3,33,3.88,59,0.6,36,38,1.8,10,7,0,17,59,80
+13275,Eric Schafer,1977-09-20,75,185,Red Schafer MMA,Middleweight,United States,75,1.89,34,3.38,56,1.81,36,50,1.8,3,6,0,9,33,100
+13332,Terry Etim,1986-01-11,73,155,Team Kaobon,Lightweight,England,73,2.16,35,2.53,67,0.43,30,39,1.4,6,5,0,11,55,83
+13336,Paulo Thiago,1981-01-25,71,170,X-Gym,Welterweight,Brazil,73,1.71,39,1.99,63,1.42,31,63,1.2,5,8,0,13,38,40
+13428,Alejandro Perez,1989-09-02,66,135,KB-VT Gym,Bantamweight,Mexico,67,4.24,40,2.96,66,0.68,33,58,0.3,1,1,0,2,50,100
+13469,Chris Clements,1976-02-09,70,170,Adrenaline Training Center,Welterweight,Canada,70,3.2,49,2.37,44,0,0,32,0.3,2,2,0,4,50,50
+13791,Bryan Caraway,1984-08-04,69,135,Xtreme Couture,Bantamweight,United States,68,2.25,33,3.07,57,2.82,34,80,0.9,5,2,0,7,71,80
+13827,Seth Baczynski,1981-10-26,75,170,Power MMA Team,Welterweight,United States,74,3.08,31,3.14,51,0.89,16,48,0.8,5,6,0,11,45,60
+13968,Rafael Natal,1982-12-25,72,185,Renzo Gracie Jiu-Jitsu,Middleweight,Brazil,76,3.08,47,2.4,58,2.59,34,78,0.5,9,4,1,14,64,22
+13976,Marcio Cruz,1978-04-24,76,232,Gracie Fusion,Light Heavyweight,Brazil,,2.92,46,1.51,68,0.53,7,37,1.6,1,2,0,3,33,100
+14013,Shane Carwin,1975-01-04,74,265,Grudge Training Center,Heavyweight,United States,80,4.38,47,3.53,53,1.42,33,42,0,3,2,0,5,60,100
+14018,Rory MacDonald,1989-07-22,71,170,Tristar Gym,Welterweight,Canada,76,3.75,42,2.8,62,1.77,47,88,0.4,9,3,0,12,75,44
+14028,Paul Kelly,1984-09-12,69,155,Team Kaobon,Welterweight,England,70,3.22,37,2.61,59,1.34,60,30,1.5,5,4,0,9,56,40
+14047,Mike Ciesnolevicz,1979-10-28,72,235,Miletich Martial Arts,Light Heavyweight,United States,,0.51,50,4.62,57,0,0,20,5.1,1,1,0,2,50,100
+14062,Neil Seery,1979-08-30,66,125,Team Ryano MMA,Flyweight,Ireland,64,3.11,40,2.95,62,0.89,31,54,1.8,3,2,0,5,60,33
+14185,Jason High,1981-10-12,69,155,American Top Team HD,Lightweight,United States,71,1.28,42,1.56,48,2.36,63,37,2.8,2,3,0,5,40,50
+14204,Frankie Edgar,1981-10-16,66,145,Ricardo Almeida Jiu-Jitsu,Featherweight,United States,68,3.46,39,2.16,70,2.62,35,65,0.4,14,4,1,19,74,43
+14207,Lyman Good,1985-05-26,72,170,Team Tiger Schulmann,Welterweight,United States,74,6.38,51,2.32,79,0,0,0,0,1,0,0,1,100,100
+14210,Uriah Hall,1984-07-31,72,185,Team Tiger Schulmann,Middleweight,United States,79,3.11,52,2.95,55,1.07,41,72,0.3,5,4,0,9,56,80
+14310,Matt Brown,1981-01-10,72,170,Team Jorge Gurgel,Welterweight,United States,75,3.76,53,2.63,56,1.6,46,62,1.7,13,7,0,20,65,85
+14396,Thiago Silva,1982-11-12,73,205,Blackzilians,Heavyweight,Brazil,74,3.92,50,2.55,67,1.03,47,70,0.7,7,3,0,10,70,86
+14463,Jim Miller,1983-08-30,68,155,Miller Brothers MMA,Lightweight,United States,71,2.75,39,2.64,62,1.7,42,48,2.1,14,6,0,20,70,57
+14464,Dan Miller,1981-06-30,73,185,Miller Brothers MMA,Middleweight,United States,74,2.03,36,3.06,49,1.67,54,47,1.8,6,7,0,13,46,67
+14600,Bubba McDaniel,1983-05-03,75,185,,Light Heavyweight,United States,75,1.64,44,1.98,56,0.93,50,50,1.4,1,2,0,3,33,100
+14637,Demian Maia,1977-11-06,72,170,Demian Maia Jiu-Jitsu,Welterweight,Brazil,72,1.82,44,1.61,62,2.99,31,65,1.3,16,6,0,22,73,50
+14829,Brian Stann,1980-09-24,73,205,Jackson-Wink MMA,Middleweight,United States,74,3.28,42,2.65,59,0.12,12,60,0.3,6,5,0,11,55,67
+14883,Cung Le,1972-05-25,70,185,Cung Le's Universal Strength Headquarters,Middleweight,United States,69,4.36,48,2.98,66,1.37,71,88,0.3,2,2,0,4,50,50
+14892,Jake O'Brien,1984-09-25,75,205,Integrated Fighting Academy,Light Heavyweight,United States,76,1.31,31,1.92,69,6.39,54,25,0.2,4,3,0,7,57,25
+15008,Joseph Benavidez,1984-07-31,64,125,Team Alpha Male,Flyweight,United States,65,3.42,33,2.36,65,1.21,29,66,0.8,11,2,0,13,85,36
+15009,Erick Silva,1984-06-21,71,170,Team Nogueira,Welterweight,Brazil,74,2.65,50,4.27,45,1.07,46,59,1.8,6,5,0,11,55,100
+15058,Nik Lentz,1984-08-13,68,155,American Top Team,Featherweight,United States,68,3.11,49,2.81,48,3.79,36,44,1.4,10,4,1,15,67,20
+15063,Stefan Struve,1988-02-18,84,265,Team Schrijber,Heavyweight,Netherlands,84,3.39,50,3.49,48,0.74,66,63,2.5,9,6,0,15,60,78
+15104,Eliot Marshall,1980-07-07,75,205,Grudge Training Center,Light Heavyweight,United States,77,1.93,27,2.39,67,0.47,33,79,0.9,3,3,0,6,50,33
+15105,Donald Cerrone,1983-03-29,71,170,Jackson-Wink MMA,Lightweight,United States,73,4.18,47,4.01,54,1.36,42,70,1.6,16,4,0,20,80,62
+15125,T.J. Waldburger,1988-04-25,71,170,Grapplers Lair Fight Team,Welterweight,United States,,,,,,,,,,4,4,0,8,50,75
+15179,Tom Watson,1982-07-13,73,185,Jackson-Wink MMA,Middleweight,England,73,4.01,44,4.41,50,0.15,7,43,0,2,5,0,7,29,50
+15574,John Maguire,1983-05-19,69,155,Tsunami Gym,Welterweight,England,69,1.41,41,2.44,65,2.8,46,77,1.1,2,3,0,5,40,50
+15626,Nate Loughran,1980-07-28,74,185,Nor-Cal Fighting Alliance,Welterweight,United States,,1.81,40,4.11,59,0,0,0,2.1,1,1,0,2,50,100
+15759,Jake Hecht,1984-02-09,72,170,Fiore MMA,Welterweight,United States,76,3.26,47,2.76,56,2.04,37,40,0,1,2,0,3,33,100
+15816,Peter Sobotta,1987-01-11,72,170,Planet Eater,Welterweight,Germany,75,2,38,2.94,59,2.06,36,85,0.8,2,4,0,6,33,50
+15835,Gray Maynard,1979-09-05,68,155,American Kickboxing Academy,Lightweight,United States,,,,,,,,,,9,5,1,15,60,11
+15906,T.J. Grant,1984-02-26,70,155,Fit Plus,Lightweight,Canada,,,,,,,,,,8,3,0,11,73,50
+15937,Yaotzin Meza,1981-02-04,69,145,MMA Lab,Featherweight,United States,74,1.43,41,1.62,64,1.06,20,18,1.4,2,3,0,5,40,50
+15949,Jared Hamman,1982-03-07,75,185,Dynamix MMA,Light Heavyweight,United States,75,5.15,42,3.93,55,1.57,46,30,0,2,5,0,7,29,50
+16129,Iuri Alcantara,1980-08-04,69,135,Marajo Brothers Team,Bantamweight,Brazil,71,2.64,47,2.03,52,1.44,70,58,0.7,7,4,0,11,64,29
+16161,Rafael Cavalcante,1980-04-04,72,205,Team Nogueira,Light Heavyweight,Brazil,,,,,,,,,,1,4,0,5,20,100
+16180,Justin Salas,1982-03-13,68,155,Grudge Training Center,Lightweight,United States,70,3.42,43,2.96,68,2.43,20,0,0,3,3,0,6,50,33
+16286,Rousimar Palhares,1980-02-20,68,170,Team Nogueira,Welterweight,Brazil,,,,,,,,,,8,4,0,12,67,75
+16374,Dong Hyun Kim,1981-11-17,73,170,Busan Team M.A.D.,Welterweight,South Korea,76,2.19,49,1.79,59,3.01,43,80,0.7,12,3,0,15,80,42
+16415,George Roop,1981-11-10,73,135,Apex MMA,Bantamweight,United States,72,3.43,34,2.47,60,1.05,57,59,0.1,5,8,0,13,38,40
+16426,Fabio Maldonado,1980-03-17,73,205,American Top Team,Light Heavyweight,Brazil,75,5.29,58,4.31,53,0.44,57,61,0.6,5,6,0,11,45,40
+16467,Chris Cariaso,1981-05-27,63,125,Fight and Fitness,Flyweight,United States,63,3.35,43,2.23,61,1.11,39,57,0.8,7,6,0,13,54,14
+16470,Tamdan McCrory,1986-11-05,76,185,CNY MMA,Welterweight,United States,78,2.07,49,1.6,46,2.28,50,33,2.5,3,3,0,6,50,67
+16555,Efrain Escudero,1986-01-15,69,155,MMA Lab,Lightweight,United States,70,2.92,44,2.3,63,1.31,40,66,0.8,5,6,0,11,45,40
+16558,Kyle Kingsbury,1982-03-22,76,205,American Kickboxing Academy,Light Heavyweight,United States,76,2.97,40,3.81,51,2.64,41,52,0,4,5,0,9,44,25
+16695,Matt Hamill,1976-10-05,74,205,,Light Heavyweight,United States,76,3.69,42,3.8,61,3,34,91,0,9,5,0,14,64,44
+16705,Alberto Mina,1982-05-02,72,170,Kings MMA,Welterweight,Brazil,77,4.65,46,4.34,44,2.35,21,50,0,2,0,0,2,100,50
+16785,Travis Browne,1982-07-17,79,255,Glendale Fighting Club,Heavyweight,United States,79,2.88,40,4.15,43,1.25,71,83,0.2,9,3,1,13,69,89
+16806,Katsunori Kikuno,1981-10-30,68,145,Alliance-Square,Featherweight,Japan,,,,,,,,,,2,3,0,5,40,50
+16852,Scott Jorgensen,1982-09-17,65,135,Twisted Genetiks,Bantamweight,United States,66,3.37,40,3.41,65,2.61,45,59,0.7,4,8,0,12,33,50
+16984,Tiequan Zhang,1978-07-25,69,155,China Top Team,Featherweight,China,70,1.23,36,2.14,51,1.95,58,75,3.4,1,3,0,4,25,100
+17010,Rameau Thierry Sokoudjou,1984-04-18,70,205,Team Quest,Light Heavyweight,United States,78,2.26,45,2.61,56,1.93,47,78,0.9,1,2,0,3,33,100
+17034,Andre Winner,1981-11-09,71,155,Team Rough House,Lightweight,England,73,2.52,33,4.57,51,0,0,74,0,2,4,0,6,33,50
+17052,Joseph Duffy,1988-02-18,70,155,The MMA Clinic,Lightweight,Ireland,,,,,,,,,,2,1,0,3,67,100
+17129,Abel Trujillo,1983-09-18,68,155,Blackzilians,Lightweight,United States,70,2.77,42,2.17,60,2.38,51,40,0.5,4,3,0,7,57,100
+17139,Jesse Lennox,1982-03-10,69,170,Miletich Martial Arts,Welterweight,United States,72,2.69,32,3.2,64,1.22,66,63,0.3,1,2,0,3,33,100
+17224,Chris Camozzi,1986-11-20,75,185,factoryX Muay Thai,Middleweight,United States,76,3.78,44,2.99,57,0.29,19,59,0.4,8,7,0,15,53,38
+17272,Junior dos Santos,1984-01-30,76,238,Champion Team,Heavyweight,Brazil,77,4.89,48,3.22,55,0.41,62,80,0.1,11,3,0,14,79,73
+17316,Jonathan Brookins,1985-08-13,72,145,Gracie Barra Orlando,Bantamweight,United States,73,2.69,39,3.63,56,1.94,17,80,0.3,2,3,0,5,40,50
+17460,Josh Samman,1988-03-14,75,185,MMA Masters,Middleweight,United States,79,2.08,52,2.47,34,1.09,33,33,0.4,3,1,0,4,75,100
+17522,Brock Lesnar,1977-07-12,75,265,Team Death Clutch,Heavyweight,United States,81,3.53,72,2.11,50,3.9,55,60,0.5,4,3,0,7,57,75
+17559,Luiz Cane,1981-04-02,74,205,Demian Maia Jiu-Jitsu,Light Heavyweight,Brazil,,,,,,,,,,4,5,0,9,44,75
+17662,Anthony Johnson,1984-03-06,74,205,Blackzilians,Light Heavyweight,United States,78,3.3,46,1.65,64,2.48,60,79,0.7,12,5,0,17,71,83
+17665,Daniel Sarafian,1982-08-21,69,185,Power MMA,Middleweight,Brazil,73,2.23,46,3.1,58,0.36,7,53,0.7,2,4,0,6,33,100
+17723,Brian Foster,1984-04-04,70,155,factoryX Muay Thai,Lightweight,United States,,,,,,,,,,3,2,0,5,60,100
+17903,Gerald Harris,1979-11-19,71,185,Ghost Dog,Welterweight,United States,77,1.41,29,1.58,62,2.96,54,72,0,3,1,0,4,75,100
+17915,Mike de la Torre,1986-09-22,72,145,MMA Lab,Bantamweight,United States,71,3.5,39,4.24,54,0.4,16,85,0,2,2,0,4,50,50
+18062,Justin Buchholz,1983-08-22,71,155,Team Alpha Male,Lightweight,United States,73,2.35,26,4.14,51,0,0,33,0.8,1,4,0,5,20,100
+18168,Hector Urbina,1987-09-17,72,170,American Top Team,Welterweight,United States,73,0.97,38,2.44,39,0,0,38,3.8,1,1,0,2,50,100
+18921,Reza Madadi,1978-06-20,71,155,Allstars Training Center,Lightweight,"Iran, Islamic Republic of",72,2.87,47,3.45,65,3,38,89,0.8,2,2,0,4,50,100
+18944,Brian Bowles,1980-06-22,67,135,Hardcore Gym,Bantamweight,United States,70,2.36,26,2.98,64,1.39,70,54,1.4,2,2,0,4,50,50
+19102,Cain Velasquez,1982-07-28,73,240,American Kickboxing Academy,Heavyweight,United States,77,6.38,57,2.29,57,5.15,45,85,0.4,11,2,0,13,85,82
+19128,Nick Denis,1983-10-11,66,135,Ronin MMA,Bantamweight,Canada,,6.54,53,5.42,36,2.8,100,80,0,1,1,0,2,50,100
+19456,Matt Arroyo,1982-09-10,72,155,,Lightweight,United States,,,,,,,,,,1,2,0,3,33,100
+19521,Leandro Issa,1983-09-19,66,135,Evolve MMA,Bantamweight,Brazil,69,2.08,37,3.17,58,2.38,22,50,1.2,2,2,0,4,50,100
+19530,Antonio Braga Neto,1987-10-29,75,185,Team Nogueira,Middleweight,Brazil,77,1.3,46,2.67,53,3.56,36,0,0.9,1,1,0,2,50,100
+19544,Tim Boetsch,1981-01-28,71,185,Team Irish,Light Heavyweight,United States,74,2.85,51,2.8,56,1.64,35,58,0.9,8,9,0,17,47,38
+19640,Sean McCorkle,1976-07-17,79,265,Team James Clingerman,Super Heavyweight,United States,81,0.85,44,2.48,52,2.12,40,33,4.2,1,2,0,3,33,100
+19717,Johnny Bedford,1983-01-06,69,135,Fitness Fight Factory,Bantamweight,United States,71,4.53,50,1.75,63,1.83,62,62,0,2,3,0,5,40,100
+19720,Dave Herman,1984-10-03,76,242,Team Quest,Heavyweight,United States,76,4.98,60,3.78,48,1.49,100,58,0,1,4,0,5,20,100
+19977,Simeon Thoresen,1984-03-14,73,170,Frontline Academy,Welterweight,Norway,79,3.85,43,3.85,64,1.12,40,50,1.7,1,2,0,3,33,100
+20512,Kevin Burns,1980-03-03,72,170,Grudge Training Center,Welterweight,United States,74,2.74,38,4.3,52,0.28,50,47,0.8,2,3,0,5,40,100
+20548,Benson Henderson,1983-11-16,69,170,MMA Lab,Lightweight,United States,70,2.93,45,1.79,63,2.4,45,63,0.8,11,3,0,14,79,18
+20552,Mike Russow,1976-11-09,73,256,,Heavyweight,United States,,,,,,,,,,4,2,0,6,67,50
+21039,Kiichi Kunimoto,1981-05-01,70,170,Cobra Kai MMA Dojo,Welterweight,Japan,71,1.96,41,4.6,38,1.4,15,25,0.5,3,1,0,4,75,33
+21040,Hyun Gyu Lim,1985-01-16,74,170,Korean Top Team,Welterweight,South Korea,77,4.93,43,5.33,46,0.3,100,77,0.3,3,2,0,5,60,100
+21044,Ryan Jimmo,1981-11-27,74,205,Power MMA Team,Light Heavyweight,Canada,73,3.12,66,2.77,46,0.45,28,87,0,3,4,0,7,43,67
+21219,Joey Beltran,1981-12-09,73,185,Blackline,Middleweight,United States,,,,,,,,,,3,6,0,9,33,67
+21339,Robbie Peralta,1986-03-14,68,145,Team Xplode MMA,Featherweight,United States,,,,,,,,,,4,3,0,7,57,50
+21343,Sergio Moraes,1982-07-23,72,170,Evolucao Thai,Welterweight,Brazil,72,2.28,46,2.79,64,1.35,30,66,0.5,4,1,0,5,80,75
+21564,Daniel Pineda,1985-08-06,67,145,4oz. Fight Club,Lightweight,United States,69,2.99,43,2.51,47,1.46,25,48,2,3,4,0,7,43,100
+21618,Marcus Brimage,1985-04-06,64,135,American Top Team,Bantamweight,United States,71,3.97,35,3.64,56,0.56,100,80,0,4,4,0,8,50,25
+21803,Dylan Andrews,1979-11-15,73,185,Heartbreak Conditioning,Middleweight,New Zealand,73,2.21,50,2.72,46,2.83,50,57,0.4,2,3,0,5,40,100
+21940,Tom Lawlor,1983-05-15,72,205,The Jungle MMA,Light Heavyweight,United States,74,2.5,42,2.41,60,2.46,32,57,1.4,6,4,0,10,60,67
+22038,Evan Dunham,1981-12-18,70,155,Xtreme Couture,Lightweight,United States,70,5.68,39,3.38,63,1.91,34,80,1.1,10,6,0,16,62,30
+22071,Alexis Davis,1984-10-04,65,135,Cesar Gracie Fight Team,Bantamweight,Canada,68,4.69,48,4.5,52,0.87,38,40,0.9,4,1,0,5,80,25
+22094,Darren Elkins,1984-05-16,70,145,Duneland Vale Tudo,Featherweight,United States,71,3.11,35,1.89,59,2.99,37,25,1.5,9,4,0,13,69,22
+22111,James McSweeney,1980-10-24,76,230,Tiger Muay Thai,Light Heavyweight,England,77,3.94,55,4.33,42,0.52,33,100,1.1,1,2,0,3,33,100
+22137,Magnus Cedenblad,1982-04-10,75,185,Allstars Training Center,Middleweight,Sweden,79,2.38,51,3.02,40,2.87,64,66,1,3,1,0,4,75,67
+22173,Cody McKenzie,1987-12-16,72,155,Warrior Camp,Welterweight,United States,72,1.74,34,2.5,67,2.5,25,14,2.5,3,4,0,7,43,67
+22223,Ildemar Alcantara,1982-11-17,74,185,Marajo Brothers Team,Middleweight,Brazil,,,,,,,,,,4,2,0,6,67,25
+22298,Brandon Thatch,1985-07-11,74,170,Elevation Fight Team,Welterweight,United States,74,2.7,42,3.63,52,1.36,66,50,0.7,2,2,0,4,50,100
+22304,Cody Donovan,1981-02-20,75,205,Grudge Training Center,Light Heavyweight,United States,74,5.61,59,5.44,45,1.67,28,0,1.7,1,3,0,4,25,100
+22350,C.B. Dollaway,1983-08-10,74,185,Power MMA Team,Middleweight,United States,,,,,,,,,,9,8,0,17,53,44
+22400,Cezar Ferreira,1985-02-15,73,185,Blackzilians,Middleweight,Brazil,78,1.85,39,1.86,56,2.62,69,100,0.3,4,3,0,7,57,25
+22411,Mark Munoz,1978-02-09,72,185,Reign MMA,Middleweight,United States,72,3.12,51,2.26,57,3.17,29,57,0.6,9,6,0,15,60,44
+22490,Edwin Figueroa,1984-07-31,67,135,Mohler MMA,Bantamweight,United States,69,2.57,39,3.06,51,0.2,100,37,0.6,2,4,0,6,33,50
+22537,Steven Siler,1987-02-15,71,145,The Pit Elevated Fight Team,Welterweight,United States,70,3.21,41,2.96,54,0.47,21,55,1.6,5,3,0,8,62,40
+22556,Mitch Clarke,1985-11-24,70,155,MMA Lab,Lightweight,Canada,73,2.26,34,2.85,46,0.74,18,50,0.5,2,3,0,5,40,50
+22858,Ryan Bader,1983-06-07,74,205,Power MMA Team,Light Heavyweight,United States,74,2.82,43,1.39,71,3.37,44,80,0.4,13,5,0,18,72,31
+22903,Todd Duffee,1985-12-06,75,260,American Top Team,Heavyweight,United States,79,5.58,35,2.61,60,0,0,90,0,3,2,0,5,60,100
+23006,Nick Catone,1981-09-01,72,185,Nick Catone MMA Academy,Middleweight,United States,72,2.11,44,2.32,63,3.71,44,83,0.5,4,4,0,8,50,25
+23091,Michelle Waterson,1986-01-06,63,115,Jackson-Wink MMA,Atomweight,United States,62,2.61,73,0.83,68,3.01,100,62,3.5,1,0,0,1,100,100
+23156,Renan Barao,1987-01-31,67,145,Nova Uniao,Bantamweight,Brazil,70,3.64,34,3.5,60,1.46,43,97,0.6,8,2,0,10,80,62
+23167,Tae Hyun Bang,1983-04-15,69,155,Korean Top Team,Lightweight,South Korea,71,2.72,38,2.07,66,0.49,33,57,0.5,2,2,0,4,50,50
+23253,James Head,1984-02-09,74,170,R-1 MMA,Welterweight,United States,73,2.75,48,3.11,49,0.41,100,66,0.8,2,3,0,5,40,50
+23322,Jake Rosholt,1982-02-09,73,185,Team Takedown,Light Heavyweight,United States,,2.68,53,2.33,49,6.51,68,0,1.8,1,2,0,3,33,100
+23345,Luke Rockhold,1984-10-17,75,185,American Kickboxing Academy,Middleweight,United States,77,4.17,48,2.12,60,0.56,40,69,1.4,5,1,0,6,83,100
+23350,Matt Veach,1981-05-31,67,155,Finney's HIT Squad,Welterweight,United States,,1.12,28,4.91,44,3.64,38,100,1.5,1,2,0,3,33,100
+23390,Erik Koch,1988-10-04,70,155,Roufusport,Featherweight,United States,70,2.32,42,2.31,44,0.69,44,80,1.5,3,3,0,6,50,67
+23401,Wilson Reis,1985-01-06,64,125,Brazilian Jiu-Jitsu United,Flyweight,Brazil,65,2.15,37,2.12,62,5.51,46,53,0.8,4,2,0,6,67,25
+23501,Dongi Yang,1984-12-07,71,185,Korean Top Team,Middleweight,South Korea,71,3.55,51,3.21,63,1.7,41,61,0.5,2,3,0,5,40,100
+23531,Paul Sass,1988-08-04,73,155,Team Kaobon,Lightweight,England,73,0.53,26,1.9,51,0.53,16,33,7.4,3,2,0,5,60,100
+23648,Sheldon Westcott,1984-08-20,73,170,Complete Fitness and Martial Arts,Welterweight,Canada,71,2.26,40,3.73,37,3.23,37,14,0,1,2,0,3,33,100
+23852,Mario Miranda,1978-09-21,75,185,Black House,Middleweight,Brazil,,,,,,,,,,1,3,0,4,25,100
+23864,Corey Hill,1978-10-03,76,155,KO Evolution,Welterweight,United States,80,3.57,46,1.61,70,3.02,80,100,0,1,2,0,3,33,100
+23978,Ricardo Romero,1978-04-15,72,205,AMA Fight Club,Light Heavyweight,United States,76,2.17,55,4.77,46,1.63,10,100,3.3,1,2,0,3,33,100
+23982,Drew Dober,1988-10-19,68,155,MidAmerica Martial Arts,Lightweight,United States,70,3.33,33,3.99,55,1.15,16,66,0.2,2,3,0,5,40,50
+23999,Daniel Roberts,1980-08-05,70,170,Cesar Gracie Fight Team,Welterweight,United States,74,0.73,20,2.27,46,2.46,44,40,2.5,3,4,0,7,43,67
+24067,Kyung Ho Kang,1987-09-09,69,135,Busan Team M.A.D.,Bantamweight,South Korea,72,2.04,43,1.39,57,2.55,71,81,1.5,2,1,0,3,67,50
+24539,Johny Hendricks,1983-09-12,69,185,Team Takedown,Welterweight,United States,69,3.51,46,3.91,53,4.26,48,60,0.4,12,4,0,16,75,42
+24540,Shane Roller,1979-07-14,70,155,Team Takedown,Lightweight,United States,72,2.04,34,2.65,60,2.46,33,42,1.9,2,4,0,6,33,50
+24765,Jacob Volkmann,1980-09-05,69,155,Minnesota Martial Arts Academy,Welterweight,United States,71,1.19,34,1.78,52,3.19,48,52,2,6,4,0,10,60,17
+24913,Ken Stone,1982-10-08,68,135,American Top Team,Bantamweight,United States,71,3.85,49,2.9,48,1.24,33,60,0.6,2,2,0,4,50,50
+24986,Aaron Simpson,1974-07-20,72,170,Power MMA Team,Welterweight,United States,73,3.6,52,2.53,56,3.78,34,83,0.5,7,4,0,11,64,29
+25097,Diego Brandao,1987-05-27,67,145,Jackson-Wink MMA,Featherweight,Brazil,68,2.94,47,3.38,62,3.21,68,80,0.6,6,4,0,10,60,67
+25245,Aisling Daly,1987-12-24,63,115,SBG Ireland,Strawweight,Ireland,64,2.92,52,1.4,55,2.15,41,33,0.9,2,1,0,3,67,50
+25246,Gunnar Nelson,1988-07-28,71,170,Mjolnir,Welterweight,Iceland,72,2.02,57,3.73,51,1.6,64,70,1.1,5,2,0,7,71,80
+25415,Mike Pierce,1980-09-01,68,170,Sports Lab,Welterweight,United States,70,2.62,42,2.36,62,3.08,42,71,0.2,9,5,0,14,64,44
+25733,Gabriel Benitez,1988-06-15,68,145,Entram Gym,Featherweight,Mexico,71,3.79,45,2.48,71,0,0,52,3,2,1,0,3,67,50
+25821,Jan Blachowicz,1983-02-24,74,205,PJ Promotion,Light Heavyweight,Poland,78,3.28,49,3.45,48,1.21,55,33,0.2,1,2,0,3,33,100
+25989,Rick Story,1984-08-28,70,170,MMA Lab,Welterweight,United States,71,3.8,41,2.17,62,2.53,48,63,0.9,11,6,0,17,65,36
+26070,Danny Castillo,1979-08-25,69,155,Team Alpha Male,Lightweight,United States,71,2.57,42,1.96,62,2.95,38,63,0.2,7,7,0,14,50,29
+26162,Alexander Gustafsson,1987-01-15,76,205,Allstars Training Center,Light Heavyweight,Sweden,79,4.12,40,3.63,50,1.93,40,86,0.6,8,4,0,12,67,75
+26358,Carlos Diego Ferreira,1985-01-18,68,156,James Cooper MMA,Lightweight,Brazil,,,,,,,,,,3,2,0,5,60,67
+26381,Jingliang Li,1988-03-20,72,169,China Top Team,Welterweight,China,,,,,,,,,,2,2,0,4,50,50
+26389,Guangyou Ning,1981-12-15,65,135,Tiger Muay Thai,Bantamweight,China,,,,,,,,,,2,1,0,3,67,50
+26602,Reuben Duran,1983-07-02,67,135,Pinnacle Fighting Systems,Bantamweight,United States,69,3.19,49,2.61,50,0.98,23,25,0.7,1,3,0,4,25,100
+26627,Anthony Pettis,1987-01-27,69,145,Roufusport,Lightweight,United States,72,2.62,42,2.69,57,0.78,52,60,1.1,5,3,0,8,62,80
+27090,Yan Cabral,1983-05-13,72,155,Nova Uniao,Welterweight,Brazil,73,2.02,47,1.98,62,2.89,35,37,1.2,2,2,0,4,50,50
+27115,Stanislav Nedkov,1981-09-12,71,203,Bushido Bulgaria,Light Heavyweight,Bulgaria,,,,,,,,,,1,2,0,3,33,100
+27738,Yancy Medeiros,1987-09-07,70,155,Team Hakuilua,Lightweight,United States,75,4.01,34,4.88,49,0,0,86,0.8,3,3,0,6,50,67
+27802,Phil Davis,1984-09-25,74,205,Alliance MMA,Light Heavyweight,United States,79,2.85,34,1.33,72,2.99,38,72,0.6,9,3,0,12,75,33
+27944,Jon Jones,1987-07-19,76,205,Jackson-Wink MMA,Light Heavyweight,United States,84,4.25,55,2,65,2.25,52,94,0.6,15,1,0,16,94,60
+27953,Bobby Green,1986-09-09,70,155,Pinnacle Fighting Systems,Lightweight,United States,71,4.38,48,3.16,66,1.22,33,81,0.3,4,1,0,5,80,50
+28017,Johnny Case,1989-06-28,73,155,Power MMA,Lightweight,United States,72,3.44,40,2.01,59,2.1,47,75,0,4,0,0,4,100,50
+28041,Junie Allen Browning,1985-05-12,70,180,Legends MMA,Middleweight,United States,,,,,,,,,,1,1,0,2,50,100
+29688,Conor McGregor,1988-07-14,68,170,SBG Ireland,Featherweight,Ireland,74,5.82,47,4.55,57,0.92,62,73,0,7,0,0,7,100,86
+30021,Tony Sims,1985-10-14,71,155,Elevation Fight Team,Lightweight,United States,70,1.81,63,0.76,65,0.71,50,50,0.7,1,2,0,3,33,100
+30033,Nick Osipczak,1984-12-30,73,170,Team Rough House,Welterweight,England,76,2.83,50,3.77,50,1.2,45,71,1,2,3,0,5,40,100
+30054,Russell Doane,1986-08-13,66,135,Hawaii Elite MMA,Bantamweight,United States,70,1.92,41,1.69,56,2.44,43,56,1,2,2,0,4,50,50
+30297,Michael McDonald,1991-01-15,68,135,Last Stand Fight Team,Bantamweight,United States,70,2.69,42,2.76,57,1.09,66,52,1.4,6,2,0,8,75,67
+30298,Viscardi Andrade,1984-03-08,72,170,Gracie Fusion,Welterweight,Brazil,75,3.26,42,2.77,63,1.93,50,66,0.3,2,1,0,3,67,50
+30300,Charles Oliveira,1989-10-17,71,155,Macaco Gold Team,Featherweight,Brazil,74,3.17,50,3.04,52,2.66,37,58,2.7,9,5,0,14,64,89
+30452,Sean Strickland,1991-02-27,73,170,CQuence Jiu-Jitsu,Welterweight,United States,76,4.31,37,2.81,66,1.52,50,72,0.6,3,1,0,4,75,67
+31096,Alan Patrick Silva Alves,1983-07-19,71,155,X-Gym,Lightweight,Brazil,,,,,,,,,,2,1,0,3,67,50
+31103,Francisco Trinaldo,1978-08-24,68,155,Evolucao Thai,Lightweight,Brazil,70,3.35,47,2.31,60,1.14,41,58,0.5,9,3,0,12,75,44
+31239,Tony Ferguson,1984-02-12,72,155,Team Death Clutch,Lightweight,United States,76,5.23,42,3.43,65,0.71,42,81,1.5,10,1,0,11,91,70
+31372,Felipe Arantes,1988-02-09,68,135,Chute Boxe,Bantamweight,Brazil,73,2.43,49,2.33,63,1.13,56,42,0.9,4,3,1,8,50,50
+31496,Amanda Nunes,1988-05-30,65,135,American Top Team,Bantamweight,Brazil,69,4.69,53,2.9,49,2.04,38,73,1.2,4,1,0,5,80,100
+31766,James Krause,1986-06-04,74,155,Glory MMA and Fitness,Lightweight,United States,73,4.25,43,4.36,60,1.17,17,26,0.7,4,3,0,7,57,75
+31808,Zak Cummings,1984-08-02,72,170,Glory MMA and Fitness,Welterweight,United States,75,2.43,30,2.89,52,1.37,38,71,0.8,3,1,0,4,75,67
+31978,Kenny Robertson,1984-02-14,70,170,Central Illinois Combat Club,Welterweight,United States,74,3.72,47,3.02,52,1.37,26,57,0.8,4,4,0,8,50,75
+32051,Ricardo Lamas,1982-05-21,68,145,MMA Masters,Featherweight,United States,71,2.58,42,2.55,57,1.67,31,45,1.1,7,2,0,9,78,57
+32432,Costas Philippou,1979-11-29,71,185,Bellmore Kickboxing Academy,Middleweight,United States,73,2.19,35,2.73,54,0.4,42,65,0.3,6,4,0,10,60,50
+33095,Brad Tavares,1987-12-21,71,185,Xtreme Couture,Middleweight,United States,74,3.12,41,2.49,55,1.29,32,75,0,8,4,0,12,67,12
+33156,Sean O'Connell,1983-09-02,73,205,,Light Heavyweight,United States,74,5.46,48,6.77,45,0,0,30,0.5,2,3,0,5,40,100
+33161,Mairbek Taisumov,1988-08-08,69,155,Team Taisumov,Lightweight,Russia,73,3.26,43,2.15,61,2.24,77,85,0,4,1,0,5,80,75
+33342,Pat Barry,1979-07-07,71,235,Team Death Clutch,Heavyweight,United States,74,2.72,52,3.54,59,0,0,76,0.2,5,7,0,12,42,80
+33926,Brendan Schaub,1983-03-18,76,245,Reign MMA,Heavyweight,United States,78,2.92,37,2.22,57,2.32,46,72,0.4,5,5,0,10,50,60
+33932,Cat Zingano,1982-07-01,66,135,Zingano Brazilian Jiu-Jitsu,Bantamweight,United States,68,2.18,68,1.44,43,2.66,87,50,1.5,2,1,0,3,67,100
+34071,Amir Sadollah,1980-08-27,71,170,Syndicate MMA,Welterweight,United States,74,4.71,46,3.55,60,0.57,27,60,0.3,6,5,0,11,55,33
+34072,Matt Riddle,1986-01-14,73,170,Throwdown,Welterweight,United States,,,,,,,,,,7,3,0,10,70,14
+34124,Court McGee,1984-12-12,71,170,The Pit Elevated Fight Team,Welterweight,United States,75,4.9,36,3.42,62,2.17,27,70,0.6,6,3,0,9,67,33
+34236,Myles Jury,1988-10-31,71,145,Power MMA,Lightweight,United States,73,2.29,35,1.49,71,2.61,52,0,0.4,6,2,0,8,75,50
+34371,Issei Tamura,1984-03-12,65,135,Krazy Bee,Featherweight,Japan,63,1.89,53,4.58,44,0.92,25,33,0,1,2,0,3,33,100
+34376,Christian Morecraft,1986-09-08,78,260,Team Bombsquad,Heavyweight,United States,81,2.82,34,2.46,46,3.26,66,50,2.2,1,3,0,4,25,100
+35142,Carlos Eduardo Rocha,1981-07-12,70,170,American Kickboxing Academy,Welterweight,Brazil,70,1.24,34,1.85,55,0,0,52,1.4,1,2,0,3,33,100
+35410,Sam Alvey,1986-05-06,74,185,Team Quest,Middleweight,United States,75,3.6,48,3.8,56,0,0,85,0.2,3,2,0,5,60,100
+35448,Pablo Garza,1983-09-16,73,145,Academy of Combat Arts,Featherweight,United States,73,3.37,44,2.7,50,0.94,25,15,1.3,3,3,0,6,50,67
+35509,Erik Perez,1989-11-19,68,135,Jackson-Wink MMA,Bantamweight,Mexico,68,3.16,40,2.09,66,3.16,55,69,0.2,5,2,0,7,71,60
+35867,John Cholish,1983-12-17,71,155,Renzo Gracie Jiu-Jitsu,Lightweight,United States,72,2.65,49,2.29,73,1.82,31,78,0.4,1,2,0,3,33,100
+36155,Chan Sung Jung,1987-03-17,69,145,Korean Zombie MMA,Featherweight,South Korea,72,3.76,38,3.44,62,1.11,71,68,0.9,3,1,0,4,75,100
+36403,Walel Watson,1984-07-16,71,135,Team Hurricane Awesome,Bantamweight,United States,69,2.1,29,3.79,43,0,0,61,1.4,1,3,0,4,25,100
+36618,Maximo Blanco,1983-10-16,68,145,Yoshida Dojo,Featherweight,Venezuela,71,4.11,44,3.19,66,1.85,36,63,0.3,4,4,0,8,50,25
+36889,James Moontasri,1988-04-10,70,170,Black House,Lightweight,United States,71,2.39,48,3.86,40,0,0,79,0.2,2,2,0,4,50,100
+36939,Jussier da Silva,1985-04-14,65,125,Kimura Nova Uniao,Flyweight,Brazil,,,,,,,,,,4,3,0,7,57,25
+36963,Ramsey Nijem,1988-04-01,71,155,Skrap Pack,Lightweight,United States,75,3.05,44,1.62,62,5.32,62,55,1.1,5,5,0,10,50,40
+37351,Roland Delorme,1983-12-18,69,135,Winnipeg Academy of MMA,Bantamweight,Canada,71,2.28,44,4.32,40,2.51,34,42,1.6,3,3,0,6,50,67
+37402,John Makdessi,1985-05-03,68,155,Tristar Gym,Lightweight,Canada,68,5.39,51,3.95,71,0,0,87,0,6,5,0,11,55,50
+37404,Mitch Gagnon,1984-10-10,66,135,Troop MMA,Bantamweight,Canada,65,3.18,48,2.13,63,1.43,26,67,1.9,4,2,0,6,67,75
+37452,Justin Edwards,1983-01-26,70,155,Team Jorge Gurgel,Lightweight,United States,70,2.68,42,3.32,51,2.14,26,27,1,2,5,0,7,29,50
+37528,Jimi Manuwa,1980-02-18,72,205,Keddles Gym,Light Heavyweight,England,79,3.64,59,2.98,48,0.76,25,63,0.5,4,2,0,6,67,75
+38190,Rony Mariano Bezerra,1984-03-21,67,145,Evolucao Thai,Featherweight,Brazil,,,,,,,,,,4,2,0,6,67,75
+38393,Chad Mendes,1985-05-01,66,145,Team Alpha Male,Featherweight,United States,66,2.7,49,2.16,68,4.16,54,100,0.3,8,4,0,12,67,62
+38671,Max Holloway,1991-12-04,71,145,Gracie Technics,Featherweight,United States,69,5.67,43,3.74,67,0.32,80,83,0.6,11,3,0,14,79,64
+38841,Mackens Semerzier,1980-11-03,69,145,Team Curran,Featherweight,United States,72,2.91,45,3.48,46,2.14,50,50,2.1,1,1,0,2,50,100
+38842,Ovince St. Preux,1983-04-08,75,205,Knoxville MMA,Light Heavyweight,United States,,,,,,,,,,7,2,0,9,78,86
+38903,Cody Gibson,1987-09-11,70,135,Elite Team,Bantamweight,United States,71,2.47,31,2.54,63,1.85,38,58,0.4,1,3,0,4,25,100
+39537,Stipe Miocic,1982-08-19,76,240,Strong Style Fight Team,Heavyweight,United States,80,5.03,50,3.26,62,2.14,35,72,0,8,2,0,10,80,62
+39575,Jessica Eye,1986-07-27,66,135,Strong Style Fight Team,Bantamweight,United States,66,3.52,36,3.43,59,0.16,100,61,0.2,1,3,0,4,25,100
+39781,Dustin Pague,1987-08-05,69,135,Disciple MMA,Lightweight,United States,74,1.65,53,2.96,41,1.03,44,55,2.6,1,5,0,6,17,100
+40207,Ilir Latifi,1983-07-28,68,205,Pancrase Gym Sweden,Light Heavyweight,Sweden,73,1.84,34,2.91,53,1.97,27,100,0.7,4,2,0,6,67,100
+40238,Karlos Vemola,1985-07-01,72,205,London Shootfighters,Light Heavyweight,Czech Republic,,,,,,,,,,2,4,0,6,33,100
+40436,Willie Gates,1987-01-21,68,125,Pinnacle MMA,Flyweight,United States,70,1.8,38,4.28,38,0,0,67,0.4,1,2,0,3,33,100
+40518,Scott Askham,1988-05-25,75,185,Atherton Submission Wrestling,Middleweight,England,,,,,,,,,,1,2,0,3,33,100
+40623,Godofredo Castro,1987-07-02,67,145,Evolucao Thai,Featherweight,Brazil,,,,,,,,,,3,3,0,6,50,67
+40954,Jimmie Rivera,1989-06-29,64,135,Team Tiger Schulmann,Bantamweight,United States,68,4.52,40,2.97,66,0.97,33,100,0,3,0,0,3,100,33
+40956,Nick Pace,1987-04-17,67,135,Team Tiger Schulmann,Bantamweight,United States,68,1.48,34,3.14,57,2.52,43,54,0.5,1,2,0,3,33,100
+41247,Dustin Kimura,1989-05-21,66,135,Gracie Technics,Bantamweight,United States,71,1.33,21,3.82,51,0.93,37,50,2.2,2,3,0,5,40,100
+41494,Augusto Montano,1984-10-25,73,170,Bonebreakers Team,Welterweight,Mexico,73,3.46,46,2.66,56,0,0,66,0,1,1,0,2,50,100
+41523,Adlan Amagov,1986-10-30,71,170,Jackson-Wink MMA,Welterweight,Russia,76,3.29,47,0.82,78,5.84,56,100,0,2,0,0,2,100,50
+41524,Rashid Magomedov,1984-05-14,69,155,Gorec,Lightweight,Russia,,,,,,,,,,4,0,0,4,100,25
+41586,Alex Caceres,1988-06-20,69,145,MMA Lab,Bantamweight,United States,73,3.72,49,2.49,63,0.68,81,56,0.9,6,6,0,12,50,33
+41745,Germaine de Randamie,1984-04-24,69,145,American Kickboxing Academy,Bantamweight,Netherlands,71,3.2,47,2.28,66,0,0,86,0.2,2,1,0,3,67,50
+41906,John Lineker,1990-06-12,62,135,OCS Jiu-Jitsu,Flyweight,Brazil,67,5.01,39,4.05,55,0.62,60,67,0.6,7,2,0,9,78,71
+42432,Felice Herrig,1984-09-18,64,115,Team Curran,Strawweight,United States,65,2.72,32,3.89,51,1.5,40,50,1.9,1,1,0,2,50,100
+42605,Tyron Woodley,1982-04-17,69,170,American Top Team Evolution,Welterweight,United States,,,,,,,,,,5,2,0,7,71,80
+42802,Gian Villante,1985-04-18,74,205,Bellmore Kickboxing Academy,Light Heavyweight,United States,,,,,,,,,,4,3,0,7,57,75
+42804,Chris Weidman,1984-06-17,74,185,Serra-Longo Fight Team,Middleweight,United States,78,3.09,44,2.9,53,3.33,49,71,0.9,9,1,0,10,90,67
+42817,Al Iaquinta,1987-04-30,67,155,Serra-Longo Fight Team,Lightweight,United States,70,4.91,41,3.72,64,1.25,29,84,0.5,7,2,0,9,78,43
+42901,Michael Kuiper,1989-06-07,72,185,Team Topfighter,Light Heavyweight,Netherlands,73,3.28,54,3.62,54,2.3,55,79,0,1,3,0,4,25,100
+43107,Vagner Rocha,1982-06-06,71,155,Team VRMA,Lightweight,Brazil,73,2.64,42,4.5,48,1.4,33,50,1.9,1,3,0,4,25,100
+43621,Brian Melancon,1982-05-28,68,170,Paradigm Training Center,Welterweight,United States,72,4.18,49,3.64,64,2.02,100,66,0,1,1,0,2,50,100
+43796,John Albert,1986-10-13,69,135,Victory Athletics,N/A,United States,68,3.05,49,2.82,35,0,0,50,6.1,1,4,0,5,20,100
+43866,Clint Hester,1986-11-21,74,205,X3 Sports,Middleweight,United States,77,3.36,42,3.44,56,1.02,35,60,0,4,2,0,6,67,50
+44442,Bradley Scott,1989-06-22,73,185,Dragons Lair MMA,Middleweight,England,,,,,,,,,,2,2,0,4,50,100
+44627,Alvaro Herrera,1990-05-14,72,170,UAG MMA,Welterweight,Mexico,74,1.71,45,2.88,56,0,0,20,0,1,0,0,1,100,100
+44683,John Salter,1985-03-21,73,185,Dethrone Base Camp,Middleweight,United States,74,1.68,32,1.68,68,2.85,46,66,0.5,1,2,0,3,33,100
+45108,Jon Tuck,1984-08-28,70,155,MMA Lab,Lightweight,Guam,73,3.1,39,3.75,61,0.49,37,55,0.8,3,2,0,5,60,67
+45122,Daniel Hooker,1990-02-13,72,145,Saigon Sports Club,Featherweight,New Zealand,,,,,,,,,,2,2,0,4,50,100
+45132,Robert Whittaker,1990-12-20,71,185,PMA Super Martial Arts Centre,Middleweight,Australia,73,5.07,41,4.09,63,0.59,66,93,0,6,2,0,8,75,50
+45230,Louis Gaudinot,1984-08-28,63,125,Team Tiger Schulmann,Flyweight,United States,63,2.34,37,6.42,48,0.57,40,31,1.1,1,3,0,4,25,100
+45417,Rustam Khabilov,1986-11-04,70,155,Jackson-Wink MMA,Lightweight,Russia,73,2.1,36,1.53,66,4.32,49,62,0.1,3,2,0,5,60,67
+45452,Demetrious Johnson,1986-08-13,63,125,AMC Pankration,Flyweight,United States,66,3.31,52,1.74,65,3.54,54,62,0.5,11,1,1,13,85,36
+45624,Shawn Jordan,1984-10-21,72,260,American Top Team,Heavyweight,United States,75,2.87,50,3.3,47,1.97,38,76,0.1,6,4,0,10,60,100
+45986,Tom Breese,1991-09-26,75,170,Tristar Gym,Welterweight,England,73,3.61,49,2.65,63,0,0,72,0.4,2,0,0,2,100,100
+46202,Philip De Fries,1986-04-21,76,250,Alliance MMA,Heavyweight,England,82,2.3,47,3,37,3.29,42,100,0.6,2,3,0,5,40,50
+46224,Michael Chiesa,1987-12-07,73,155,Sikjitsu,Lightweight,United States,75,2.26,37,2.38,52,2.87,40,72,1.5,6,2,0,8,75,67
+46259,Edson Barboza,1986-01-21,71,155,Ricardo Almeida Jiu-Jitsu,Lightweight,Brazil,75,3.99,41,3.42,64,0.62,53,86,0.1,10,4,0,14,71,50
+46307,Joe Proctor,1985-08-10,70,155,Team Aggression,Lightweight,United States,72,3.46,36,3.7,61,0,0,70,1.9,4,3,0,7,57,75
+46542,Leslie Smith,1982-08-17,69,135,Cesar Gracie Fight Team,Bantamweight,United States,66,6.81,37,8.38,52,0,0,66,0,1,2,0,3,33,100
+47066,Yosdenis Cedeno,1985-02-12,68,155,Blackzillians,Lightweight,Cuba,69,1.64,29,1.6,67,0,0,31,0.3,1,3,0,4,25,100
+47105,Robert Whiteford,1983-04-12,69,145,Dinky Ninjas,Featherweight,Scotland,,,,,,,,,,2,2,0,4,50,50
+47183,Shinsho Anzai,1985-12-01,69,170,Team Climb,Welterweight,Japan,70,3.58,65,4.12,44,2.99,25,100,0,1,1,0,2,50,100
+47227,Chas Skelly,1985-05-11,71,145,Team Takedown,Featherweight,United States,72,1.84,38,3.29,46,1.88,37,41,2.9,4,0,0,4,100,75
+47549,Norman Parke,1986-12-22,71,155,Next Generation NI,Lightweight,Northern Ireland,70,3.06,35,2.88,64,1.98,26,77,0,5,2,1,8,62,20
+48046,Jim Hettes,1987-06-09,69,145,Northeast Jiu-Jitsu,Featherweight,United States,,,,,,,,,,3,3,0,6,50,67
+48566,Ryan Benoit,1989-08-25,65,125,Janjira Muay Thai,Flyweight,United States,68,2.08,32,3.16,60,0.31,25,59,0.3,1,2,0,3,33,100
+48820,Jon Madsen,1980-02-12,72,240,HIT Squad,Heavyweight,United States,72,2.46,41,1.18,81,1.32,71,70,0,4,1,0,5,80,25
+49516,Daniel Kelly,1977-10-31,72,185,Resilience Training Centre,Middleweight,Australia,70,3.67,40,3.99,65,2.42,50,80,0.2,3,1,0,4,75,33
+49519,Matt Mitrione,1978-07-15,75,265,Blackzilians,Heavyweight,United States,79,3.55,50,2.79,64,0,0,55,0.7,9,5,0,14,64,89
+50381,Cody Garbrandt,1991-07-07,67,135,Strong Style Fight Team,Bantamweight,United States,65,3.58,37,3.04,68,1.19,38,100,0,2,0,0,2,100,100
+50529,Dustin Poirier,1989-01-19,69,155,American Top Team,Lightweight,United States,72,4.97,49,3.38,57,1.79,40,68,1.3,11,3,0,14,79,64
+50586,Mike Wilkinson,1987-09-15,68,145,Atherton Submission Wrestling,Featherweight,England,68,2.35,38,3.7,35,0.92,14,55,0.9,2,1,0,3,67,50
+50588,Ian Entwistle,1986-11-19,68,135,Apex MMA,Bantamweight,England,64,0.11,7,7.36,31,0,0,0,12.1,1,1,0,2,50,100
+50883,Julianna Pena,1989-08-19,67,135,SikJitsu,Bantamweight,United States,69,2.95,52,1.2,44,2.79,52,22,1.2,3,0,0,3,100,67
+51163,Caio Magalhaes,1987-12-14,73,185,Dragon Fight,Middleweight,Brazil,73,2.27,40,2.78,56,1.05,15,58,1.6,4,2,0,6,67,75
+51225,Chris Holdsworth,1987-10-14,71,135,Team Alpha Male,Bantamweight,United States,,,,,,,,,,2,0,0,2,100,50
+51345,Lorenz Larkin,1986-09-03,71,170,Millennia MMA,Welterweight,United States,72,3.53,46,2.74,63,0.27,42,79,0.1,3,5,0,8,38,67
+51471,Bryan Barberena,1989-05-03,72,170,MMA Lab,Lightweight,United States,72,5.17,48,4.23,49,0.45,40,46,0.2,2,1,0,3,67,100
+51728,Marcos Vinicius Borges Pancini,1979-12-05,69,145,Team Bronx,Featherweight,Brazil,,,,,,,,,,1,2,0,3,33,100
+51955,Marcos Rogerio de Lima,1985-06-25,73,205,011 MMA Team,Light Heavyweight,Brazil,75,4.79,55,4.36,50,0,0,33,1.6,2,1,0,3,67,100
+52311,Daniel Cormier,1979-03-20,71,205,American Kickboxing Academy,Light Heavyweight,United States,72,3.77,48,2.05,61,1.93,42,80,0.4,6,1,0,7,86,50
+52407,Pedro Munhoz,1986-09-07,66,135,Black House,Bantamweight,Brazil,64,3.93,38,6.26,56,1.06,18,50,1.8,1,2,0,3,33,100
+53205,Sam Sicilia,1986-02-01,68,145,Sikjitsu,Featherweight,United States,67,2.76,36,3.53,57,1.69,43,73,1,5,5,0,10,50,60
+53207,Thiago de Oliveira Perpetuo,1986-12-14,70,170,Furacao Fight Team,Welterweight,Brazil,,,,,,,,,,1,2,0,3,33,100
+53300,Anthony Birchak,1986-05-16,68,135,Luta Elite MMA,Bantamweight,United States,69,3.98,35,2.26,66,0.68,16,83,0,1,2,0,3,33,100
+53369,Chris Beal,1985-08-06,67,125,KnuckleHeadz Boxing,Flyweight,United States,69,3.45,35,3.18,61,1.6,58,78,0.2,2,2,0,4,50,50
+53375,Piotr Hallmann,1987-08-25,69,155,Mighty Bulls Gdynia,Lightweight,Poland,71,3.98,45,3.17,58,2.55,44,70,0.4,2,4,0,6,33,100
+53717,Daron Cruickshank,1985-06-11,68,155,Michigan Top Team,Lightweight,United States,72,2.88,38,2.98,57,2.04,41,60,0.2,6,6,0,12,50,50
+53933,Matt Dwyer,1989-12-17,76,170,Toshido Mixed Martial Arts,Welterweight,Canada,76,2.57,34,3.24,54,0.44,10,60,0,1,3,0,4,25,100
+54124,Alex Garcia,1987-07-14,69,170,Tristar Gym,Welterweight,Canada,72,2.14,35,3.23,61,4.71,62,55,0,3,2,0,5,60,33
+54303,Daniel Omielanczuk,1982-08-31,72,247,Ankos Zapasy,Heavyweight,Poland,74,2.94,64,2.96,42,0.78,33,47,0.2,2,2,0,4,50,100
+54620,Niklas Backstrom,1989-08-22,72,145,Allstars Training Center,Featherweight,Sweden,74,1.12,41,3.65,40,2.92,80,72,2.2,1,1,0,2,50,100
+54833,Mike Rio,1981-07-06,70,155,Zen Jiu-Jitsu,Lightweight,United States,71,1.68,39,2.99,53,2.58,27,0,1,1,3,0,4,25,100
+55159,John Moraga,1984-03-20,66,125,Arizona Combat Sports,Flyweight,United States,66,2.4,39,2.89,56,0.58,20,40,0.7,5,3,0,8,62,80
+55954,Alex White,1988-10-22,72,155,Team Destruction,Featherweight,United States,71,3.57,37,2.83,67,1.02,40,58,0.3,2,2,0,4,50,50
+56035,Khabib Nurmagomedov,1988-09-20,70,155,Fightspirit Team,Lightweight,Russia,70,3.82,50,1.5,70,6.15,48,83,0.6,6,0,0,6,100,33
+56567,Luke Barnatt,1988-04-13,78,185,Tsunami Gym,Middleweight,England,77,4.43,36,3.87,59,0.63,42,63,0.4,3,3,0,6,50,67
+56583,Beneil Dariush,1989-05-06,70,155,Kings MMA,Lightweight,United States,72,3.64,47,2.87,60,1.45,27,75,0.8,6,1,0,7,86,50
+56689,Doo Ho Choi,1991-04-06,69,143,Gumi MMA,Featherweight,South Korea,,,,,,,,,,2,0,0,2,100,100
+57269,Colby Covington,1988-02-22,71,170,American Top Team,Welterweight,United States,72,2.51,51,1.43,60,6.79,54,0,0.4,3,1,0,4,75,67
+57343,Edimilson Souza,1984-10-17,72,145,DS Team,Featherweight,Brazil,,,,,,,,,,3,1,0,4,75,67
+58065,Dennis Bermudez,1986-12-13,66,145,Long Island MMA,Featherweight,United States,66,4.32,46,2.8,57,4.16,43,91,1.3,8,3,0,11,73,38
+58097,Dustin Ortiz,1988-12-25,65,125,Roufusport,Flyweight,United States,65,3.02,45,2.33,54,2.4,31,55,0.1,4,3,0,7,57,50
+58213,Jason Saggo,1985-11-23,71,155,Wulfrun MMA,Lightweight,Canada,71,2.31,40,2.7,51,2.48,39,20,0,1,1,0,2,50,100
+58385,Andre Fili,1990-06-25,70,145,Team Alpha Male,Featherweight,United States,74,3.38,38,2.55,60,2.85,46,58,0.2,3,2,0,5,60,67
+58594,Jon delos Reyes,1987-08-19,65,125,Countershot MMA,Flyweight,United States,67,2.99,38,4.14,51,3.2,83,55,1.9,1,3,0,4,25,100
+58947,Anthony Hamilton,1980-04-14,77,260,Jackson-Wink MMA,Heavyweight,United States,76,4.51,67,3.01,42,2.84,52,83,0,2,3,0,5,40,50
+59197,Misha Cirkunov,1987-02-27,75,205,Xtreme Couture,Light Heavyweight,Latvia,77,3.97,52,2.28,70,4.96,56,66,1.6,2,0,0,2,100,100
+59284,Derrick Lewis,1985-02-07,75,260,Silverback Fight Club,Heavyweight,United States,79,3.16,54,1.08,47,0.8,33,56,0,5,2,0,7,71,100
+59608,Stephen Thompson,1983-02-11,72,170,Team Upstate Karate,Welterweight,United States,75,4.06,44,2.75,58,0.64,50,78,0,7,1,0,8,88,71
+59838,Steven Ray,1990-03-25,70,155,Higher Level MMA,Lightweight,Scotland,,,,,,,,,,3,0,0,3,100,67
+60198,Albert Tumenov,1991-12-26,71,170,K Dojo Warrior Tribe,Welterweight,Russia,73,3.76,42,3.34,58,0.2,20,75,0,5,1,0,6,83,60
+60762,Yoel Romero,1977-04-30,70,185,American Top Team,Middleweight,United States,73,3.26,54,2.01,63,1.96,38,77,0,7,0,0,7,100,71
+60790,Ben Alloway,1981-02-19,70,170,BBA Mixed Martial Arts,Welterweight,Australia,,,,,,,,,,1,2,0,3,33,100
+61266,Marion Reneau,1977-06-20,66,135,Elite Team,Bantamweight,United States,68,3.64,37,2.85,69,0.5,100,60,0.8,2,2,0,4,50,50
+62507,T.J. Dillashaw,1986-02-07,66,135,Elevation Fight Team,Bantamweight,United States,,,,,,,,,,8,3,0,11,73,75
+62665,Leon Edwards,1991-08-25,70,170,UTC Birmingham,Welterweight,England,74,1.89,46,1.93,58,1.03,29,65,0.4,2,2,0,4,50,50
+62703,Kailin Curran,1991-04-11,63,115,Reign MMA,Strawweight,United States,65,3.48,41,4.07,52,2.29,80,67,0.9,1,2,0,3,33,100
+63070,Yuta Sasaki,1989-10-07,70,135,Wajutsu Keishukai Suruga,Bantamweight,Japan,,,,,,,,,,1,2,0,3,33,100
+63284,Andrew Craig,1986-01-15,73,170,Team Tooke,Welterweight,United States,76,2.39,40,3.01,50,0.53,37,72,0,3,4,0,7,43,33
+63410,Carla Esparza,1987-10-10,61,115,Team Oyama,Strawweight,United States,63,2.07,48,3,51,4.62,35,83,0.4,1,1,0,2,50,100
+63616,Patrick Holohan,1988-05-03,69,125,SBG Ireland,Flyweight,Ireland,,,,,,,,,,3,2,0,5,60,33
+63813,Zubaira Tukhugov,1991-01-15,68,145,Tiger Muay Thai,Featherweight,Russia,68,2.53,35,2.09,69,2.13,46,100,0,3,0,0,3,100,33
+64373,Cathal Pendred,1987-09-02,73,170,SBG Ireland,Welterweight,Ireland,75,2.49,44,3.01,55,2.46,23,83,0.4,4,2,0,6,67,25
+64413,Kyoji Horiguchi,1990-10-12,65,125,American Top Team,Flyweight,Japan,66,3.6,45,2.45,62,2,44,55,0,5,1,0,6,83,40
+64593,Santiago Ponzinibbio,1986-09-26,72,170,Team Nogueira,Welterweight,Argentina,73,4.15,40,4.36,63,0.24,16,60,0,3,2,0,5,60,67
+64677,Danny Roberts,1987-07-14,72,170,Next Generation UK,Welterweight,England,74,4.53,39,4.16,57,0,0,53,0.5,1,0,0,1,100,100
+64792,Louis Smolka,1991-07-16,69,125,Hawaii Elite MMA,Flyweight,United States,68,4.17,48,2.93,55,1.97,36,38,2.6,4,1,0,5,80,50
+65310,Brian Ortega,1991-02-21,69,145,Black House,Featherweight,United States,69,3.21,33,3.87,59,0.36,25,61,1.8,2,0,0,2,100,100
+65456,Hugo Viana,1982-09-26,66,135,Champion Team,Bantamweight,Brazil,67,3.05,38,3.2,57,0.22,6,50,0,3,3,0,6,50,33
+65649,Alex Chambers,1978-10-28,63,115,VT-1 Gym,Strawweight,Australia,,,,,,,,,,1,2,0,3,33,100
+65878,Alan Jouban,1982-11-25,72,171,Black House,Welterweight,United States,,,,,,,,,,3,2,0,5,60,67
+66313,Aljamain Sterling,1989-07-31,67,135,Serra-Longo Fight Team,Bantamweight,United States,71,3.08,45,1.22,67,2.43,40,46,1.3,4,0,0,4,100,75
+66410,Eddie Gordon,1983-07-22,72,185,Serra-Longo Fight Team,Middleweight,United States,76,2.03,32,2.57,60,1.93,83,63,0,1,3,0,4,25,100
+66474,Vicente Luque,1991-11-27,71,170,Blackzilians,Welterweight,United States,75,2.99,47,2.18,50,2.11,80,41,1.6,1,1,0,2,50,100
+66725,Lauren Murphy,1983-07-27,68,135,Gracie Barra Katy,Bantamweight,United States,67,3.79,45,3.29,54,1,25,65,0,1,2,0,3,33,100
+66883,Josh Sampo,1984-07-24,64,125,Team Oyama,Flyweight,United States,,,,,,,,,,1,3,0,4,25,100
+67007,Liz Carmouche,1984-02-19,66,135,Team Hurricane Awesome,Bantamweight,United States,66,3.27,54,2.8,60,2.81,46,66,0.2,2,3,0,5,40,50
+67094,Sara McMann,1980-09-24,65,135,Revolution MMA,Bantamweight,United States,66,2.37,45,2.05,49,4.8,69,100,0.5,2,3,0,5,40,50
+68130,Christos Giagos,1990-01-23,70,155,Systems Training Center,Lightweight,United States,71,2.16,38,1.68,47,0.65,20,37,0.7,1,2,0,3,33,100
+68205,Paul Felder,1985-04-25,70,155,Renzo Gracie Philly,Lightweight,United States,,,,,,,,,,3,2,0,5,60,67
+68494,Derek Brunson,1984-01-04,73,185,Jackson's Mixed Martial Arts,Middleweight,United States,77,3.13,46,2.62,50,3.13,32,100,0.7,6,1,0,7,86,67
+68788,Michael Johnson,1986-06-04,70,155,Blackzilians,Lightweight,United States,73,3.77,35,3.74,58,0.58,53,79,0.1,8,6,0,14,57,38
+69083,Rose Namajunas,1992-06-29,65,115,The Academy,Strawweight,United States,65,3.21,42,3.14,60,3.15,58,50,1.1,2,1,0,3,67,100
+69166,Neil Magny,1987-08-03,75,170,Grudge Training Center,Welterweight,United States,80,4.04,50,2,56,2.71,46,59,0.4,10,3,0,13,77,40
+69406,Makwan Amirkhani,1988-11-08,71,145,Allstars Training Center,Featherweight,Finland,72,2.26,66,0.83,41,4.46,62,0,1.8,2,0,0,2,100,100
+69607,Patrick Williams,1981-09-07,68,135,Freestyle Fighting Academy,Bantamweight,United States,73,2.21,41,2.63,62,4.15,66,100,2.1,1,1,0,2,50,100
+69858,Vik Grujic,1977-02-06,71,170,Alliance MMA,Welterweight,Australia,73,2.24,48,3.39,41,1.18,33,26,0.4,1,3,0,4,25,100
+70750,Warlley Alves,1991-01-04,71,170,X-Gym,Welterweight,Brazil,72,2.86,47,4.5,50,1.14,55,75,1.4,4,0,0,4,100,75
+71116,Charles Rosa,1986-08-24,70,145,American Top Team,Featherweight,United States,69,3.18,37,3.52,50,3.27,38,50,1.3,2,2,0,4,50,50
+71120,Justin Scoggins,1992-05-02,67,135,,Flyweight,United States,66,3.75,53,1.71,60,4.26,66,84,0.6,4,2,0,6,67,25
+71237,Garreth McLellan,1982-01-09,73,185,FightFit Militia,Middleweight,South Africa,,,,,,,,,,1,1,0,2,50,100
+72981,Patrick Cummins,1980-11-16,74,205,Reign MMA,Light Heavyweight,United States,76,4.32,52,2.75,57,6.87,51,80,0.2,4,3,0,7,57,50
+73073,Ronda Rousey,1987-02-01,66,135,Team Hayastan,Bantamweight,United States,68,4.17,52,4.14,44,6.26,68,50,4.8,6,1,0,7,86,100
+73436,Darren Till,1992-12-24,72,170,Astra Fight Team,Welterweight,England,74,3.42,57,4.9,49,0,0,71,0,1,0,1,2,50,100
+73756,Justin Lawrence,1990-05-15,68,145,Power MMA,Featherweight,United States,67,3.84,35,2.83,67,0.72,28,73,0,1,2,0,3,33,100
+74700,Kelvin Gastelum,1991-10-24,69,185,Yuma United Mixed Martial Arts,Welterweight,United States,71,3.99,43,2.74,63,1.04,50,62,0.2,6,2,0,8,75,50
+74975,Luke Sanders,1985-12-12,67,145,The MMA Lab,Bantamweight,United States,67,7.16,54,4.4,58,0,0,0,4.1,1,0,0,1,100,100
+75125,Holly Holm,1981-10-17,68,145,Jackson-Wink MMA,Bantamweight,United States,69,3.08,34,2.65,59,0.27,18,78,0,3,0,0,3,100,33
+75564,Raquel Pennington,1988-09-05,67,135,Altitude MMA,Bantamweight,United States,67,3.8,51,2.92,66,1.43,43,69,1.3,3,2,0,5,60,67
+76100,Rob Font,1987-06-25,68,135,Team Sityodtong,Bantamweight,United States,71,4.29,46,3.93,63,0.99,22,33,0.5,2,0,0,2,100,100
+76763,Jared Rosholt,1986-08-04,74,265,Team Takedown,Heavyweight,United States,75,2.08,46,1.52,59,1.83,41,66,0.1,5,2,0,7,71,20
+76836,Islam Makhachev,1991-09-27,70,155,Fightspirit Team,Lightweight,Russia,,,,,,,,,,1,1,0,2,50,100
+78210,Scott Holtzman,1983-09-30,69,155,Shield Systems,Lightweight,United States,69,3.94,46,3.16,59,2.34,60,60,0.5,1,1,0,2,50,100
+79290,Geane Herrera,1990-05-27,65,125,Banks MMA,Flyweight,United States,66,1.51,31,5.07,52,0.83,37,38,0.6,1,1,0,2,50,100
+79335,Chris Wade,1987-09-30,69,155,East Islip Kickboxing,Lightweight,United States,70,1.74,54,1.81,48,2.51,57,58,0.9,4,0,0,4,100,50
+79784,Frankie Perez,1989-05-11,71,155,Ricardo Almeida Jiu-Jitsu,Lightweight,United States,73,1.73,45,2.52,56,1.08,28,44,0.5,1,1,0,2,50,100
+80231,Magomed Mustafaev,1988-08-02,69,155,Fight Club Berkut,Lightweight,Russia,71,2.83,54,2.93,36,0,0,25,0.8,2,0,0,2,100,100
+80436,Tony Martin,1989-12-11,72,155,American Top Team,Lightweight,United States,73,2.32,42,2.89,49,1.66,24,50,1.2,2,3,0,5,40,100
+81198,Ali Bagautinov,1985-06-12,64,125,Fight Nights Team,Flyweight,Russia,,,,,,,,,,3,2,0,5,60,33
+81765,Elias Theodorou,1988-05-31,73,185,Kros Gym,Middleweight,Canada,75,3.45,39,1.9,50,2.12,29,41,0,3,1,0,4,75,67
+81956,James Vick,1987-02-23,75,155,Team Lloyd Irvin,Lightweight,United States,76,3.87,38,3.28,61,0.23,25,65,1.1,4,0,0,4,100,50
+82392,Ricardo Abreu,1984-04-27,71,185,Wand Fight Team,Middleweight,Brazil,73,3.79,31,3.98,68,2.13,42,100,0.7,1,1,0,2,50,100
+83462,Omari Akhmedov,1987-10-12,72,170,Jackson-Wink MMA,Welterweight,Russia,73,2.82,34,2.6,57,2.85,50,50,0.4,3,2,0,5,60,67
+84342,Kevin Lee,1992-09-04,69,155,Xtreme Couture,Lightweight,United States,77,3.7,40,3.08,52,3.63,45,72,1.4,4,2,0,6,67,25
+84752,Ray Borg,1993-08-04,64,125,Fit NHB,Flyweight,United States,63,1.33,51,1.65,54,3.79,55,50,2.2,3,2,0,5,60,67
+84964,Bec Rawlings,1989-02-11,66,115,Gamebred Combat Club,Strawweight,Australia,64,4.13,41,4.79,57,0.55,28,75,0.3,1,1,0,2,50,100
+86241,Olivier Aubin-Mercier,1989-02-23,69,155,H2O MMA,Lightweight,Canada,70,2.91,53,2.96,57,2.99,32,83,0.7,3,2,0,5,60,67
+86382,Leandro Silva,1985-11-11,70,155,Team Buscape,Welterweight,Brazil,72,2.39,48,2.08,63,1.76,37,65,0.4,3,2,0,5,60,33
+87865,Thomas Almeida,1991-07-31,67,135,Chute Boxe,Bantamweight,Brazil,70,6.46,49,4.47,66,0,0,80,0,4,0,0,4,100,75
+88613,Elias Silverio,1986-09-22,71,155,Elias Silverio Team,Lightweight,Brazil,73,3.67,49,2.97,51,1.62,38,85,0.2,3,2,0,5,60,33
+90021,Thiago Santos,1984-01-07,72,185,Tata Fight Team,Middleweight,Brazil,76,3.29,46,2.37,63,0.33,20,72,0,4,2,0,6,67,75
+91727,Gilbert Burns,1986-07-20,70,155,Blackzilians,Lightweight,Brazil,71,2.24,36,3.4,56,1.95,30,36,1.1,3,1,0,4,75,67
+97179,Marlon Vera,1992-12-02,68,135,Team Frank Vidal 5050,Bantamweight,Ecuador,70,2.09,45,3.12,46,0.86,30,82,1.7,1,1,0,2,50,100
+97337,Taylor Lapilus,1992-04-08,66,135,MMA Factory,Bantamweight,France,73,3.77,45,2,61,0.58,40,81,0.6,2,1,0,3,67,50
+97499,Arnold Allen,1994-01-17,69,145,BKK Fighters,Featherweight,England,,,,,,,,,,1,0,0,1,100,100
+99019,Paige VanZant,1994-03-26,64,115,Team Alpha Male,Strawweight,United States,65,3.44,52,2.52,43,1.72,38,41,0.9,3,1,0,4,75,67
+100031,Lucas Martins,1988-11-11,72,145,Chute Boxe,Featherweight,Brazil,72,2.87,35,4.14,60,0,0,76,0.5,3,2,0,5,60,100
+100715,Jessica Andrade,1991-09-25,62,115,Parana Vale Tudo,Strawweight,Brazil,62,6.8,52,4.29,56,2.6,62,74,0.8,4,3,0,7,57,25
+101411,Joanna Jedrzejczyk,1987-08-18,66,115,Berkut Arrachion Olsztyn,Strawweight,Poland,65,6.45,47,2.25,69,0.23,66,81,0,5,0,0,5,100,40
+103069,Bethe Correia,1983-06-22,64,135,,Bantamweight,Brazil,64,5.16,46,3.88,62,0.22,12,85,0,3,1,0,4,75,33
+103153,Oluwale Bamgbose,1987-08-04,71,185,Chute Boxe USA,Middleweight,United States,78,1.89,42,2,51,0,0,33,0,1,1,0,2,50,100
+108571,Jonathan Wilson,1987-07-17,74,205,Millennia MMA,Light Heavyweight,United States,75,4,54,6.8,59,0.6,100,100,0,1,0,0,1,100,100
+110143,Alex Oliveira,1988-02-21,71,170,Tata Fight Team,Lightweight,Brazil,76,2.72,52,1.7,44,2.9,31,57,0.8,3,2,0,5,60,67
+110937,Nikita Krylov,1992-03-07,75,205,Vale Tudo MMA Academy,Light Heavyweight,Ukraine,77,6.55,60,2.87,45,0.37,16,42,1.8,4,2,0,6,67,100
+112413,Freddy Serrano,1979-09-22,62,125,Octagon MMA Colombia,Flyweight,Colombia,,,,,,,,,,2,0,0,2,100,100
+117927,Glaico Franca,1991-02-28,72,155,Astra Fight Team,Lightweight,Brazil,77,2.35,42,3.46,47,2.68,42,76,0.3,1,0,0,1,100,100
+120691,Kamaru Usman,1988-05-11,72,170,Blackzilians,Welterweight,United States,,,,,,,,,,2,0,0,2,100,50
+122139,Jake Matthews,1994-08-19,69,155,Nexus,Lightweight,Australia,72,3.12,46,2.11,52,2.18,40,66,0.9,3,1,0,4,75,100
+130911,Sage Northcutt,1996-03-01,72,170,Gracie Barra Katy,Lightweight,United States,71,2.77,58,1.57,49,1.65,36,40,0.8,2,1,0,3,67,100
+135315,Anying Wang,1991-04-04,72,170,Phuket Top Team,Welterweight,Mongolia,,,,,,,,,,1,1,0,2,50,100
+143157,Antonio Carlos Jr.,1990-03-16,73,185,American Top Team,Middleweight,Brazil,,,,,,,,,,2,1,0,3,67,50
+144949,Aleksandra Albu,1990-07-14,62,115,Red Fury Fight Team,Strawweight,Russia,,,,,,,,,,1,0,0,1,100,100
+151905,Maryna Moroz,1991-09-08,67,115,YK Promotion,Strawweight,Ukraine,67,2.56,22,2.92,60,0.32,33,0,0.7,1,1,0,2,50,100
+152341,Francis Ngannou,1986-09-05,76,250,MMA Factory,Heavyweight,France,83,3.4,47,1.53,59,0,0,73,0.7,1,0,0,1,100,100
+160145,Mickey Gall,1992-01-22,74,170,Miller Brothers MMA,Welterweight,United States,74,3.21,57,1.66,46,4.66,100,100,9.3,1,0,0,1,100,100
+171723,Corey Anderson,1989-09-22,75,205,The Kennel Fight Club,Light Heavyweight,United States,79,5.11,46,2.39,58,4.44,52,33,0,4,1,0,5,80,25
